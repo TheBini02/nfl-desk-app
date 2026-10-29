@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "generated_at": "2026-10-28T21:53:48.281226-05:00",
+  "generated_at": "2026-10-29T07:33:14.409032-05:00",
   "games": [
     {
       "away": "CAR",
@@ -12,7 +12,19 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Green Bay gets the Thursday spotlight, and the structure of this matchup leans Packers: home field, familiar Thursday rhythm, and a Panthers side still hunting consistency.",
-      "final_score": null
+      "final_score": null,
+      "details": {
+        "scheme": "CAR Off (0.046) vs GB Def (\u22120.029); GB Off (\u22120.001, rush \u22120.291) vs CAR Def (0.022). GAP: GB struggles more.",
+        "injuries": "CAR: QB ACTIVE; WR1 UNKNOWN (Legette IR) | GB: QB ACTIVE; WR1 UNKNOWN (Matthew Golden Q shoulder/foot; Reed IR)",
+        "edges": "Home/short-week structure leans GB; late injury flags can flip.",
+        "sources": [
+          "Week 8 mismatch preview",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "BAL",
@@ -23,8 +35,21 @@
       "why": null,
       "type": "BASE",
       "money_flag": false,
-      "summary": "The headline isn’t the stadium — it’s Lamar Jackson’s ankle, listed QUESTIONABLE. If he’s out, the Ravens’ pass edge doesn’t just soften; it can flip.",
-      "final_score": null
+      "summary": "The headline isn\u2019t the stadium \u2014 it\u2019s Lamar Jackson\u2019s ankle, listed QUESTIONABLE. If he\u2019s out, the Ravens\u2019 pass edge doesn\u2019t just soften; it can flip.",
+      "final_score": null,
+      "details": {
+        "scheme": "BAL Off (0.071) vs soft BUF Def (0.148); BUF Off (0.210, 1st) vs BAL Def (0.019). GAP: BAL struggles more.",
+        "injuries": "BAL: QB Lamar Jackson Q (ankle); WR1 UNKNOWN | BUF: QB ACTIVE; WR1 UNKNOWN (DJ Moore Q shoulder)",
+        "edges": "Huntley ~0.33 EPA/DB worse than Lamar; Q status flips BAL pass edge.",
+        "sources": [
+          "nflverse EPA thru W7",
+          "ESPN injury",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "TEN",
@@ -36,7 +61,19 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Mismatch alert: Cincinnati over Tennessee by a loud EPA gap. Burrow humming against a soft Titans pass defense; Ward meets a Bengals front that sacks at 8.9%.",
-      "final_score": null
+      "final_score": null,
+      "details": {
+        "scheme": "TEN Off (\u22120.124, 31st) vs CIN Def (\u22120.034); CIN Off (0.108) vs soft TEN Def (0.045). GAP: TEN struggles more.",
+        "injuries": "TEN: QB ACTIVE; WR1 Calvin Ridley Q (hip) | CIN: QB ACTIVE; WR1 Ja'Marr Chase Q (ankle/rest)",
+        "edges": "CIN over TEN +0.595 gap; Burrow +0.200/DB vs TEN pass D +0.134 allowed; CIN sack rate 8.9%.",
+        "sources": [
+          "nflverse EPA thru W7",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "ARI",
@@ -48,7 +85,19 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Dallas owns the edge over Arizona: Prescott and clean pockets meeting a soft Cardinals pass defense on the road.",
-      "final_score": null
+      "final_score": null,
+      "details": {
+        "scheme": "ARI Off (\u22120.024) vs soft DAL Def (0.140); DAL Off (0.142) vs soft ARI pass D (0.292). GAP: ARI struggles more.",
+        "injuries": "ARI: QB Carson Beck Q (back); WR1 Michael Wilson Q (ribs) | DAL: QB ACTIVE; WR1 George Pickens Q (shoulder/hamstring)",
+        "edges": "DAL +0.189; Prescott +0.156 vs ARI pass D +0.263 allowed; DAL sack rate allowed 2.4%.",
+        "sources": [
+          "nflverse EPA thru W7",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "MIN",
@@ -60,7 +109,19 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Detroit at home is the structural favorite in a division scrap that rarely stays quiet.",
-      "final_score": null
+      "final_score": null,
+      "details": {
+        "scheme": "MIN Off (\u22120.099) vs soft DET Def (0.149); DET Off (0.144) vs elite MIN Def (\u22120.220). GAP: DET struggles more into MIN\u2019s D.",
+        "injuries": "MIN: QB ACTIVE; WR1 UNKNOWN | DET: QB ACTIVE; WR1 Amon-Ra St. Brown Q (ankle)",
+        "edges": "Structural home lean DET; finish-drives edge TBD on free EPA sample.",
+        "sources": [
+          "Week 8 mismatch preview",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "LV",
@@ -72,7 +133,19 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Two teams still searching for a clean identity; structure favors whoever protects the football and wins early downs.",
-      "final_score": null
+      "final_score": null,
+      "details": {
+        "scheme": "LV Off (0.019, pass 0.168) vs NYJ Def (0.016); NYJ Off (0.011) vs LV Def (0.040); LV rush \u22120.252. GAP: close; LV run soft spot.",
+        "injuries": "LV: QB ACTIVE; WR1 UNKNOWN | NYJ: QB ACTIVE; WR1 UNKNOWN (Arian Smith IR)",
+        "edges": "Neither offense earned freestyle rights; first explosive play is leverage.",
+        "sources": [
+          "Week 8 mismatch preview",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "CLE",
@@ -83,8 +156,20 @@
       "why": null,
       "type": "BASE",
       "money_flag": false,
-      "summary": "Steelers–Browns in Pittsburgh: short fields, physical fronts, zero neutral vibes.",
-      "final_score": null
+      "summary": "Steelers\u2013Browns in Pittsburgh: short fields, physical fronts, zero neutral vibes.",
+      "final_score": null,
+      "details": {
+        "scheme": "CLE Off (\u22120.040) vs PIT Def (\u22120.041); PIT Off (\u22120.029, rush +0.043) vs CLE Def (\u22120.037). GAP: close; PIT run edge.",
+        "injuries": "CLE: QB ACTIVE; WR1 UNKNOWN | PIT: QB ACTIVE; WR1 UNKNOWN (Pittman IR; Skowronek Q calf)",
+        "edges": "One turnover / missed assignment often writes the script.",
+        "sources": [
+          "Week 8 mismatch preview",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "ATL",
@@ -96,7 +181,19 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "NFC South week that lives and dies on who wins the perimeter; watch which defense finishes plays early.",
-      "final_score": null
+      "final_score": null,
+      "details": {
+        "scheme": "ATL Off (\u22120.038) vs TB Def (\u22120.106); TB Off (\u22120.081, pass \u22120.130) vs ATL Def (\u22120.022). GAP: TB struggles more.",
+        "injuries": "ATL: QB ACTIVE; WR1 UNKNOWN (Zaccheaus Q shoulder) | TB: QB ACTIVE; WR1 Emeka Egbuka Q (concussion/foot)",
+        "edges": "Coin-flip structure until trenches claim it.",
+        "sources": [
+          "Week 8 mismatch preview",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "IND",
@@ -107,8 +204,20 @@
       "why": null,
       "type": "BASE",
       "money_flag": false,
-      "summary": "Mismatch city: Jacksonville over Indy — Lawrence gets a friendly look at the Colts pass D while JAX run D bothers Taylor.",
-      "final_score": null
+      "summary": "Mismatch city: Jacksonville over Indy \u2014 Lawrence gets a friendly look at the Colts pass D while JAX run D bothers Taylor.",
+      "final_score": null,
+      "details": {
+        "scheme": "IND Off (\u22120.063) vs JAX Def (\u22120.016); JAX Off (0.117) vs IND Def (0.032). GAP: IND struggles more.",
+        "injuries": "IND: QB ACTIVE; WR1 UNKNOWN (Pierce IR; Gould Q concussion) | JAX: QB ACTIVE; WR1 Jakobi Meyers Q (hamstring)",
+        "edges": "JAX over IND +0.594; Lawrence +0.275 vs IND pass D +0.082; JAX run D \u22120.173.",
+        "sources": [
+          "nflverse EPA thru W7",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "LAC",
@@ -120,7 +229,20 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Rams sit on a large gap over a 0-6 Chargers offense posting the worst stack on the board.",
-      "final_score": null
+      "final_score": null,
+      "details": {
+        "scheme": "LAC Off (\u22120.209, 32nd) vs LAR Def (\u22120.042); LAR Off (0.059) vs LAC Def (\u22120.034). GAP: LAC struggles more.",
+        "injuries": "LAC: QB ACTIVE (Lance IR backup); WR1 Ladd McConkey Q (concussion) | LAR: QB ACTIVE; WR1 Davante Adams IR (hamstring)",
+        "edges": "LAR over LAC +0.594; LAC 0-6 offense \u22120.241 pass / \u22120.201 rush / 9.5% sack rate.",
+        "sources": [
+          "nflverse EPA thru W7",
+          "ESPN injury",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "KC",
@@ -131,8 +253,20 @@
       "why": null,
       "type": "BASE",
       "money_flag": false,
-      "summary": "Kansas City holds the edge; Denver’s third-down defense sits last — a long night risk in the mountains.",
-      "final_score": null
+      "summary": "Kansas City holds the edge; Denver\u2019s third-down defense sits last \u2014 a long night risk in the mountains.",
+      "final_score": null,
+      "details": {
+        "scheme": "KC Off (0.104) vs DEN Def (\u22120.052); DEN Off (\u22120.040) vs KC Def (\u22120.046). GAP: DEN struggles more.",
+        "injuries": "KC: QB ACTIVE; WR1 Rashee Rice Q (hamstring) | DEN: QB ACTIVE; WR1 UNKNOWN (Mims Q ankle; Waddle Q chest)",
+        "edges": "KC +0.363; KC rush +0.102; DEN 3rd-down D last (\u22120.333).",
+        "sources": [
+          "nflverse EPA thru W7",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "NE",
@@ -143,8 +277,20 @@
       "why": null,
       "type": "BASE",
       "money_flag": false,
-      "summary": "Maye against the worst pass and third-down defenses in the sample — open grass and soft cushions.",
-      "final_score": null
+      "summary": "Maye against the worst pass and third-down defenses in the sample \u2014 open grass and soft cushions.",
+      "final_score": null,
+      "details": {
+        "scheme": "NE Off (0.052) vs soft MIA Def (0.127); MIA Off (\u22120.049) vs NE Def (0.017). GAP: MIA struggles more.",
+        "injuries": "NE: QB ACTIVE; WR1 A.J. Brown Q (knee/ankle) | MIA: QB ACTIVE; WR1 UNKNOWN",
+        "edges": "NE +0.342; MIA worst pass D (+0.315 allowed) and worst 3rd-down D (+0.482).",
+        "sources": [
+          "nflverse EPA thru W7",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "PHI",
@@ -155,8 +301,21 @@
       "why": null,
       "type": "BASE",
       "money_flag": false,
-      "summary": "Washington holds the edge; Philadelphia’s pass offense is the soft spot and protection leans Commanders.",
-      "final_score": null
+      "summary": "Washington holds the edge; Philadelphia\u2019s pass offense is the soft spot and protection leans Commanders.",
+      "final_score": null,
+      "details": {
+        "scheme": "PHI Off (\u22120.086) vs soft WAS Def (0.067); WAS Off (\u22120.008) vs soft PHI Def (0.104). GAP: PHI struggles more.",
+        "injuries": "PHI: QB Jalen Hurts OUT/IR (calf, season); WR1 DeVonta Smith Q (hamstring) | WSH: QB ACTIVE; WR1 Terry McLaurin OUT/IR (knee); Diggs Q (hand/hamstring)",
+        "edges": "WSH +0.299; PHI pass offense \u22120.103; protection lean WSH.",
+        "sources": [
+          "nflverse EPA thru W7",
+          "Week 7 postgame",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     },
     {
       "away": "CHI",
@@ -168,7 +327,20 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Monday night in Seattle: noise, travel, and a Seahawks defense that thrives at home.",
-      "final_score": null
+      "final_score": null,
+      "details": {
+        "scheme": "CHI Off (0.052) vs elite SEA Def (\u22120.118); SEA Off (\u22120.042) vs CHI Def (\u22120.018). GAP: CHI struggles more into SEA\u2019s D.",
+        "injuries": "CHI: QB ACTIVE; WR1 UNKNOWN | SEA: QB Drew Lock Q; WR1 Rashid Shaheed Q (knee)",
+        "edges": "SEA cleaner setup; Caleb Williams small sample (136 DBs).",
+        "sources": [
+          "nflverse EPA thru W7",
+          "Week 8 mismatch preview",
+          "ESPN NFL Injuries (Oct 28)",
+          "Scout",
+          "Tape",
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+        ]
+      }
     }
   ]
 }
