@@ -1,28 +1,29 @@
 {
   "week": 8,
-  "generated_at": "2026-10-29T07:33:14.409032-05:00",
+  "generated_at": "2026-10-29T13:35:47.739605-05:00",
   "games": [
     {
       "away": "CAR",
       "home": "GB",
       "kickoff": "Thu Oct 29 7:15 PM CT",
-      "spread": null,
+      "spread": "GB -3.5",
       "pick": null,
       "why": null,
       "type": "BASE",
-      "money_flag": false,
+      "money_flag": true,
       "summary": "Green Bay gets the Thursday spotlight, and the structure of this matchup leans Packers: home field, familiar Thursday rhythm, and a Panthers side still hunting consistency.",
       "final_score": null,
       "details": {
         "scheme": "CAR Off (0.046) vs GB Def (\u22120.029); GB Off (\u22120.001, rush \u22120.291) vs CAR Def (0.022). GAP: GB struggles more.",
         "injuries": "CAR: QB ACTIVE; WR1 UNKNOWN (Legette IR) | GB: QB ACTIVE; WR1 UNKNOWN (Matthew Golden Q shoulder/foot; Reed IR)",
-        "edges": "Home/short-week structure leans GB; late injury flags can flip.",
+        "edges": "Home/short-week structure leans GB; late injury flags can flip. $ FLAG: free EPA edges favor CAR vs market GB -3.5.",
         "sources": [
           "Week 8 mismatch preview",
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -30,7 +31,7 @@
       "away": "BAL",
       "home": "BUF",
       "kickoff": "Sun Nov 1 12:00 PM CT",
-      "spread": null,
+      "spread": "BUF -3",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -47,7 +48,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -55,7 +57,7 @@
       "away": "TEN",
       "home": "CIN",
       "kickoff": "Sun Nov 1 12:00 PM CT",
-      "spread": null,
+      "spread": "CIN -11",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -71,7 +73,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -79,7 +82,7 @@
       "away": "ARI",
       "home": "DAL",
       "kickoff": "Sun Nov 1 12:00 PM CT",
-      "spread": null,
+      "spread": "DAL -7",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -95,7 +98,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -103,23 +107,24 @@
       "away": "MIN",
       "home": "DET",
       "kickoff": "Sun Nov 1 12:00 PM CT",
-      "spread": null,
+      "spread": "DET -3.5",
       "pick": null,
       "why": null,
       "type": "BASE",
-      "money_flag": false,
+      "money_flag": true,
       "summary": "Detroit at home is the structural favorite in a division scrap that rarely stays quiet.",
       "final_score": null,
       "details": {
         "scheme": "MIN Off (\u22120.099) vs soft DET Def (0.149); DET Off (0.144) vs elite MIN Def (\u22120.220). GAP: DET struggles more into MIN\u2019s D.",
         "injuries": "MIN: QB ACTIVE; WR1 UNKNOWN | DET: QB ACTIVE; WR1 Amon-Ra St. Brown Q (ankle)",
-        "edges": "Structural home lean DET; finish-drives edge TBD on free EPA sample.",
+        "edges": "Structural home lean DET; finish-drives edge TBD on free EPA sample. $ FLAG: free EPA edges favor MIN vs market DET -3.5.",
         "sources": [
           "Week 8 mismatch preview",
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -127,7 +132,7 @@
       "away": "LV",
       "home": "NYJ",
       "kickoff": "Sun Nov 1 12:00 PM CT",
-      "spread": null,
+      "spread": "NYJ -1.5",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -143,7 +148,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -151,7 +157,7 @@
       "away": "CLE",
       "home": "PIT",
       "kickoff": "Sun Nov 1 12:00 PM CT",
-      "spread": null,
+      "spread": "PIT -3.5",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -167,7 +173,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -175,7 +182,7 @@
       "away": "ATL",
       "home": "TB",
       "kickoff": "Sun Nov 1 12:00 PM CT",
-      "spread": null,
+      "spread": "TB -2.5",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -191,7 +198,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -199,7 +207,7 @@
       "away": "IND",
       "home": "JAX",
       "kickoff": "Sun Nov 1 12:00 PM CT",
-      "spread": null,
+      "spread": "JAX -10",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -215,7 +223,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -223,7 +232,7 @@
       "away": "LAC",
       "home": "LAR",
       "kickoff": "Sun Nov 1 3:05 PM CT",
-      "spread": null,
+      "spread": "LAR -6.5",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -240,7 +249,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -248,7 +258,7 @@
       "away": "KC",
       "home": "DEN",
       "kickoff": "Sun Nov 1 3:25 PM CT",
-      "spread": null,
+      "spread": "KC -1.5",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -264,7 +274,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -272,7 +283,7 @@
       "away": "NE",
       "home": "MIA",
       "kickoff": "Sun Nov 1 3:25 PM CT",
-      "spread": null,
+      "spread": "NE -7",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -288,7 +299,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -296,7 +308,7 @@
       "away": "PHI",
       "home": "WSH",
       "kickoff": "Sun Nov 1 7:20 PM CT",
-      "spread": null,
+      "spread": "WSH -5.5",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -313,7 +325,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     },
@@ -321,7 +334,7 @@
       "away": "CHI",
       "home": "SEA",
       "kickoff": "Mon Nov 2 7:15 PM CT",
-      "spread": null,
+      "spread": "SEA -3",
       "pick": null,
       "why": null,
       "type": "BASE",
@@ -338,7 +351,8 @@
           "ESPN NFL Injuries (Oct 28)",
           "Scout",
           "Tape",
-          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)"
+          "rbsdm.com Team Tiers W1\u20137 (updated 10/29)",
+          "Consensus spread (edraft.com median, Oct 29)"
         ]
       }
     }
