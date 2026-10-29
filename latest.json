@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "generated_at": "2026-10-29T15:52:47.999568-05:00",
+  "generated_at": "2026-10-29T16:52:07.435383-05:00",
   "games": [
     {
       "away": "CAR",
@@ -11,7 +11,7 @@
       "why": "Tape leans CAR once; no second item",
       "type": "BASE",
       "money_flag": true,
-      "summary": "Picker takes CAR to win and CAR +3.5 — Tape dog lean; GB rush EPA soft spot.",
+      "summary": "Carolina to win and CAR +3.5 — Tape dog lean; GB rush EPA soft spot.",
       "final_score": null,
       "details": {
         "scheme": "CAR Off vs GB Def: Tape dog lean CAR. (rbsdm.com Team Tiers W1–7)",
@@ -39,7 +39,7 @@
       "why": "Lamar Q kills any BAL lean; BUF has the better offense",
       "type": "BASE",
       "money_flag": false,
-      "summary": "Picker takes BUF to win and BUF −3 — #1 offense; Lamar Q kills any BAL lean.",
+      "summary": "BUF to win and BUF −3 — #1 offense; Lamar Q kills any BAL lean.",
       "final_score": null,
       "details": {
         "scheme": "BAL lean muted by Lamar Q; BUF better offense. (rbsdm.com Team Tiers W1–7)",
@@ -68,7 +68,7 @@
       "why": "TEN's offense is 31st",
       "type": "BASE",
       "money_flag": false,
-      "summary": "Picker takes CIN to win and TEN +11.5 — TEN 31st offense; number too fat to lay.",
+      "summary": "CIN should win; take TEN +11.5 — TEN 31st offense, number too fat.",
       "final_score": null,
       "details": {
         "scheme": "TEN offense struggles (31st). (rbsdm.com Team Tiers W1–7)",
@@ -96,7 +96,7 @@
       "why": "ARI struggles more",
       "type": "BASE",
       "money_flag": false,
-      "summary": "Picker takes DAL to win and ARI +7 — ARI struggles more; −7 sticky cover.",
+      "summary": "DAL wins; take ARI +7 — ARI struggles more, −7 sticky.",
       "final_score": null,
       "details": {
         "scheme": "ARI struggles more in EPA gap. (rbsdm.com Team Tiers W1–7)",
@@ -124,7 +124,7 @@
       "why": "Tape leans MIN, and MIN's elite D wins on the road",
       "type": "UPSET",
       "money_flag": true,
-      "summary": "Picker takes MIN to win and MIN +3 — Tape dog lean; DET into elite MIN D.",
+      "summary": "MIN to win and MIN +3 — Tape dog lean; DET into elite MIN D.",
       "final_score": null,
       "details": {
         "scheme": "Tape dog lean MIN; elite MIN D. (rbsdm.com Team Tiers W1–7)",
@@ -152,7 +152,7 @@
       "why": "Close EPA with no Tape lean; NYJ's W7 short-home miss is one item only",
       "type": "BASE",
       "money_flag": false,
-      "summary": "Picker takes LV to win and LV +1.5 — EPA wash; fades NYJ’s W7 short-home miss.",
+      "summary": "LV to win and LV +1.5 — EPA wash; fade NYJ’s W7 short-home miss.",
       "final_score": null,
       "details": {
         "scheme": "LV/NYJ close in EPA; no lean. (rbsdm.com Team Tiers W1–7)",
@@ -180,7 +180,7 @@
       "why": "CLE-as-dog Team File is one item only; EPA is a wash",
       "type": "BASE",
       "money_flag": false,
-      "summary": "Picker takes CLE to win and CLE +3.5 — Team File CLE-as-dog; EPA wash.",
+      "summary": "CLE to win and CLE +3.5 — Team File CLE-as-dog; EPA wash.",
       "final_score": null,
       "details": {
         "scheme": "CLE/PIT EPA wash. (rbsdm.com Team Tiers W1–7)",
@@ -208,7 +208,7 @@
       "why": "Tape leans ATL, and ATL scores past its pass EPA",
       "type": "UPSET",
       "money_flag": false,
-      "summary": "Picker takes ATL to win and ATL +2.5 — Tape dog lean; ATL scores past pass EPA.",
+      "summary": "ATL to win and ATL +2.5 — Tape dog lean; ATL scores past pass EPA.",
       "final_score": null,
       "details": {
         "scheme": "Tape dog lean ATL. (rbsdm.com Team Tiers W1–7)",
@@ -236,7 +236,7 @@
       "why": "IND struggles more",
       "type": "BASE",
       "money_flag": false,
-      "summary": "Picker takes JAX to win and IND +10 — IND struggles more; −10 cover insurance.",
+      "summary": "JAX wins; take IND +10 — IND struggles more; cover insurance.",
       "final_score": null,
       "details": {
         "scheme": "IND struggles more. (rbsdm.com Team Tiers W1–7)",
@@ -264,7 +264,7 @@
       "why": "LAC's offense is 32nd; LAR's fav-loss item is one only",
       "type": "BASE",
       "money_flag": false,
-      "summary": "Picker takes LAR to win and LAR −6.5 — LAC 32nd offense outweighs LAR fav-loss scar.",
+      "summary": "LAR to win and LAR −6.5 — LAC 32nd offense outweighs fav-loss scar.",
       "final_score": null,
       "details": {
         "scheme": "LAC offense 32nd. (rbsdm.com Team Tiers W1–7)",
@@ -293,7 +293,7 @@
       "why": "DEN struggles more",
       "type": "BASE",
       "money_flag": false,
-      "summary": "Picker takes KC to win and KC −1.5 — DEN struggles more; short road still KC.",
+      "summary": "KC to win and KC −1.5 — DEN struggles more; short road still KC.",
       "final_score": null,
       "details": {
         "scheme": "DEN struggles more. (rbsdm.com Team Tiers W1–7)",
@@ -321,7 +321,7 @@
       "why": "MIA struggles more",
       "type": "BASE",
       "money_flag": false,
-      "summary": "Picker takes NE to win and MIA +7 — MIA struggles more; −7 rich so Dolphins get points.",
+      "summary": "NE wins; take MIA +7 — MIA struggles more; −7 rich.",
       "final_score": null,
       "details": {
         "scheme": "MIA struggles more. (rbsdm.com Team Tiers W1–7)",
@@ -349,7 +349,7 @@
       "why": "McKee at QB; PHI's offense struggles more",
       "type": "BASE",
       "money_flag": false,
-      "summary": "Picker takes WSH to win and PHI +6 — McKee at QB (Hurts out); PHI offense struggles more.",
+      "summary": "WSH to win; take PHI +6 — McKee at QB (Hurts out); PHI offense struggles more.",
       "final_score": null,
       "details": {
         "scheme": "PHI with McKee struggles. (rbsdm.com Team Tiers W1–7)",
@@ -378,7 +378,7 @@
       "why": "CHI into SEA's elite D",
       "type": "BASE",
       "money_flag": false,
-      "summary": "Picker takes SEA to win and SEA −3 — CHI into elite SEA D on MNF.",
+      "summary": "SEA to win and SEA −3 — CHI into elite SEA D on MNF.",
       "final_score": null,
       "details": {
         "scheme": "CHI offense into elite SEA D. (rbsdm.com Team Tiers W1–7)",
