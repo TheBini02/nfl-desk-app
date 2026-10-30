@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "generated_at": "2026-10-29T19:56:05-05:00",
+  "generated_at": "2026-10-29T20:28:25-05:00",
   "games": [
     {
       "away": "CAR",
@@ -185,6 +185,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "CAR",
+        "ats": "CAR +3.5",
+        "why": "Dog lean CAR; GB rush EPA soft spot"
       }
     },
     {
@@ -321,6 +326,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "BUF",
+        "ats": "BUF -3",
+        "why": "BUF #1 offense; Lamar Q kills any BAL lean"
       }
     },
     {
@@ -450,6 +460,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "CIN",
+        "ats": "TEN +11.5",
+        "why": "TEN 31st offense → CIN wins; number too fat"
       }
     },
     {
@@ -621,6 +636,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "DAL",
+        "ats": "ARI +7",
+        "why": "ARI struggles more; -7 sticky"
       }
     },
     {
@@ -743,6 +763,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "MIN",
+        "ats": "MIN +3",
+        "why": "Dog lean MIN; DET into elite MIN D"
       }
     },
     {
@@ -886,6 +911,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "LV",
+        "ats": "LV +1.5",
+        "why": "Close EPA; NYJ W7 short-home miss"
       }
     },
     {
@@ -1015,6 +1045,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "CLE",
+        "ats": "CLE +3.5",
+        "why": "CLE-as-dog trend; EPA wash"
       }
     },
     {
@@ -1165,6 +1200,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "ATL",
+        "ats": "ATL +2.5",
+        "why": "Dog lean ATL; ATL scores past pass EPA"
       }
     },
     {
@@ -1322,6 +1362,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "JAX",
+        "ats": "IND +10",
+        "why": "IND struggles more; -10 cover insurance"
       }
     },
     {
@@ -1493,6 +1538,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "LAR",
+        "ats": "LAR -6.5",
+        "why": "LAC 32nd offense; still lay points"
       }
     },
     {
@@ -1629,6 +1679,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "KC",
+        "ats": "KC -1.5",
+        "why": "DEN struggles more; short road still KC"
       }
     },
     {
@@ -1779,6 +1834,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "NE",
+        "ats": "MIA +7",
+        "why": "MIA struggles more; NE wins, -7 rich"
       }
     },
     {
@@ -1950,6 +2010,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "WSH",
+        "ats": "PHI +6",
+        "why": "McKee at QB; PHI offense struggles more"
       }
     },
     {
@@ -2128,6 +2193,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "SEA",
+        "ats": "SEA -3",
+        "why": "CHI into elite SEA D"
       }
     }
   ],
