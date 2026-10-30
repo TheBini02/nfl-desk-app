@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "generated_at": "2026-10-29T19:43:43.181001-05:00",
+  "generated_at": "2026-10-29T19:46:05.628158-05:00",
   "games": [
     {
       "away": "CAR",
@@ -11,7 +11,7 @@
       "why": "Tape leans CAR once; no second item",
       "type": "BASE",
       "money_flag": true,
-      "summary": "Carolina’s the play to win, and CAR +3.5 is the number — Tape’s dog lean plus GB’s soft rush EPA (−0.291) give the Panthers a real path to hang around in Green Bay. Favored Packers on the board; underdog vibes in the trenches.",
+      "summary": "Carolina’s the play to win, and CAR +3.5 is the number — GB’s soft rush EPA (−0.291) gives the Panthers a real path to hang around in Green Bay. Favored Packers on the board; underdog vibes in the trenches.",
       "final_score": null,
       "details": {
         "scheme": "CAR Off vs GB Def: Tape dog lean CAR. (rbsdm.com Team Tiers W1–7)",
@@ -124,7 +124,7 @@
       "why": "Tape leans MIN, and MIN's elite D wins on the road",
       "type": "UPSET",
       "money_flag": true,
-      "summary": "MIN to win on the road, MIN +3 — Tape’s dog lean is Minnesota walking Detroit into an elite defense. Home Lions on the board; the mismatch lives on Detroit’s offense.",
+      "summary": "MIN to win on the road, MIN +3 — Detroit walking into an elite defense. Home Lions on the board; the mismatch lives on Detroit’s offense.",
       "final_score": null,
       "details": {
         "scheme": "Tape dog lean MIN; elite MIN D. (rbsdm.com Team Tiers W1–7)",
@@ -180,7 +180,7 @@
       "why": "CLE-as-dog Team File is one item only; EPA is a wash",
       "type": "BASE",
       "money_flag": false,
-      "summary": "CLE to win and CLE +3.5 — Team File loves Cleveland as a dog, and EPA is a wash in this mud fight. Steelers chalk at home; Browns with the item and the points.",
+      "summary": "CLE to win and CLE +3.5 — Cleveland as a dog fits this spot, and EPA is a wash in the mud fight. Steelers chalk at home; Browns with the item and the points.",
       "final_score": null,
       "details": {
         "scheme": "CLE/PIT EPA wash. (rbsdm.com Team Tiers W1–7)",
@@ -208,7 +208,7 @@
       "why": "Tape leans ATL, and ATL scores past its pass EPA",
       "type": "UPSET",
       "money_flag": false,
-      "summary": "ATL to win and ATL +2.5 — Tape dog-leans Atlanta, and the Falcons keep scoring past their pass EPA (ask San Fran). Tampa’s pass game has been the soft spot; Falcons get the nod and the cushion.",
+      "summary": "ATL to win and ATL +2.5 — the Falcons keep scoring past their pass EPA (ask San Fran). Tampa’s pass game has been the soft spot; Falcons get the nod and the cushion.",
       "final_score": null,
       "details": {
         "scheme": "Tape dog lean ATL. (rbsdm.com Team Tiers W1–7)",
