@@ -1,22 +1,22 @@
 {
   "week": 8,
-  "generated_at": "2026-10-29T20:28:25-05:00",
+  "generated_at": "2026-10-31T18:36:41-05:00",
   "games": [
     {
       "away": "CAR",
       "home": "GB",
-      "kickoff": "Thu 7:15 PM CT",
+      "kickoff": "Thu 7:15 PM CT (FINAL)",
       "spread": "GB -3.5",
       "pick": "GB",
-      "why": "Dog lean CAR once; no second item",
+      "why": "TNF final; chalk hit",
       "type": "BASE",
       "money_flag": true,
-      "summary": "Carolina’s the play to win, and CAR +3.5 is the number — Green Bay’s rush EPA (−0.291) is a soft spot, and the Panthers get a real path to hang around on the road. Favored Packers on the board; underdog vibes in the trenches.",
-      "final_score": null,
+      "summary": "Final: CAR 19 - GB 27. Green Bay won and covered −3.5; chalk held on Thursday night.",
+      "final_score": "CAR 19 - GB 27",
       "details": {
         "scheme": "CAR Off vs GB Def: Dog lean CAR. (rbsdm.com Team Tiers W1–7)",
         "injuries": "Young ACTIVE / Watson ACTIVE",
-        "edges": "Home/short-week structure leans GB; late injury flags can flip. $ FLAG: free EPA edges favor CAR vs market GB -3.5.",
+        "edges": "Final CAR 19 - GB 27; GB won and covered -3.5.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
@@ -189,7 +189,7 @@
       "picker": {
         "winner": "CAR",
         "ats": "CAR +3.5",
-        "why": "Dog lean CAR; GB rush EPA soft spot"
+        "why": "Dog lean CAR; GB rush D soft spot (pre-game position, graded miss)"
       }
     },
     {
@@ -198,14 +198,14 @@
       "kickoff": "Sun 12:00 PM CT",
       "spread": "BUF -3",
       "pick": "BUF",
-      "why": "Lamar Q kills any BAL lean; BUF has the better offense",
+      "why": "Lamar ACTIVE restores BAL pass edge vs soft D, but BUF offense still the bigger gap — no dog lean",
       "type": "BASE",
       "money_flag": false,
-      "summary": "BUF to win and lay −3: Buffalo’s #1 offense sets the floor, and Lamar’s ankle Q wipes any Ravens lean. Soft Bills D only matters if Lamar’s out there; if he sits, that matchup advantage leaves with him.",
+      "summary": "BUF wins, but take BAL +3 — Buffalo still has the league’s top offense, yet Lamar is ACTIVE into a soft Bills defense, and that makes −3 sticky instead of a lay.",
       "final_score": null,
       "details": {
         "scheme": "BAL lean muted by Lamar Q; BUF better offense. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Lamar Q (ankle) / DJ Moore Q (shoulder)",
+        "injuries": "Lamar Jackson ACTIVE; Lamar Q (ankle) / DJ Moore Q (shoulder)",
         "edges": "Huntley ~0.33 EPA/DB worse than Lamar; Q status flips BAL pass edge.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -329,24 +329,24 @@
       },
       "picker": {
         "winner": "BUF",
-        "ats": "BUF -3",
-        "why": "BUF #1 offense; Lamar Q kills any BAL lean"
+        "ats": "BAL +3",
+        "why": "BUF still #1 offense; Lamar ACTIVE into soft BUF D makes -3 sticky"
       }
     },
     {
       "away": "TEN",
       "home": "CIN",
       "kickoff": "Sun 12:00 PM CT",
-      "spread": "CIN -11.5",
+      "spread": "CIN -12.5",
       "pick": "CIN",
-      "why": "TEN's offense is 31st",
+      "why": "TEN offense 31st and Tate OUT",
       "type": "BASE",
       "money_flag": false,
-      "summary": "CIN should take the W — Titans offense ranks 31st into a Bengals attack that wants to throw. Take TEN +11.5 though; the side is Cincinnati, the number is too fat to love.",
+      "summary": "CIN wins — Titans offense ranks 31st and Tate is OUT. Take TEN +12.5; the number moved fatter, so Cincinnati gets the side and Tennessee gets the cushion.",
       "final_score": null,
       "details": {
         "scheme": "TEN offense struggles (31st). (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Ward ACTIVE / Tate Q (shoulder); CIN Chase Q (ankle); TEN Ridley Q (hip)",
+        "injuries": "Tate OUT; Ward ACTIVE / Tate Q (shoulder); CIN Chase Q (ankle); TEN Ridley Q (hip)",
         "edges": "CIN over TEN +0.595 gap; Burrow +0.200/DB vs TEN pass D +0.134 allowed; CIN sack rate 8.9%.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -463,8 +463,8 @@
       },
       "picker": {
         "winner": "CIN",
-        "ats": "TEN +11.5",
-        "why": "TEN 31st offense → CIN wins; number too fat"
+        "ats": "TEN +12.5",
+        "why": "TEN 31st offense + Tate OUT; number moved fatter"
       }
     },
     {
@@ -476,7 +476,7 @@
       "why": "ARI struggles more",
       "type": "BASE",
       "money_flag": false,
-      "summary": "DAL wins this one — Arizona struggles more with Dak hunting a soft Cards pass D. Still grab ARI +7; that number gets sticky even when Dallas is the better side.",
+      "summary": "DAL wins — Arizona struggles more with Dak hunting a soft Cards pass D. Still take ARI +7; that number stays sticky even when Dallas is the better side.",
       "final_score": null,
       "details": {
         "scheme": "ARI struggles more in EPA gap. (rbsdm.com Team Tiers W1–7)",
@@ -649,10 +649,10 @@
       "kickoff": "Sun 12:00 PM CT",
       "spread": "DET -3",
       "pick": "MIN",
-      "why": "Dog lean MIN, and MIN's elite D wins on the road",
+      "why": "Dog lean MIN, and MIN elite D wins on the road",
       "type": "UPSET",
       "money_flag": true,
-      "summary": "MIN to win on the road, MIN +3 — Detroit walks into an elite Vikings defense, and that mismatch lives on the Lions’ offense. Home chalk on the board; Minnesota with the lean and the points.",
+      "summary": "MIN to win on the road and MIN +3 — Detroit walks into an elite Vikings defense, and that mismatch lives on the Lions’ offense. Home chalk on the board; Minnesota with the lean and the points.",
       "final_score": null,
       "details": {
         "scheme": "dog lean MIN; elite MIN D. (rbsdm.com Team Tiers W1–7)",
@@ -776,10 +776,10 @@
       "kickoff": "Sun 12:00 PM CT",
       "spread": "NYJ -1.5",
       "pick": "NYJ",
-      "why": "Close EPA; NYJ's W7 short-home miss is one item only",
+      "why": "Close EPA; NYJ W7 short-home miss is one item only",
       "type": "BASE",
       "money_flag": false,
-      "summary": "LV to win and LV +1.5 — EPA’s basically a wash, and the Jets just whiffed as a short home favorite last week. Close on tape; fade the fresh NYJ memory.",
+      "summary": "LV to win and LV +1.5 — EPA’s basically a wash, and the Jets just whiffed as a short home favorite last week. Close on tape; fade that fresh memory.",
       "final_score": null,
       "details": {
         "scheme": "LV/NYJ close in EPA; no lean. (rbsdm.com Team Tiers W1–7)",
@@ -915,7 +915,7 @@
       "picker": {
         "winner": "LV",
         "ats": "LV +1.5",
-        "why": "Close EPA; NYJ W7 short-home miss"
+        "why": "Close EPA; NYJ failed as short home fav W7"
       }
     },
     {
@@ -924,7 +924,7 @@
       "kickoff": "Sun 12:00 PM CT",
       "spread": "PIT -3.5",
       "pick": "PIT",
-      "why": "CLE-as-dog trend is one item only; EPA is a wash",
+      "why": "CLE-as-dog trend is one item only; EPA wash",
       "type": "BASE",
       "money_flag": false,
       "summary": "CLE to win and CLE +3.5 — Cleveland keeps winning as a dog, and EPA is a wash in this mud fight. Steelers chalk at home; Browns with the history and the points.",
@@ -1058,14 +1058,14 @@
       "kickoff": "Sun 12:00 PM CT",
       "spread": "TB -2.5",
       "pick": "ATL",
-      "why": "Dog lean ATL, and ATL scores past its pass EPA",
+      "why": "Dog lean ATL, ATL scores past pass EPA, and Egbuka OUT softens TB pass",
       "type": "UPSET",
       "money_flag": false,
-      "summary": "ATL to win and ATL +2.5 — the Falcons keep scoring past their pass EPA (ask San Fran), and Tampa’s pass game has been the soft spot. Atlanta gets the nod and the cushion.",
+      "summary": "ATL to win and ATL +2.5 — the Falcons keep scoring past their pass EPA, and Egbuka OUT softens Tampa’s pass profile even more. Atlanta gets the nod and the cushion.",
       "final_score": null,
       "details": {
         "scheme": "dog lean ATL. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Penix ACTIVE / London ACTIVE; TB Egbuka Q (concussion/foot)",
+        "injuries": "Egbuka OUT; Penix ACTIVE / London ACTIVE; TB Egbuka Q (concussion/foot)",
         "edges": "Coin-flip structure until trenches claim it.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -1204,7 +1204,7 @@
       "picker": {
         "winner": "ATL",
         "ats": "ATL +2.5",
-        "why": "Dog lean ATL; ATL scores past pass EPA"
+        "why": "Dog lean ATL + past-EPA; Egbuka OUT softens TB pass"
       }
     },
     {
@@ -1375,7 +1375,7 @@
       "kickoff": "Sun 3:05 PM CT",
       "spread": "LAR -6.5",
       "pick": "LAR",
-      "why": "LAC's offense is 32nd; LAR's fav-loss item is one only",
+      "why": "LAC offense 32nd; LAR fav-loss item is one only",
       "type": "BASE",
       "money_flag": false,
       "summary": "LAR to win and lay −6.5 — Chargers sit 32nd in offense EPA. A couple of prior favorite losses don’t outweigh that crater; still lay the points.",
@@ -1542,7 +1542,7 @@
       "picker": {
         "winner": "LAR",
         "ats": "LAR -6.5",
-        "why": "LAC 32nd offense; still lay points"
+        "why": "LAC 32nd offense outweighs LAR fav-scar"
       }
     },
     {
@@ -1683,7 +1683,7 @@
       "picker": {
         "winner": "KC",
         "ats": "KC -1.5",
-        "why": "DEN struggles more; short road still KC"
+        "why": "DEN struggles more"
       }
     },
     {
@@ -1695,7 +1695,7 @@
       "why": "MIA struggles more",
       "type": "BASE",
       "money_flag": false,
-      "summary": "NE wins this — Miami’s defense has been a gift shop and the Dolphins struggle more. Take MIA +7; Patriots get the side, Dolphins get the rich number.",
+      "summary": "NE wins — Miami’s defense has been a gift shop and the Dolphins struggle more. Take MIA +7; Patriots get the side, Dolphins get the rich number.",
       "final_score": null,
       "details": {
         "scheme": "MIA struggles more. (rbsdm.com Team Tiers W1–7)",
@@ -1838,7 +1838,7 @@
       "picker": {
         "winner": "NE",
         "ats": "MIA +7",
-        "why": "MIA struggles more; NE wins, -7 rich"
+        "why": "MIA struggles more; -7 rich"
       }
     },
     {
@@ -1847,14 +1847,14 @@
       "kickoff": "Sun 7:20 PM CT",
       "spread": "WSH -6",
       "pick": "WSH",
-      "why": "McKee at QB; PHI's offense struggles more",
+      "why": "McKee at QB and DeVonta OUT; PHI offense struggles more",
       "type": "BASE",
       "money_flag": false,
-      "summary": "WSH to win — McKee under center (Hurts done for the year) and Philly’s offense struggles more. Take PHI +6; Commanders by structure, Eagles with the points.",
+      "summary": "WSH to win — McKee under center, DeVonta Smith OUT, and Philly’s offense struggles more. Take PHI +6; Commanders by structure, Eagles with the points.",
       "final_score": null,
       "details": {
         "scheme": "PHI with McKee struggles. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "McKee ACTIVE / Diggs Q (hand/hamstring); Hurts out season; PHI D. Smith Q; WSH McLaurin IR",
+        "injuries": "DeVonta Smith OUT; McKee at QB; McKee ACTIVE / Diggs Q (hand/hamstring); Hurts out season; PHI D. Smith Q; WSH McLaurin IR",
         "edges": "WSH +0.299; PHI pass offense −0.103; protection lean WSH.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -2014,7 +2014,7 @@
       "picker": {
         "winner": "WSH",
         "ats": "PHI +6",
-        "why": "McKee at QB; PHI offense struggles more"
+        "why": "McKee + DeVonta OUT; PHI offense struggles more"
       }
     },
     {
@@ -2023,7 +2023,7 @@
       "kickoff": "Mon 7:15 PM CT",
       "spread": "SEA -3",
       "pick": "SEA",
-      "why": "CHI into SEA's elite D",
+      "why": "CHI into SEA elite D",
       "type": "BASE",
       "money_flag": false,
       "summary": "SEA to win and lay −3 — Chicago walks into an elite Seahawks D on Monday night. Structure says Seattle; short home number is still the play.",
@@ -2201,7 +2201,7 @@
       }
     }
   ],
-  "status": "DRAFT — not locked (Saturday lock pending)",
+  "status": "LOCKED — Saturday lock (Oct 31)",
   "byes": [
     "NO",
     "NYG",
