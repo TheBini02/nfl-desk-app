@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "generated_at": "2026-10-31T18:36:41-05:00",
+  "generated_at": "2026-11-01T10:02:17-06:00",
   "games": [
     {
       "away": "CAR",
@@ -205,13 +205,14 @@
       "final_score": null,
       "details": {
         "scheme": "BAL lean muted by Lamar Q; BUF better offense. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Lamar Jackson ACTIVE; Lamar Q (ankle) / DJ Moore Q (shoulder)",
+        "injuries": "Lamar Jackson ACTIVE (off final report) / DJ Moore Q (shoulder)",
         "edges": "Huntley ~0.33 EPA/DB worse than Lamar; Q status flips BAL pass edge.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -290,24 +291,10 @@
               ],
               [
                 "BAL",
-                "J. Hawkins S",
-                "Questionable",
-                "Knee",
-                "Qualitative only"
-              ],
-              [
-                "BAL",
                 "L. Jackson QB",
                 "Questionable",
                 "Ankle",
                 "Huntley 0.039 vs Jackson 0.365 EPA/DB = -0.326"
-              ],
-              [
-                "BAL",
-                "O. Ioane G",
-                "Questionable",
-                "Knee",
-                "Qualitative only"
               ],
               [
                 "BUF",
@@ -320,6 +307,20 @@
                 "BUF",
                 "E. Oliver DT",
                 "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "BAL",
+                "O. Ioane G",
+                "Out",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "BAL",
+                "J. Hawkins S",
+                "Out",
                 "Knee",
                 "Qualitative only"
               ]
@@ -337,7 +338,7 @@
       "away": "TEN",
       "home": "CIN",
       "kickoff": "Sun 12:00 PM CT",
-      "spread": "CIN -12.5",
+      "spread": "CIN -13.5",
       "pick": "CIN",
       "why": "TEN offense 31st and Tate OUT",
       "type": "BASE",
@@ -346,13 +347,14 @@
       "final_score": null,
       "details": {
         "scheme": "TEN offense struggles (31st). (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Tate OUT; Ward ACTIVE / Tate Q (shoulder); CIN Chase Q (ankle); TEN Ridley Q (hip)",
-        "edges": "CIN over TEN +0.595 gap; Burrow +0.200/DB vs TEN pass D +0.134 allowed; CIN sack rate 8.9%.",
+        "injuries": "Carnell Tate OUT; Ward ACTIVE / Chase ACTIVE (off final report); TEN Ridley Q (hip)",
+        "edges": "CIN over TEN +0.595 gap; Burrow +0.200/DB vs TEN pass D +0.134 allowed; CIN sack rate 8.9%. Line moved to CIN -13.5 Sunday AM.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -445,16 +447,16 @@
               ],
               [
                 "CIN",
-                "K. Dugger S",
-                "Out",
-                "Quadriceps",
+                "E. All Jr. TE",
+                "Questionable",
+                "Knee",
                 "Qualitative only"
               ],
               [
                 "CIN",
-                "E. All Jr. TE",
-                "Questionable",
-                "Knee",
+                "K. Dugger S",
+                "Out",
+                "Quadriceps",
                 "Qualitative only"
               ]
             ]
@@ -480,13 +482,14 @@
       "final_score": null,
       "details": {
         "scheme": "ARI struggles more in EPA gap. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Brissett ACTIVE / Wilson Q (ribs); DAL Pickens Q; ARI Beck Q",
+        "injuries": "Brissett ACTIVE / Wilson ACTIVE (off final report); DAL Pickens Q (shoulder); DAL Turpin OUT (ribs)",
         "edges": "DAL +0.189; Prescott +0.156 vs ARI pass D +0.263 allowed; DAL sack rate allowed 2.4%.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -572,13 +575,6 @@
               ],
               [
                 "ARI",
-                "W. Nolen III DT",
-                "Questionable",
-                "Ankle",
-                "Qualitative only"
-              ],
-              [
-                "ARI",
                 "J. Gaines II G",
                 "Questionable",
                 "Knee",
@@ -614,13 +610,6 @@
               ],
               [
                 "DAL",
-                "D. Winters LB",
-                "Questionable",
-                "Calf",
-                "Qualitative only"
-              ],
-              [
-                "DAL",
                 "D. Shelton OT",
                 "Questionable",
                 "Hamstring",
@@ -629,8 +618,22 @@
               [
                 "DAL",
                 "K. Turpin WR",
-                "Questionable",
+                "Out",
                 "Ribs",
+                "Qualitative only"
+              ],
+              [
+                "DAL",
+                "D. Winters LB",
+                "Out",
+                "Calf",
+                "Qualitative only"
+              ],
+              [
+                "ARI",
+                "W. Nolen III DT",
+                "Out",
+                "Ankle",
                 "Qualitative only"
               ]
             ]
@@ -656,13 +659,14 @@
       "final_score": null,
       "details": {
         "scheme": "dog lean MIN; elite MIN D. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Murray ACTIVE / St. Brown Q (ankle)",
+        "injuries": "Murray ACTIVE / St. Brown ACTIVE (off final report); DET Kerby Joseph OUT",
         "edges": "Structural home lean DET; finish-drives edge TBD on free EPA sample. $ FLAG: free EPA edges favor MIN vs market DET -3.5.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -789,7 +793,8 @@
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -875,13 +880,6 @@
               ],
               [
                 "NYJ",
-                "M. Mitchell OT",
-                "Questionable",
-                "Concussion",
-                "Qualitative only"
-              ],
-              [
-                "NYJ",
                 "K. Nwangwu RB",
                 "Questionable",
                 "Knee",
@@ -907,6 +905,20 @@
                 "Questionable",
                 "Knee",
                 "Qualitative only"
+              ],
+              [
+                "NYJ",
+                "M. Mitchell OT",
+                "Out",
+                "Concussion",
+                "Qualitative only"
+              ],
+              [
+                "NYJ",
+                "D. Bailey LB",
+                "Doubtful",
+                "Groin",
+                "Qualitative only"
               ]
             ]
           }
@@ -931,13 +943,14 @@
       "final_score": null,
       "details": {
         "scheme": "CLE/PIT EPA wash. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Watson ACTIVE / Boston ACTIVE",
+        "injuries": "Watson ACTIVE / Boston ACTIVE; PIT CBs Slaughter + Echols OUT",
         "edges": "One turnover / missed assignment often writes the script.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -1037,8 +1050,15 @@
               ],
               [
                 "PIT",
+                "D. Slaughter CB",
+                "Out",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "PIT",
                 "B. Echols CB",
-                "Questionable",
+                "Out",
                 "Hamstring",
                 "Qualitative only"
               ]
@@ -1065,13 +1085,14 @@
       "final_score": null,
       "details": {
         "scheme": "dog lean ATL. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Egbuka OUT; Penix ACTIVE / London ACTIVE; TB Egbuka Q (concussion/foot)",
+        "injuries": "Penix ACTIVE / London ACTIVE; TB Egbuka OUT (foot)",
         "edges": "Coin-flip structure until trenches claim it.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -1193,8 +1214,8 @@
               [
                 "TB",
                 "E. Egbuka WR",
-                "Questionable",
-                "Concussion",
+                "Out",
+                "Foot",
                 "Qualitative only"
               ]
             ]
@@ -1220,13 +1241,14 @@
       "final_score": null,
       "details": {
         "scheme": "IND struggles more. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Jones ACTIVE / Downs ACTIVE",
+        "injuries": "Jones ACTIVE / Downs ACTIVE; JAX Meyers Q (hamstring)",
         "edges": "JAX over IND +0.594; Lawrence +0.275 vs IND pass D +0.082; JAX run D −0.173.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -1312,13 +1334,6 @@
               ],
               [
                 "IND",
-                "A. Gould WR",
-                "Questionable",
-                "Concussion",
-                "Qualitative only"
-              ],
-              [
-                "IND",
                 "C. Allen LB",
                 "Questionable",
                 "Ankle",
@@ -1358,6 +1373,13 @@
                 "Questionable",
                 "Ankle",
                 "Qualitative only"
+              ],
+              [
+                "IND",
+                "A. Gould WR",
+                "Out",
+                "Concussion",
+                "Qualitative only"
               ]
             ]
           }
@@ -1382,13 +1404,14 @@
       "final_score": null,
       "details": {
         "scheme": "LAC offense 32nd. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Herbert ACTIVE / McConkey Q (concussion); LAR Adams IR",
+        "injuries": "Herbert ACTIVE / McConkey ACTIVE (off final report); LAC B. Thompson OUT; LAR Adams IR",
         "edges": "LAR over LAC +0.594; LAC 0-6 offense −0.241 pass / −0.201 rush / 9.5% sack rate.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -1467,13 +1490,6 @@
               ],
               [
                 "LAC",
-                "B. Thompson WR",
-                "Questionable",
-                "Quadriceps",
-                "Qualitative only"
-              ],
-              [
-                "LAC",
                 "R. Shelley CB",
                 "Questionable",
                 "Hamstring",
@@ -1534,6 +1550,20 @@
                 "Questionable",
                 "Groin",
                 "Qualitative only"
+              ],
+              [
+                "LAC",
+                "B. Thompson WR",
+                "Out",
+                "Quadriceps",
+                "Qualitative only"
+              ],
+              [
+                "LAC",
+                "D. Leonard CB",
+                "Out",
+                "Concussion",
+                "Qualitative only"
               ]
             ]
           }
@@ -1558,13 +1588,14 @@
       "final_score": null,
       "details": {
         "scheme": "DEN struggles more. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Mahomes ACTIVE / Waddle Q (chest); KC Rice Q (hamstring)",
+        "injuries": "Mahomes ACTIVE / Rice ACTIVE (off final report); DEN Waddle Q (chest)",
         "edges": "KC +0.363; KC rush +0.102; DEN 3rd-down D last (−0.333).",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -1657,13 +1688,6 @@
               ],
               [
                 "DEN",
-                "T. Hufanga S",
-                "Questionable",
-                "Ankle",
-                "Qualitative only"
-              ],
-              [
-                "DEN",
                 "J. Waddle WR",
                 "Questionable",
                 "Chest",
@@ -1674,6 +1698,20 @@
                 "Z. Allen DE",
                 "Questionable",
                 "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "KC",
+                "M. Delane CB",
+                "Out",
+                "Shoulder",
+                "Qualitative only"
+              ],
+              [
+                "DEN",
+                "T. Hufanga S",
+                "Out",
+                "Ankle",
                 "Qualitative only"
               ]
             ]
@@ -1699,13 +1737,14 @@
       "final_score": null,
       "details": {
         "scheme": "MIA struggles more. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Maye ACTIVE / A.J. Brown Q (ankle)",
+        "injuries": "Maye ACTIVE / A.J. Brown OUT (ankle); NE Henderson OUT (illness)",
         "edges": "NE +0.342; MIA worst pass D (+0.315 allowed) and worst 3rd-down D (+0.482).",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -1784,13 +1823,6 @@
               ],
               [
                 "NE",
-                "B. Brown C",
-                "Questionable",
-                "Knee",
-                "Qualitative only"
-              ],
-              [
-                "NE",
                 "C. Canada CB",
                 "Questionable",
                 "Hamstring",
@@ -1830,6 +1862,20 @@
                 "Questionable",
                 "Quadriceps",
                 "Qualitative only"
+              ],
+              [
+                "NE",
+                "A.J. Brown WR",
+                "Out",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "NE",
+                "T. Henderson RB",
+                "Out",
+                "Illness",
+                "Qualitative only"
               ]
             ]
           }
@@ -1854,13 +1900,14 @@
       "final_score": null,
       "details": {
         "scheme": "PHI with McKee struggles. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "DeVonta Smith OUT; McKee at QB; McKee ACTIVE / Diggs Q (hand/hamstring); Hurts out season; PHI D. Smith Q; WSH McLaurin IR",
+        "injuries": "McKee ACTIVE (Hurts out season) / DeVonta Smith OUT; WSH Payne + Kinlaw OUT; McLaurin IR",
         "edges": "WSH +0.299; PHI pass offense −0.103; protection lean WSH.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -1939,13 +1986,6 @@
               ],
               [
                 "PHI",
-                "D. Smith WR",
-                "Questionable",
-                "Hamstring",
-                "Qualitative only"
-              ],
-              [
-                "PHI",
                 "N. Smith Jr. LB",
                 "Questionable",
                 "Concussion",
@@ -2001,9 +2041,23 @@
                 "Qualitative only"
               ],
               [
+                "PHI",
+                "D. Smith WR",
+                "Out",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "WSH",
+                "D. Payne DT",
+                "Out",
+                "Foot",
+                "Qualitative only"
+              ],
+              [
                 "WSH",
                 "J. Kinlaw DT",
-                "Questionable",
+                "Out",
                 "Knee",
                 "Qualitative only"
               ]
@@ -2030,13 +2084,14 @@
       "final_score": null,
       "details": {
         "scheme": "CHI offense into elite SEA D. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Williams ACTIVE / JSN ACTIVE; SEA Shaheed Q, Lock Q",
+        "injuries": "Williams ACTIVE / JSN ACTIVE; SEA Shaheed OUT, Cross OUT, Lock Q",
         "edges": "SEA cleaner setup; Caleb Williams small sample (136 DBs).",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
           "ESPN schedule + injuries",
           "rbsdm.com Team Tiers W1–7 (updated 10/29)",
-          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)"
+          "Consensus spreads: edraft.com/nfl/odds/week-8 (Oct 29)",
+          "ESPN final injury report (Nov 1)"
         ],
         "tables": {
           "matchup": {
@@ -2171,23 +2226,23 @@
               ],
               [
                 "SEA",
-                "C. Cross OT",
-                "Doubtful",
-                "Ankle",
+                "V. Jones Jr. RB",
+                "Questionable",
+                "Hamstring",
                 "Qualitative only"
               ],
               [
                 "SEA",
                 "R. Shaheed WR",
-                "Questionable",
+                "Out",
                 "Knee",
                 "Qualitative only"
               ],
               [
                 "SEA",
-                "V. Jones Jr. RB",
-                "Questionable",
-                "Hamstring",
+                "C. Cross OT",
+                "Out",
+                "Ankle",
                 "Qualitative only"
               ]
             ]
@@ -2201,7 +2256,7 @@
       }
     }
   ],
-  "status": "LOCKED — Saturday lock (Oct 31)",
+  "status": "Sunday final report: final injuries + lines (Week 8)",
   "byes": [
     "NO",
     "NYG",
