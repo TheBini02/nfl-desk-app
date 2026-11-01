@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "generated_at": "2026-11-01T10:02:17-06:00",
+  "generated_at": "2026-11-01T10:04:46-06:00",
   "games": [
     {
       "away": "CAR",
@@ -14,7 +14,7 @@
       "summary": "Final: CAR 19 - GB 27. Green Bay won and covered −3.5; chalk held on Thursday night.",
       "final_score": "CAR 19 - GB 27",
       "details": {
-        "scheme": "CAR Off vs GB Def: Dog lean CAR. (rbsdm.com Team Tiers W1–7)",
+        "scheme": "FINAL: CAR 19 - GB 27 (GB covered −3.5). Pregame: dog lean CAR. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "Young ACTIVE / Watson ACTIVE",
         "edges": "Final CAR 19 - GB 27; GB won and covered -3.5.",
         "sources": [
@@ -204,8 +204,8 @@
       "summary": "BUF wins, but take BAL +3 — Buffalo still has the league’s top offense, yet Lamar is ACTIVE into a soft Bills defense, and that makes −3 sticky instead of a lay.",
       "final_score": null,
       "details": {
-        "scheme": "BAL lean muted by Lamar Q; BUF better offense. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Lamar Jackson ACTIVE (off final report) / DJ Moore Q (shoulder)",
+        "scheme": "BAL Off (0.071) vs soft BUF Def (0.148); BUF Off (0.210, 1st) vs BAL Def (0.019). Lamar ACTIVE restores BAL's pass edge vs that soft D. GAP: BAL still struggles more overall. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Lamar ACTIVE / WR1 Flowers ACTIVE; BUF DJ Moore Q (shoulder, expected to play)",
         "edges": "Huntley ~0.33 EPA/DB worse than Lamar; Q status flips BAL pass edge.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -346,8 +346,8 @@
       "summary": "CIN wins — Titans offense ranks 31st and Tate is OUT. Take TEN +12.5; the number moved fatter, so Cincinnati gets the side and Tennessee gets the cushion.",
       "final_score": null,
       "details": {
-        "scheme": "TEN offense struggles (31st). (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Carnell Tate OUT; Ward ACTIVE / Chase ACTIVE (off final report); TEN Ridley Q (hip)",
+        "scheme": "TEN Off (−0.124, 31st) vs CIN Def (−0.034); CIN Off (0.108) vs soft TEN Def (0.045). Tate OUT. Line CIN −13.5. GAP: TEN struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Ward ACTIVE / WR1 Tate OUT (shoulder); CIN Chase ACTIVE; TEN Ridley Q (hip)",
         "edges": "CIN over TEN +0.595 gap; Burrow +0.200/DB vs TEN pass D +0.134 allowed; CIN sack rate 8.9%. Line moved to CIN -13.5 Sunday AM.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -481,8 +481,8 @@
       "summary": "DAL wins — Arizona struggles more with Dak hunting a soft Cards pass D. Still take ARI +7; that number stays sticky even when Dallas is the better side.",
       "final_score": null,
       "details": {
-        "scheme": "ARI struggles more in EPA gap. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Brissett ACTIVE / Wilson ACTIVE (off final report); DAL Pickens Q (shoulder); DAL Turpin OUT (ribs)",
+        "scheme": "ARI Off (−0.024) vs soft DAL Def (0.140); DAL Off (0.142) vs soft ARI pass D (0.292). Turpin OUT / Pickens Q thins DAL's perimeter. GAP: ARI still struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Brissett ACTIVE / WR1 Lamb ACTIVE; DAL Pickens Q (expected to play); DAL Turpin OUT (ribs)",
         "edges": "DAL +0.189; Prescott +0.156 vs ARI pass D +0.263 allowed; DAL sack rate allowed 2.4%.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -658,8 +658,8 @@
       "summary": "MIN to win on the road and MIN +3 — Detroit walks into an elite Vikings defense, and that mismatch lives on the Lions’ offense. Home chalk on the board; Minnesota with the lean and the points.",
       "final_score": null,
       "details": {
-        "scheme": "dog lean MIN; elite MIN D. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Murray ACTIVE / St. Brown ACTIVE (off final report); DET Kerby Joseph OUT",
+        "scheme": "MIN Off (−0.099) vs soft DET Def (0.149); DET Off (0.144) vs elite MIN Def (−0.220). GAP: DET struggles more into MIN's D. Dog lean MIN. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Murray ACTIVE / WR1 Jefferson ACTIVE; DET St. Brown ACTIVE; DET S Kerby Joseph OUT",
         "edges": "Structural home lean DET; finish-drives edge TBD on free EPA sample. $ FLAG: free EPA edges favor MIN vs market DET -3.5.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -786,8 +786,8 @@
       "summary": "LV to win and LV +1.5 — EPA’s basically a wash, and the Jets just whiffed as a short home favorite last week. Close on tape; fade that fresh memory.",
       "final_score": null,
       "details": {
-        "scheme": "LV/NYJ close in EPA; no lean. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Cousins ACTIVE / G. Wilson ACTIVE",
+        "scheme": "Close EPA; LV rush −0.252 is the soft spot. GAP: close; no lean. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Cousins ACTIVE / WR1 G. Wilson ACTIVE",
         "edges": "Neither offense earned freestyle rights; first explosive play is leverage.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -942,8 +942,8 @@
       "summary": "CLE to win and CLE +3.5 — Cleveland keeps winning as a dog, and EPA is a wash in this mud fight. Steelers chalk at home; Browns with the history and the points.",
       "final_score": null,
       "details": {
-        "scheme": "CLE/PIT EPA wash. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Watson ACTIVE / Boston ACTIVE; PIT CBs Slaughter + Echols OUT",
+        "scheme": "Close EPA; PIT rush +0.043 is the difference. GAP: close; no lean. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Watson ACTIVE / WR1 Metcalf ACTIVE; CLE WR1 Boston ACTIVE; PIT CBs Slaughter + Echols OUT",
         "edges": "One turnover / missed assignment often writes the script.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -1084,8 +1084,8 @@
       "summary": "ATL to win and ATL +2.5 — the Falcons keep scoring past their pass EPA, and Egbuka OUT softens Tampa’s pass profile even more. Atlanta gets the nod and the cushion.",
       "final_score": null,
       "details": {
-        "scheme": "dog lean ATL. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Penix ACTIVE / London ACTIVE; TB Egbuka OUT (foot)",
+        "scheme": "ATL Off (−0.038) vs TB Def (−0.106); TB Off (−0.081, pass −0.130) vs ATL Def (−0.022). Egbuka OUT softens TB pass more. GAP: TB struggles more. Dog lean ATL. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Penix ACTIVE / WR1 London ACTIVE; TB WR1 Egbuka OUT",
         "edges": "Coin-flip structure until trenches claim it.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -1240,8 +1240,8 @@
       "summary": "JAX wins — Indy’s offense struggles more into Jacksonville. Take IND +10 as cover insurance on a double-digit home number.",
       "final_score": null,
       "details": {
-        "scheme": "IND struggles more. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Jones ACTIVE / Downs ACTIVE; JAX Meyers Q (hamstring)",
+        "scheme": "IND Off (−0.063) vs JAX Def (−0.016); JAX Off (0.117) vs IND Def (0.032). GAP: IND struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Jones ACTIVE / WR1 Downs ACTIVE; JAX WR1 Washington ACTIVE; JAX Meyers Q (hamstring)",
         "edges": "JAX over IND +0.594; Lawrence +0.275 vs IND pass D +0.082; JAX run D −0.173.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -1403,8 +1403,8 @@
       "summary": "LAR to win and lay −6.5 — Chargers sit 32nd in offense EPA. A couple of prior favorite losses don’t outweigh that crater; still lay the points.",
       "final_score": null,
       "details": {
-        "scheme": "LAC offense 32nd. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Herbert ACTIVE / McConkey ACTIVE (off final report); LAC B. Thompson OUT; LAR Adams IR",
+        "scheme": "LAC Off (−0.209, 32nd) vs LAR Def (−0.042); LAR Off (0.059) vs LAC Def (−0.034). GAP: LAC struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Herbert ACTIVE / WR1 McConkey ACTIVE; LAC Brenen Thompson OUT; LAR Nacua ACTIVE",
         "edges": "LAR over LAC +0.594; LAC 0-6 offense −0.241 pass / −0.201 rush / 9.5% sack rate.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -1587,8 +1587,8 @@
       "summary": "KC to win and KC −1.5 — Denver struggles more on the structure. Short road favorite, still Kansas City.",
       "final_score": null,
       "details": {
-        "scheme": "DEN struggles more. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Mahomes ACTIVE / Rice ACTIVE (off final report); DEN Waddle Q (chest)",
+        "scheme": "KC Off (0.104) vs DEN Def (−0.052); DEN Off (−0.040) vs KC Def (−0.046). GAP: DEN struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Mahomes ACTIVE / WR1 Rice ACTIVE; DEN WR1 Waddle Q (chest, trending positive)",
         "edges": "KC +0.363; KC rush +0.102; DEN 3rd-down D last (−0.333).",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -1736,8 +1736,8 @@
       "summary": "NE wins — Miami’s defense has been a gift shop and the Dolphins struggle more. Take MIA +7; Patriots get the side, Dolphins get the rich number.",
       "final_score": null,
       "details": {
-        "scheme": "MIA struggles more. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Maye ACTIVE / A.J. Brown OUT (ankle); NE Henderson OUT (illness)",
+        "scheme": "NE Off (0.052) vs soft MIA Def (0.127); MIA Off (−0.049) vs NE Def (0.017). A.J. Brown + Henderson OUT thins NE's pass game. GAP: MIA still struggles more, but NE's Off edge is softer without those two. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Maye ACTIVE / WR1 A.J. Brown OUT; NE Henderson OUT (illness); MIA QB Willis ACTIVE / WR1 Washington ACTIVE",
         "edges": "NE +0.342; MIA worst pass D (+0.315 allowed) and worst 3rd-down D (+0.482).",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -1899,8 +1899,8 @@
       "summary": "WSH to win — McKee under center, DeVonta Smith OUT, and Philly’s offense struggles more. Take PHI +6; Commanders by structure, Eagles with the points.",
       "final_score": null,
       "details": {
-        "scheme": "PHI with McKee struggles. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "McKee ACTIVE (Hurts out season) / DeVonta Smith OUT; WSH Payne + Kinlaw OUT; McLaurin IR",
+        "scheme": "PHI Off (−0.086) vs soft WSH Def (0.067); WSH Off (−0.008) vs soft PHI Def (0.104). McKee QB; DeVonta OUT. GAP: PHI struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB McKee ACTIVE / WR1 DeVonta OUT; Diggs ACTIVE; Hurts IR; WSH Payne + Kinlaw OUT; McLaurin IR",
         "edges": "WSH +0.299; PHI pass offense −0.103; protection lean WSH.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
@@ -2083,8 +2083,8 @@
       "summary": "SEA to win and lay −3 — Chicago walks into an elite Seahawks D on Monday night. Structure says Seattle; short home number is still the play.",
       "final_score": null,
       "details": {
-        "scheme": "CHI offense into elite SEA D. (rbsdm.com Team Tiers W1–7)",
-        "injuries": "Williams ACTIVE / JSN ACTIVE; SEA Shaheed OUT, Cross OUT, Lock Q",
+        "scheme": "CHI Off (0.052) vs elite SEA Def (−0.118); SEA Off (−0.042) vs CHI Def (−0.018). Shaheed + Cross OUT; Lock Q — SEA's Off profile is thinner. GAP: CHI still struggles more into SEA's D, but SEA's offense is more compromised than season EPA alone shows. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
+        "injuries": "QB Williams ACTIVE / WR1 Odunze ACTIVE; SEA Darnold ACTIVE / JSN ACTIVE; SEA Shaheed OUT, Cross OUT, Lock Q",
         "edges": "SEA cleaner setup; Caleb Williams small sample (136 DBs).",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–7)",
