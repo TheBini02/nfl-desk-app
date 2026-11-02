@@ -1,6 +1,6 @@
 {
   "week": 8,
-  "generated_at": "2026-11-01T10:04:46-06:00",
+  "generated_at": "2026-11-02T08:52:23-06:00",
   "games": [
     {
       "away": "CAR",
@@ -202,7 +202,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "BUF wins, but take BAL +3 — Buffalo still has the league’s top offense, yet Lamar is ACTIVE into a soft Bills defense, and that makes −3 sticky instead of a lay.",
-      "final_score": null,
+      "final_score": "BAL 10 - BUF 36",
       "details": {
         "scheme": "BAL Off (0.071) vs soft BUF Def (0.148); BUF Off (0.210, 1st) vs BAL Def (0.019). Lamar ACTIVE restores BAL's pass edge vs that soft D. GAP: BAL still struggles more overall. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB Lamar ACTIVE / WR1 Flowers ACTIVE; BUF DJ Moore Q (shoulder, expected to play)",
@@ -344,7 +344,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "CIN wins — Titans offense ranks 31st and Tate is OUT. Take TEN +12.5; the number moved fatter, so Cincinnati gets the side and Tennessee gets the cushion.",
-      "final_score": null,
+      "final_score": "TEN 36 - CIN 43",
       "details": {
         "scheme": "TEN Off (−0.124, 31st) vs CIN Def (−0.034); CIN Off (0.108) vs soft TEN Def (0.045). Tate OUT. Line CIN −13.5. GAP: TEN struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB Ward ACTIVE / WR1 Tate OUT (shoulder); CIN Chase ACTIVE; TEN Ridley Q (hip)",
@@ -479,7 +479,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "DAL wins — Arizona struggles more with Dak hunting a soft Cards pass D. Still take ARI +7; that number stays sticky even when Dallas is the better side.",
-      "final_score": null,
+      "final_score": "ARI 33 - DAL 30",
       "details": {
         "scheme": "ARI Off (−0.024) vs soft DAL Def (0.140); DAL Off (0.142) vs soft ARI pass D (0.292). Turpin OUT / Pickens Q thins DAL's perimeter. GAP: ARI still struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB Brissett ACTIVE / WR1 Lamb ACTIVE; DAL Pickens Q (expected to play); DAL Turpin OUT (ribs)",
@@ -656,7 +656,7 @@
       "type": "UPSET",
       "money_flag": true,
       "summary": "MIN to win on the road and MIN +3 — Detroit walks into an elite Vikings defense, and that mismatch lives on the Lions’ offense. Home chalk on the board; Minnesota with the lean and the points.",
-      "final_score": null,
+      "final_score": "MIN 15 - DET 19",
       "details": {
         "scheme": "MIN Off (−0.099) vs soft DET Def (0.149); DET Off (0.144) vs elite MIN Def (−0.220). GAP: DET struggles more into MIN's D. Dog lean MIN. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB Murray ACTIVE / WR1 Jefferson ACTIVE; DET St. Brown ACTIVE; DET S Kerby Joseph OUT",
@@ -784,7 +784,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "LV to win and LV +1.5 — EPA’s basically a wash, and the Jets just whiffed as a short home favorite last week. Close on tape; fade that fresh memory.",
-      "final_score": null,
+      "final_score": "LV 38 - NYJ 33",
       "details": {
         "scheme": "Close EPA; LV rush −0.252 is the soft spot. GAP: close; no lean. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB Cousins ACTIVE / WR1 G. Wilson ACTIVE",
@@ -940,7 +940,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "CLE to win and CLE +3.5 — Cleveland keeps winning as a dog, and EPA is a wash in this mud fight. Steelers chalk at home; Browns with the history and the points.",
-      "final_score": null,
+      "final_score": "CLE 6 - PIT 27",
       "details": {
         "scheme": "Close EPA; PIT rush +0.043 is the difference. GAP: close; no lean. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB Watson ACTIVE / WR1 Metcalf ACTIVE; CLE WR1 Boston ACTIVE; PIT CBs Slaughter + Echols OUT",
@@ -1082,7 +1082,7 @@
       "type": "UPSET",
       "money_flag": false,
       "summary": "ATL to win and ATL +2.5 — the Falcons keep scoring past their pass EPA, and Egbuka OUT softens Tampa’s pass profile even more. Atlanta gets the nod and the cushion.",
-      "final_score": null,
+      "final_score": "ATL 0 - TB 16",
       "details": {
         "scheme": "ATL Off (−0.038) vs TB Def (−0.106); TB Off (−0.081, pass −0.130) vs ATL Def (−0.022). Egbuka OUT softens TB pass more. GAP: TB struggles more. Dog lean ATL. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB Penix ACTIVE / WR1 London ACTIVE; TB WR1 Egbuka OUT",
@@ -1238,7 +1238,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "JAX wins — Indy’s offense struggles more into Jacksonville. Take IND +10 as cover insurance on a double-digit home number.",
-      "final_score": null,
+      "final_score": "IND 7 - JAX 42",
       "details": {
         "scheme": "IND Off (−0.063) vs JAX Def (−0.016); JAX Off (0.117) vs IND Def (0.032). GAP: IND struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB Jones ACTIVE / WR1 Downs ACTIVE; JAX WR1 Washington ACTIVE; JAX Meyers Q (hamstring)",
@@ -1401,7 +1401,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "LAR to win and lay −6.5 — Chargers sit 32nd in offense EPA. A couple of prior favorite losses don’t outweigh that crater; still lay the points.",
-      "final_score": null,
+      "final_score": "LAC 9 - LAR 24",
       "details": {
         "scheme": "LAC Off (−0.209, 32nd) vs LAR Def (−0.042); LAR Off (0.059) vs LAC Def (−0.034). GAP: LAC struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB Herbert ACTIVE / WR1 McConkey ACTIVE; LAC Brenen Thompson OUT; LAR Nacua ACTIVE",
@@ -1585,7 +1585,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "KC to win and KC −1.5 — Denver struggles more on the structure. Short road favorite, still Kansas City.",
-      "final_score": null,
+      "final_score": "KC 24 - DEN 28",
       "details": {
         "scheme": "KC Off (0.104) vs DEN Def (−0.052); DEN Off (−0.040) vs KC Def (−0.046). GAP: DEN struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB Mahomes ACTIVE / WR1 Rice ACTIVE; DEN WR1 Waddle Q (chest, trending positive)",
@@ -1734,7 +1734,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "NE wins — Miami’s defense has been a gift shop and the Dolphins struggle more. Take MIA +7; Patriots get the side, Dolphins get the rich number.",
-      "final_score": null,
+      "final_score": "NE 24 - MIA 19",
       "details": {
         "scheme": "NE Off (0.052) vs soft MIA Def (0.127); MIA Off (−0.049) vs NE Def (0.017). A.J. Brown + Henderson OUT thins NE's pass game. GAP: MIA still struggles more, but NE's Off edge is softer without those two. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB Maye ACTIVE / WR1 A.J. Brown OUT; NE Henderson OUT (illness); MIA QB Willis ACTIVE / WR1 Washington ACTIVE",
@@ -1897,7 +1897,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "WSH to win — McKee under center, DeVonta Smith OUT, and Philly’s offense struggles more. Take PHI +6; Commanders by structure, Eagles with the points.",
-      "final_score": null,
+      "final_score": "PHI 10 - WSH 27",
       "details": {
         "scheme": "PHI Off (−0.086) vs soft WSH Def (0.067); WSH Off (−0.008) vs soft PHI Def (0.104). McKee QB; DeVonta OUT. GAP: PHI struggles more. (rbsdm.com Team Tiers W1–7, upd 10/29 + ESPN Sun 11/1)",
         "injuries": "QB McKee ACTIVE / WR1 DeVonta OUT; Diggs ACTIVE; Hurts IR; WSH Payne + Kinlaw OUT; McLaurin IR",
