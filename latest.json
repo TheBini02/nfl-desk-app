@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "generated_at": "2026-11-03T09:29:51-06:00",
+  "generated_at": "2026-11-03T09:30:27-06:00",
   "games": [
     {
       "away": "JAX",
@@ -14,7 +14,7 @@
       "summary": "Jacksonville's offense has been one of the league's cleanest EPA engines, and it now draws a Ravens team without Lamar Jackson on Thursday night. The structural pass/rush lean sits with the Jaguars even inside JAX -9.5; Huntley's Q tag only widens that gap. Treat the big number carefully, but the film/EPA mismatch is not subtle.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): Lamar OUT: BAL struggles more; dog lean JAX. Baltimore is in emergency QB mode on a short week while Jacksonville can stay on-schedule 11-personnel and force Huntley into long chains. Expect Jaguars to live in play-action and intermediate crossers against a Ravens defense missing continuity at signal-caller.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): Lamar OUT: BAL struggles more; scheme lean JAX. Baltimore is in emergency QB mode on a short week while Jacksonville can stay on-schedule 11-personnel and force Huntley into long chains. Expect Jaguars to live in play-action and intermediate crossers against a Ravens defense missing continuity at signal-caller.",
         "injuries": "JAX: QB Lawrence ACTIVE / WR1 Washington ACTIVE · BAL: QB Jackson OUT (thumb, IR); Huntley Q (toe, coach: probably won't play TNF) / WR1 Flowers ACTIVE",
         "edges": "JAX edges P/R/3/Pr +0.189/+0.139/+0.362/+0.020; BAL -0.085/-0.108/-0.069/+0.260. Combined pass+rush gap +0.521 favors JAX; biggest lane 3rd.",
         "sources": [
@@ -384,7 +384,7 @@
       "summary": "Neither offense grades as a hammer — this is a low-event preview where NO -2.5 already prices a thin Saints home nod. Cleveland's pass EPA is middling and the rush grades ugly; New Orleans isn't much healthier. Lean lighter here until one side shows a clear early-down win.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): Thin gap; dog lean CLE. Two low-ceiling offenses in a mudball — Browns' heavy personnel vs Saints' light boxes. Whoever wins early-down run fits on early downs owns a thin script; neither staff wants a track meet.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): Thin gap; scheme lean CLE. Two low-ceiling offenses in a mudball — Browns' heavy personnel vs Saints' light boxes. Whoever wins early-down run fits on early downs owns a thin script; neither staff wants a track meet.",
         "injuries": "CLE: QB Watson ACTIVE / WR1 Boston ACTIVE · NO: QB Shough ACTIVE / WR1 Olave ACTIVE",
         "edges": "CLE edges P/R/3/Pr -0.046/-0.002/-0.141/+0.370; NO -0.121/-0.013/-0.181/-0.210. Combined pass+rush gap +0.086 favors CLE; biggest lane Protection.",
         "sources": [
@@ -1213,7 +1213,7 @@
       "summary": "New York as a road favorite into McKee's 0-3 starter stretch is the board's odd look — and season EPA backs the Giants' lean. Philadelphia has not created positive pass EPA with the backup; NYG -3.5 still asks NYG to close it out on the road. Dog money only if you trust an Eagles explosive reset.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): McKee at QB: PHI struggles more; dog lean NYG. Giants as road favorites into a McKee-led Eagles offense that has not created positive EPA — NYG can play two-high and dare Philadelphia to drive the field. Eagles need early Saquon explosives to flip leverage.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): McKee at QB: PHI struggles more; scheme lean NYG. Giants as road favorites into a McKee-led Eagles offense that has not created positive EPA — NYG can play two-high and dare Philadelphia to drive the field. Eagles need early Saquon explosives to flip leverage.",
         "injuries": "NYG: QB McCarthy ACTIVE / WR1 Nabers ACTIVE · PHI: QB McKee ACTIVE / WR1 DeVonta Smith Q",
         "edges": "NYG edges P/R/3/Pr +0.085/+0.133/+0.193/+0.450; PHI -0.185/-0.053/-0.168/+0.370. Combined pass+rush gap +0.456 favors NYG; biggest lane Protection.",
         "sources": [
@@ -1541,7 +1541,7 @@
       "summary": "Chargers at 0-7 with broken protection meet a Texans side that at least posts positive pass EPA. HOU -4.5 already sides with Houston; the structural edge agrees. This is less about Houston being great than LAC being structurally broken.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): LAC offense collapses; dog lean HOU. Two struggling teams, but Houston's pass EPA and sack generation beat a Chargers unit sitting at 0-7 with broken protection. Texans can force Herbert into obvious third-and-longs.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): LAC offense collapses; scheme lean HOU. Two struggling teams, but Houston's pass EPA and sack generation beat a Chargers unit sitting at 0-7 with broken protection. Texans can force Herbert into obvious third-and-longs.",
         "injuries": "HOU: QB Stroud ACTIVE / WR1 Collins ACTIVE · LAC: QB Herbert ACTIVE / WR1 McConkey ACTIVE",
         "edges": "HOU edges P/R/3/Pr -0.025/-0.053/-0.410/+0.000; LAC -0.331/-0.108/-0.152/+0.130. Combined pass+rush gap +0.361 favors HOU; biggest lane Protection.",
         "sources": [
