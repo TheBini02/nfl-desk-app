@@ -1,17 +1,17 @@
 {
   "week": 9,
-  "generated_at": "2026-11-03T09:30:27-06:00",
+  "generated_at": "2026-11-03T13:52:52-06:00",
   "games": [
     {
       "away": "JAX",
       "home": "BAL",
       "kickoff": "Thu Nov 5 7:15 PM CT",
-      "spread": "JAX -9.5",
+      "spread": "JAX -10",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Jacksonville's offense has been one of the league's cleanest EPA engines, and it now draws a Ravens team without Lamar Jackson on Thursday night. The structural pass/rush lean sits with the Jaguars even inside JAX -9.5; Huntley's Q tag only widens that gap. Treat the big number carefully, but the film/EPA mismatch is not subtle.",
+      "summary": "Jacksonville to win and lay -10 — Lamar’s OUT and Baltimore’s QB situation is chaos. Double-digit road chalk is loud, but the number isn’t wrong when the Ravens’ pass edge walks out with their starter.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): Lamar OUT: BAL struggles more; scheme lean JAX. Baltimore is in emergency QB mode on a short week while Jacksonville can stay on-schedule 11-personnel and force Huntley into long chains. Expect Jaguars to live in play-action and intermediate crossers against a Ravens defense missing continuity at signal-caller.",
@@ -183,8 +183,8 @@
       },
       "picker": {
         "winner": "JAX",
-        "ats": "JAX -9.5",
-        "why": "Structural 3rd lean; gap +0.521 (preview, not lock)"
+        "ats": "JAX -10",
+        "why": "Lamar OUT / BAL QB chaos; number not wrong"
       }
     },
     {
@@ -194,9 +194,9 @@
       "spread": "CIN -3",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Burrow into a Falcons defense that has not suppressed pass EPA is the Madrid headline. Cincinnati owns the pass lane by a wide margin; CIN -3 is a modest ask if the Bengals stay on-schedule. Early overseas kick adds variance, but the season-long mismatch points to the road favorite.",
+      "summary": "Cincinnati to win and CIN -3 — Burrow into a soft Falcons defense, short number that still plays. Bengals by structure on the road.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): Madrid: ATL offense struggles more. Madrid early kick and Falcons' soft pass shell invite Burrow to attack the seams; Atlanta must invent negative plays without a true pass-EPA ceiling. Bengals should force ATL into obvious passing downs where Cincinnati's rush-to-pass leverage flips.",
@@ -369,19 +369,19 @@
       "picker": {
         "winner": "CIN",
         "ats": "CIN -3",
-        "why": "Structural 3rd lean; gap +0.245 (preview, not lock)"
+        "why": "Burrow into soft ATL; short number OK"
       }
     },
     {
       "away": "CLE",
       "home": "NO",
       "kickoff": "Sun Nov 8 12:00 PM CT",
-      "spread": "NO -2.5",
+      "spread": "NO -1.5",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": true,
-      "summary": "Neither offense grades as a hammer — this is a low-event preview where NO -2.5 already prices a thin Saints home nod. Cleveland's pass EPA is middling and the rush grades ugly; New Orleans isn't much healthier. Lean lighter here until one side shows a clear early-down win.",
+      "summary": "New Orleans to win and NO -1.5 — same side as the straight-up pick. Saints at home in a short number; Cleveland’s dog magic isn’t automatic after last week.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): Thin gap; scheme lean CLE. Two low-ceiling offenses in a mudball — Browns' heavy personnel vs Saints' light boxes. Whoever wins early-down run fits on early downs owns a thin script; neither staff wants a track meet.",
@@ -503,9 +503,9 @@
         }
       },
       "picker": {
-        "winner": "CLE",
-        "ats": "CLE +2.5",
-        "why": "Free-data lean vs chalk; protection lane (preview, not lock)"
+        "winner": "NO",
+        "ats": "NO -1.5",
+        "why": "same side as SU"
       }
     },
     {
@@ -515,9 +515,9 @@
       "spread": "DAL -6",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Dallas still creates positive pass EPA against a Colts defense that has leaked explosives all year. At DAL -6 the Cowboys are priced as clear favorites for a reason; Indy's offense ranks near the bottom in pass EPA. Structural lean stays with Dak's side until Indianapolis invents negative plays.",
+      "summary": "Dallas wins, take IND +6 — Cowboys are the better side; -6 gets sticky against Indy, so the Colts get the cushion.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): IND offense worse; soft DAL defense is the subplot. Cowboys' pass-game structure still outclasses Indy's leaky secondary; Colts need early scripted runs to keep Dak out of rhythm. Dallas should force single-high looks and take the deep overs.",
@@ -675,8 +675,8 @@
       },
       "picker": {
         "winner": "DAL",
-        "ats": "DAL -6",
-        "why": "Structural rush lean; gap +0.226 (preview, not lock)"
+        "ats": "IND +6",
+        "why": "DAL wins, -6 sticky vs IND (split)"
       }
     },
     {
@@ -686,9 +686,9 @@
       "spread": "DEN -2.5",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Broncos sit healthier in the standings and own a quieter protection/third-down profile against Carolina. DEN -2.5 is a short number for a 6-2 road team; the EPA gap is real but not enormous. Denver's lean is more about Carolina's ceiling than a blowout script.",
+      "summary": "Denver wins, take CAR +2.5 — Broncos are the side after beating KC at home; don’t auto-lay a short road favorite, so Carolina gets the tiny cushion.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): Close; slight DEN defense edge. Broncos bring a protection-first identity into Carolina's below-average sack profile — expect Denver to win on schedule with 12-personnel run/boot. Panthers must invent pressure without selling out the edges.",
@@ -843,6 +843,11 @@
             ]
           }
         }
+      },
+      "picker": {
+        "winner": "DEN",
+        "ats": "CAR +2.5",
+        "why": "DEN wins; don’t auto-lay short road (split)"
       }
     },
     {
@@ -852,9 +857,9 @@
       "spread": "DET -7",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Detroit's pass offense into Miami's league-worst-ish pass defense is the slate's loudest hammer. DET -7 asks the Lions to win by more than a touchdown, and the free-data edge agrees with the favorite — just respect that double-digits always need a script.",
+      "summary": "Detroit to win and lay -7 — soft Miami D, and Detroit’s offense can cover that number. Lions by structure on the road.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): MIA offense weaker. Lions' pass EPA into Miami's bottom-tier pass defense is the clearest structural hammer on the slate. Detroit should live in condensed splits and flood zones until Willis forces the Dolphins out of soft zone.",
@@ -1013,7 +1018,7 @@
       "picker": {
         "winner": "DET",
         "ats": "DET -7",
-        "why": "Structural pass lean; gap +0.406 (preview, not lock)"
+        "why": "soft MIA D; DET can cover"
       }
     },
     {
@@ -1023,9 +1028,9 @@
       "spread": "LAR -5.5",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Stafford's questionable tag and Adams on IR are the real story under LAR -5.5. Washington's defense still grades soft, so the Rams' structural lean survives on paper, but availability is the falsifier. Without a clear Stafford green light, this number gets stickier for the underdog.",
+      "summary": "Rams to win and LAR -5.5 — Rams by structure on the road. Mid-range lay feels right.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): WSH struggles more; Stafford Q is the caveat. Stafford's Q tag and Adams on IR shrink LA's vertical menu, but Washington's defense still grades soft versus scheme-clean play-action. Rams lean on Nacua/Kyren volume until Stafford's availability clarifies.",
@@ -1198,7 +1203,7 @@
       "picker": {
         "winner": "LAR",
         "ats": "LAR -5.5",
-        "why": "Structural rush lean; gap +0.369 (preview, not lock)"
+        "why": "LAR by structure"
       }
     },
     {
@@ -1208,9 +1213,9 @@
       "spread": "NYG -3.5",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "New York as a road favorite into McKee's 0-3 starter stretch is the board's odd look — and season EPA backs the Giants' lean. Philadelphia has not created positive pass EPA with the backup; NYG -3.5 still asks NYG to close it out on the road. Dog money only if you trust an Eagles explosive reset.",
+      "summary": "New York Giants to win and lay -3.5 — McKee under center in Philly, and the Giants cover a short road number. New York with the side and the lay.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): McKee at QB: PHI struggles more; scheme lean NYG. Giants as road favorites into a McKee-led Eagles offense that has not created positive EPA — NYG can play two-high and dare Philadelphia to drive the field. Eagles need early Saquon explosives to flip leverage.",
@@ -1376,7 +1381,7 @@
       "picker": {
         "winner": "NYG",
         "ats": "NYG -3.5",
-        "why": "Structural protection lean; gap +0.456 (preview, not lock)"
+        "why": "McKee PHI; NYG covers short"
       }
     },
     {
@@ -1386,9 +1391,9 @@
       "spread": "KC -9.5",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Kansas City at home with Mahomes still grades as a clear pass/rush plus against a Jets team that bleeds EPA. KC -9.5 is a full possession-plus; the free-data lean matches the favorite. New York needs early negative plays or this follows the script.",
+      "summary": "Kansas City wins — home Chiefs should handle it. Take NYJ +9.5; -9.5 is too fat even when Kansas City gets the W.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): NYJ struggles more. Chiefs' home pass-and-rush blend versus a Jets defense that bleeds EPA through the air. Kansas City should live in motion-heavy 11-personnel; New York needs negative plays on early downs or this gets away fast.",
@@ -1525,8 +1530,8 @@
       },
       "picker": {
         "winner": "KC",
-        "ats": "KC -9.5",
-        "why": "Structural 3rd lean; gap -0.307 (preview, not lock)"
+        "ats": "NYJ +9.5",
+        "why": "KC wins, -9.5 too fat (split)"
       }
     },
     {
@@ -1536,9 +1541,9 @@
       "spread": "HOU -4.5",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Chargers at 0-7 with broken protection meet a Texans side that at least posts positive pass EPA. HOU -4.5 already sides with Houston; the structural edge agrees. This is less about Houston being great than LAC being structurally broken.",
+      "summary": "Houston to win and HOU -4.5 — Chargers offense has been a crater. Texans lay the points on the road.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): LAC offense collapses; scheme lean HOU. Two struggling teams, but Houston's pass EPA and sack generation beat a Chargers unit sitting at 0-7 with broken protection. Texans can force Herbert into obvious third-and-longs.",
@@ -1697,7 +1702,7 @@
       "picker": {
         "winner": "HOU",
         "ats": "HOU -4.5",
-        "why": "Structural protection lean; gap +0.361 (preview, not lock)"
+        "why": "LAC offense crater"
       }
     },
     {
@@ -1707,9 +1712,9 @@
       "spread": "SEA -10.5",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Seattle's home defense into a Cardinals offense missing Bourne and uncertain at WR1 supports a large home number. SEA -10.5 is huge, and the free-data lean still points to the Seahawks — but double-digit homes always invite live-underdog chatter if the script stalls.",
+      "summary": "Seattle wins — Seahawks at home. Take ARI +10.5; fat number plus last week’s reminder that elite D alone isn’t a short-home shield.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): ARI into SEA defense; note SEA D got lit up by CHI in Week 8. Seattle's home defense grades well against a Cardinals offense missing Bourne and uncertain at WR1. Seahawks can sit in two-shell and make Brissett drive the length of the field.",
@@ -1881,20 +1886,20 @@
       },
       "picker": {
         "winner": "SEA",
-        "ats": "SEA -10.5",
-        "why": "Structural 3rd lean; gap -0.193 (preview, not lock)"
+        "ats": "ARI +10.5",
+        "why": "SEA wins; fat number + W8 elite-D lesson (split)"
       }
     },
     {
       "away": "GB",
       "home": "NE",
       "kickoff": "Sun Nov 8 3:25 PM CT",
-      "spread": "NE -2.5",
+      "spread": "NE -3",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Near coin-flip EPA into a short home number for New England. Watson's ribs shrink Green Bay's vertical answers while Maye's pass EPA holds up. NE -2.5 is small enough that either side can be right; slight structural nod to the home favorite on protection and third downs.",
+      "summary": "New England to win and NE -3 — Patriots at home. Short home chalk; take New England.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): Close. Near-pick'em structure: Love's efficiency vs Maye's emerging EPA, with Watson's ribs a real Green Bay menu shrinker. Patriots' home edge is protection and forcing GB into obvious third downs.",
@@ -2052,8 +2057,8 @@
       },
       "picker": {
         "winner": "NE",
-        "ats": "NE -2.5",
-        "why": "Structural 3rd lean; gap -0.058 (preview, not lock)"
+        "ats": "NE -3",
+        "why": "NE home"
       }
     },
     {
@@ -2063,9 +2068,9 @@
       "spread": "SF -10",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "San Francisco's pass EPA remains elite even with Aiyuk out and Deebo/Evans in flux. Raiders have leaked explosive EPA on defense; SF -10 is a big home ask that the season-long numbers still support. Availability at WR is the only soft spot in the 49ers' lean.",
+      "summary": "San Francisco wins — home 49ers should win. Take LV +10; -10 is fat cover territory for the Raiders.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): LV struggles more. Purdy-led 49ers still post elite pass EPA even with Aiyuk out and Deebo/Evans in flux; Raiders' defense has leaked explosive EPA. San Francisco should win with condensed splits and CMC early downs.",
@@ -2216,8 +2221,8 @@
       },
       "picker": {
         "winner": "SF",
-        "ats": "SF -10",
-        "why": "Structural pass lean; gap -0.628 (preview, not lock)"
+        "ats": "LV +10",
+        "why": "SF wins, -10 fat (split)"
       }
     },
     {
@@ -2227,9 +2232,9 @@
       "spread": "CHI -6",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Chicago's third-down defense has been nasty, and Tampa's pass EPA still sits underwater with Egbuka questionable. CHI -6 prices the Bears as clear home favorites; free-data edges agree. Bucs need an early explosive to keep this from tilting.",
+      "summary": "Chicago to win and CHI -6 — Bears’ form with Williams just lit up an elite home D on the road. Home Chicago laying six rides that momentum.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): CHI into elite TB defense is a harder climb. Bears' home defense (elite third-down EPA allowed) vs a Bucs offense still searching for positive pass EPA. Chicago can two-high and dare Mayfield to string drives after Egbuka's Q tag.",
@@ -2360,7 +2365,7 @@
       "picker": {
         "winner": "CHI",
         "ats": "CHI -6",
-        "why": "Structural protection lean; gap -0.058 (preview, not lock)"
+        "why": "CHI form with Williams"
       }
     },
     {
@@ -2370,9 +2375,9 @@
       "spread": "BUF -3.5",
       "pick": null,
       "why": null,
-      "type": "BASE",
+      "type": null,
       "money_flag": false,
-      "summary": "Allen's top-shelf pass EPA versus a Vikings defense that can still generate heat, with Murray's Q tag the Monday subplot. BUF -3.5 is a field goal; Buffalo owns the cleaner season-long offense. Minnesota's pass-rush lane is the live dog path if Murray is limited.",
+      "summary": "Buffalo wins into Minnesota’s elite D — Bills still get the side. Take MIN +3.5; that number stays close enough for the Vikings to hang.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): Best offense vs best defense; MIN D did not cash the DET upset in Week 8. MNF volume spot: Allen's top-tier pass EPA into a Vikings defense that can still generate sacks, with Murray's Q tag hanging over Minnesota's response. Buffalo should stress MIN on early downs before the pass rush tees off.",
@@ -2516,8 +2521,8 @@
       },
       "picker": {
         "winner": "BUF",
-        "ats": "BUF -3.5",
-        "why": "Structural rush lean; gap +0.149 (preview, not lock)"
+        "ats": "MIN +3.5",
+        "why": "BUF wins into elite MIN D — close number (split)"
       }
     }
   ],
