@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "generated_at": "2026-11-03T09:28:36-06:00",
+  "generated_at": "2026-11-03T09:29:51-06:00",
   "games": [
     {
       "away": "JAX",
@@ -14,7 +14,7 @@
       "summary": "Jacksonville's offense has been one of the league's cleanest EPA engines, and it now draws a Ravens team without Lamar Jackson on Thursday night. The structural pass/rush lean sits with the Jaguars even inside JAX -9.5; Huntley's Q tag only widens that gap. Treat the big number carefully, but the film/EPA mismatch is not subtle.",
       "final_score": null,
       "details": {
-        "scheme": "Baltimore is in emergency QB mode on a short week while Jacksonville can stay on-schedule 11-personnel and force Huntley into long chains. Expect Jaguars to live in play-action and intermediate crossers against a Ravens defense missing continuity at signal-caller.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): Lamar OUT: BAL struggles more; dog lean JAX. Baltimore is in emergency QB mode on a short week while Jacksonville can stay on-schedule 11-personnel and force Huntley into long chains. Expect Jaguars to live in play-action and intermediate crossers against a Ravens defense missing continuity at signal-caller.",
         "injuries": "JAX: QB Lawrence ACTIVE / WR1 Washington ACTIVE · BAL: QB Jackson OUT (thumb, IR); Huntley Q (toe, coach: probably won't play TNF) / WR1 Flowers ACTIVE",
         "edges": "JAX edges P/R/3/Pr +0.189/+0.139/+0.362/+0.020; BAL -0.085/-0.108/-0.069/+0.260. Combined pass+rush gap +0.521 favors JAX; biggest lane 3rd.",
         "sources": [
@@ -22,7 +22,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -9.5 (CBS had -8.5)"
+          "ESPN -9.5 (CBS had -8.5)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -198,7 +199,7 @@
       "summary": "Burrow into a Falcons defense that has not suppressed pass EPA is the Madrid headline. Cincinnati owns the pass lane by a wide margin; CIN -3 is a modest ask if the Bengals stay on-schedule. Early overseas kick adds variance, but the season-long mismatch points to the road favorite.",
       "final_score": null,
       "details": {
-        "scheme": "Madrid early kick and Falcons' soft pass shell invite Burrow to attack the seams; Atlanta must invent negative plays without a true pass-EPA ceiling. Bengals should force ATL into obvious passing downs where Cincinnati's rush-to-pass leverage flips.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): Madrid: ATL offense struggles more. Madrid early kick and Falcons' soft pass shell invite Burrow to attack the seams; Atlanta must invent negative plays without a true pass-EPA ceiling. Bengals should force ATL into obvious passing downs where Cincinnati's rush-to-pass leverage flips.",
         "injuries": "CIN: QB Burrow ACTIVE / WR1 Chase ACTIVE · ATL: QB Penix ACTIVE / WR1 London ACTIVE",
         "edges": "CIN edges P/R/3/Pr +0.096/-0.049/+0.244/-0.130; ATL -0.265/+0.067/+0.006/-0.190. Combined pass+rush gap +0.245 favors CIN; biggest lane 3rd.",
         "sources": [
@@ -206,7 +207,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "Madrid; ESPN -3 (CBS -3.5)"
+          "Madrid; ESPN -3 (CBS -3.5)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -382,7 +384,7 @@
       "summary": "Neither offense grades as a hammer — this is a low-event preview where NO -2.5 already prices a thin Saints home nod. Cleveland's pass EPA is middling and the rush grades ugly; New Orleans isn't much healthier. Lean lighter here until one side shows a clear early-down win.",
       "final_score": null,
       "details": {
-        "scheme": "Two low-ceiling offenses in a mudball — Browns' heavy personnel vs Saints' light boxes. Whoever wins early-down run fits on early downs owns a thin script; neither staff wants a track meet.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): Thin gap; dog lean CLE. Two low-ceiling offenses in a mudball — Browns' heavy personnel vs Saints' light boxes. Whoever wins early-down run fits on early downs owns a thin script; neither staff wants a track meet.",
         "injuries": "CLE: QB Watson ACTIVE / WR1 Boston ACTIVE · NO: QB Shough ACTIVE / WR1 Olave ACTIVE",
         "edges": "CLE edges P/R/3/Pr -0.046/-0.002/-0.141/+0.370; NO -0.121/-0.013/-0.181/-0.210. Combined pass+rush gap +0.086 favors CLE; biggest lane Protection.",
         "sources": [
@@ -390,7 +392,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS -2.5"
+          "ESPN/CBS -2.5",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -517,7 +520,7 @@
       "summary": "Dallas still creates positive pass EPA against a Colts defense that has leaked explosives all year. At DAL -6 the Cowboys are priced as clear favorites for a reason; Indy's offense ranks near the bottom in pass EPA. Structural lean stays with Dak's side until Indianapolis invents negative plays.",
       "final_score": null,
       "details": {
-        "scheme": "Cowboys' pass-game structure still outclasses Indy's leaky secondary; Colts need early scripted runs to keep Dak out of rhythm. Dallas should force single-high looks and take the deep overs.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): IND offense worse; soft DAL defense is the subplot. Cowboys' pass-game structure still outclasses Indy's leaky secondary; Colts need early scripted runs to keep Dak out of rhythm. Dallas should force single-high looks and take the deep overs.",
         "injuries": "DAL: QB Prescott ACTIVE / WR1 Lamb ACTIVE · IND: QB Jones ACTIVE / WR1 Downs ACTIVE",
         "edges": "DAL edges P/R/3/Pr +0.114/+0.166/+0.136/-0.290; IND -0.114/+0.168/+0.276/+0.250. Combined pass+rush gap +0.226 favors DAL; biggest lane Rush.",
         "sources": [
@@ -525,7 +528,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -6 (CBS -5.5)"
+          "ESPN -6 (CBS -5.5)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -687,7 +691,7 @@
       "summary": "Broncos sit healthier in the standings and own a quieter protection/third-down profile against Carolina. DEN -2.5 is a short number for a 6-2 road team; the EPA gap is real but not enormous. Denver's lean is more about Carolina's ceiling than a blowout script.",
       "final_score": null,
       "details": {
-        "scheme": "Broncos bring a protection-first identity into Carolina's below-average sack profile — expect Denver to win on schedule with 12-personnel run/boot. Panthers must invent pressure without selling out the edges.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): Close; slight DEN defense edge. Broncos bring a protection-first identity into Carolina's below-average sack profile — expect Denver to win on schedule with 12-personnel run/boot. Panthers must invent pressure without selling out the edges.",
         "injuries": "DEN: QB Nix ACTIVE / WR1 Waddle ACTIVE · CAR: QB Young ACTIVE / WR1 McMillan ACTIVE",
         "edges": "DEN edges P/R/3/Pr -0.077/+0.095/-0.372/-0.040; CAR -0.083/+0.087/-0.297/+0.070. Combined pass+rush gap +0.014 favors DEN; biggest lane Rush.",
         "sources": [
@@ -695,7 +699,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS -2.5"
+          "ESPN/CBS -2.5",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -852,7 +857,7 @@
       "summary": "Detroit's pass offense into Miami's league-worst-ish pass defense is the slate's loudest hammer. DET -7 asks the Lions to win by more than a touchdown, and the free-data edge agrees with the favorite — just respect that double-digits always need a script.",
       "final_score": null,
       "details": {
-        "scheme": "Lions' pass EPA into Miami's bottom-tier pass defense is the clearest structural hammer on the slate. Detroit should live in condensed splits and flood zones until Willis forces the Dolphins out of soft zone.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): MIA offense weaker. Lions' pass EPA into Miami's bottom-tier pass defense is the clearest structural hammer on the slate. Detroit should live in condensed splits and flood zones until Willis forces the Dolphins out of soft zone.",
         "injuries": "DET: QB Goff ACTIVE / WR1 St. Brown ACTIVE · MIA: QB Willis ACTIVE / WR1 Washington ACTIVE",
         "edges": "DET edges P/R/3/Pr +0.408/+0.024/+0.237/+0.180; MIA +0.077/-0.051/+0.267/+0.190. Combined pass+rush gap +0.406 favors DET; biggest lane Pass.",
         "sources": [
@@ -860,7 +865,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS -7 (FOX had -6.5 earlier)"
+          "ESPN/CBS -7 (FOX had -6.5 earlier)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1022,7 +1028,7 @@
       "summary": "Stafford's questionable tag and Adams on IR are the real story under LAR -5.5. Washington's defense still grades soft, so the Rams' structural lean survives on paper, but availability is the falsifier. Without a clear Stafford green light, this number gets stickier for the underdog.",
       "final_score": null,
       "details": {
-        "scheme": "Stafford's Q tag and Adams on IR shrink LA's vertical menu, but Washington's defense still grades soft versus scheme-clean play-action. Rams lean on Nacua/Kyren volume until Stafford's availability clarifies.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): WSH struggles more; Stafford Q is the caveat. Stafford's Q tag and Adams on IR shrink LA's vertical menu, but Washington's defense still grades soft versus scheme-clean play-action. Rams lean on Nacua/Kyren volume until Stafford's availability clarifies.",
         "injuries": "LAR: QB Stafford Q (arm soreness) / WR1 Nacua ACTIVE · WSH: QB Daniels ACTIVE / WR1 Diggs ACTIVE",
         "edges": "LAR edges P/R/3/Pr +0.024/+0.085/+0.016/-0.180; WSH -0.140/-0.120/-0.638/+0.180. Combined pass+rush gap +0.369 favors LAR; biggest lane Rush.",
         "sources": [
@@ -1030,7 +1036,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS/FOX -5.5"
+          "ESPN/CBS/FOX -5.5",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1206,7 +1213,7 @@
       "summary": "New York as a road favorite into McKee's 0-3 starter stretch is the board's odd look — and season EPA backs the Giants' lean. Philadelphia has not created positive pass EPA with the backup; NYG -3.5 still asks NYG to close it out on the road. Dog money only if you trust an Eagles explosive reset.",
       "final_score": null,
       "details": {
-        "scheme": "Giants as road favorites into a McKee-led Eagles offense that has not created positive EPA — NYG can play two-high and dare Philadelphia to drive the field. Eagles need early Saquon explosives to flip leverage.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): McKee at QB: PHI struggles more; dog lean NYG. Giants as road favorites into a McKee-led Eagles offense that has not created positive EPA — NYG can play two-high and dare Philadelphia to drive the field. Eagles need early Saquon explosives to flip leverage.",
         "injuries": "NYG: QB McCarthy ACTIVE / WR1 Nabers ACTIVE · PHI: QB McKee ACTIVE / WR1 DeVonta Smith Q",
         "edges": "NYG edges P/R/3/Pr +0.085/+0.133/+0.193/+0.450; PHI -0.185/-0.053/-0.168/+0.370. Combined pass+rush gap +0.456 favors NYG; biggest lane Protection.",
         "sources": [
@@ -1214,7 +1221,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -3.5 (CBS -3 / FOX -2.5)"
+          "ESPN -3.5 (CBS -3 / FOX -2.5)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1383,7 +1391,7 @@
       "summary": "Kansas City at home with Mahomes still grades as a clear pass/rush plus against a Jets team that bleeds EPA. KC -9.5 is a full possession-plus; the free-data lean matches the favorite. New York needs early negative plays or this follows the script.",
       "final_score": null,
       "details": {
-        "scheme": "Chiefs' home pass-and-rush blend versus a Jets defense that bleeds EPA through the air. Kansas City should live in motion-heavy 11-personnel; New York needs negative plays on early downs or this gets away fast.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): NYJ struggles more. Chiefs' home pass-and-rush blend versus a Jets defense that bleeds EPA through the air. Kansas City should live in motion-heavy 11-personnel; New York needs negative plays on early downs or this gets away fast.",
         "injuries": "NYJ: QB Smith ACTIVE / WR1 G. Wilson ACTIVE · KC: QB Mahomes ACTIVE / WR1 Rice ACTIVE",
         "edges": "NYJ edges P/R/3/Pr +0.030/-0.061/-0.002/+0.500; KC +0.175/+0.101/+0.262/-0.370. Combined pass+rush gap -0.307 favors KC; biggest lane 3rd.",
         "sources": [
@@ -1391,7 +1399,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS -9.5"
+          "ESPN/CBS -9.5",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1532,7 +1541,7 @@
       "summary": "Chargers at 0-7 with broken protection meet a Texans side that at least posts positive pass EPA. HOU -4.5 already sides with Houston; the structural edge agrees. This is less about Houston being great than LAC being structurally broken.",
       "final_score": null,
       "details": {
-        "scheme": "Two struggling teams, but Houston's pass EPA and sack generation beat a Chargers unit sitting at 0-7 with broken protection. Texans can force Herbert into obvious third-and-longs.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): LAC offense collapses; dog lean HOU. Two struggling teams, but Houston's pass EPA and sack generation beat a Chargers unit sitting at 0-7 with broken protection. Texans can force Herbert into obvious third-and-longs.",
         "injuries": "HOU: QB Stroud ACTIVE / WR1 Collins ACTIVE · LAC: QB Herbert ACTIVE / WR1 McConkey ACTIVE",
         "edges": "HOU edges P/R/3/Pr -0.025/-0.053/-0.410/+0.000; LAC -0.331/-0.108/-0.152/+0.130. Combined pass+rush gap +0.361 favors HOU; biggest lane Protection.",
         "sources": [
@@ -1540,7 +1549,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS -4.5"
+          "ESPN/CBS -4.5",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1702,7 +1712,7 @@
       "summary": "Seattle's home defense into a Cardinals offense missing Bourne and uncertain at WR1 supports a large home number. SEA -10.5 is huge, and the free-data lean still points to the Seahawks — but double-digit homes always invite live-underdog chatter if the script stalls.",
       "final_score": null,
       "details": {
-        "scheme": "Seattle's home defense grades well against a Cardinals offense missing Bourne and uncertain at WR1. Seahawks can sit in two-shell and make Brissett drive the length of the field.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): ARI into SEA defense; note SEA D got lit up by CHI in Week 8. Seattle's home defense grades well against a Cardinals offense missing Bourne and uncertain at WR1. Seahawks can sit in two-shell and make Brissett drive the length of the field.",
         "injuries": "ARI: QB Minshew ACTIVE / WR1 Wilson Q (ribs) · SEA: QB Darnold ACTIVE / WR1 Smith-Njigba ACTIVE",
         "edges": "ARI edges P/R/3/Pr -0.208/-0.003/-0.524/-0.060; SEA +0.179/-0.197/+0.237/-0.060. Combined pass+rush gap -0.193 favors SEA; biggest lane 3rd.",
         "sources": [
@@ -1710,7 +1720,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -10.5 (CBS -11.5)"
+          "ESPN -10.5 (CBS -11.5)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1886,7 +1897,7 @@
       "summary": "Near coin-flip EPA into a short home number for New England. Watson's ribs shrink Green Bay's vertical answers while Maye's pass EPA holds up. NE -2.5 is small enough that either side can be right; slight structural nod to the home favorite on protection and third downs.",
       "final_score": null,
       "details": {
-        "scheme": "Near-pick'em structure: Love's efficiency vs Maye's emerging EPA, with Watson's ribs a real Green Bay menu shrinker. Patriots' home edge is protection and forcing GB into obvious third downs.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): Close. Near-pick'em structure: Love's efficiency vs Maye's emerging EPA, with Watson's ribs a real Green Bay menu shrinker. Patriots' home edge is protection and forcing GB into obvious third downs.",
         "injuries": "GB: QB Love ACTIVE / WR1 Watson Q (ribs) · NE: QB Maye ACTIVE / WR1 A.J. Brown Q (ankle/knee)",
         "edges": "GB edges P/R/3/Pr +0.066/-0.177/+0.009/-0.330; NE +0.028/-0.081/+0.065/-0.110. Combined pass+rush gap -0.058 favors NE; biggest lane 3rd.",
         "sources": [
@@ -1894,7 +1905,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/FOX -2.5 (CBS had -3)"
+          "ESPN/FOX -2.5 (CBS had -3)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -2056,7 +2068,7 @@
       "summary": "San Francisco's pass EPA remains elite even with Aiyuk out and Deebo/Evans in flux. Raiders have leaked explosive EPA on defense; SF -10 is a big home ask that the season-long numbers still support. Availability at WR is the only soft spot in the 49ers' lean.",
       "final_score": null,
       "details": {
-        "scheme": "Purdy-led 49ers still post elite pass EPA even with Aiyuk out and Deebo/Evans in flux; Raiders' defense has leaked explosive EPA. San Francisco should win with condensed splits and CMC early downs.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): LV struggles more. Purdy-led 49ers still post elite pass EPA even with Aiyuk out and Deebo/Evans in flux; Raiders' defense has leaked explosive EPA. San Francisco should win with condensed splits and CMC early downs.",
         "injuries": "LV: QB Cousins ACTIVE / WR1 Tucker ACTIVE · SF: QB Purdy ACTIVE / WR1 Evans Q (Achilles); Aiyuk OUT; Deebo Q (hamstring)",
         "edges": "LV edges P/R/3/Pr +0.067/-0.231/+0.270/-0.210; SF +0.319/+0.145/+0.078/-0.330. Combined pass+rush gap -0.628 favors SF; biggest lane Pass.",
         "sources": [
@@ -2064,7 +2076,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -10 (CBS/FOX -9.5)"
+          "ESPN -10 (CBS/FOX -9.5)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -2219,7 +2232,7 @@
       "summary": "Chicago's third-down defense has been nasty, and Tampa's pass EPA still sits underwater with Egbuka questionable. CHI -6 prices the Bears as clear home favorites; free-data edges agree. Bucs need an early explosive to keep this from tilting.",
       "final_score": null,
       "details": {
-        "scheme": "Bears' home defense (elite third-down EPA allowed) vs a Bucs offense still searching for positive pass EPA. Chicago can two-high and dare Mayfield to string drives after Egbuka's Q tag.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): CHI into elite TB defense is a harder climb. Bears' home defense (elite third-down EPA allowed) vs a Bucs offense still searching for positive pass EPA. Chicago can two-high and dare Mayfield to string drives after Egbuka's Q tag.",
         "injuries": "TB: QB Mayfield ACTIVE / WR1 Egbuka Q · CHI: QB Williams ACTIVE / WR1 Odunze ACTIVE",
         "edges": "TB edges P/R/3/Pr -0.294/+0.059/-0.611/+0.070; CHI -0.157/-0.020/-0.302/+0.070. Combined pass+rush gap -0.058 favors CHI; biggest lane Protection.",
         "sources": [
@@ -2227,7 +2240,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -6 (CBS -5.5)"
+          "ESPN -6 (CBS -5.5)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -2361,7 +2375,7 @@
       "summary": "Allen's top-shelf pass EPA versus a Vikings defense that can still generate heat, with Murray's Q tag the Monday subplot. BUF -3.5 is a field goal; Buffalo owns the cleaner season-long offense. Minnesota's pass-rush lane is the live dog path if Murray is limited.",
       "final_score": null,
       "details": {
-        "scheme": "MNF volume spot: Allen's top-tier pass EPA into a Vikings defense that can still generate sacks, with Murray's Q tag hanging over Minnesota's response. Buffalo should stress MIN on early downs before the pass rush tees off.",
+        "scheme": "EPA gap (rbsdm W1–8, 11/03): Best offense vs best defense; MIN D did not cash the DET upset in Week 8. MNF volume spot: Allen's top-tier pass EPA into a Vikings defense that can still generate sacks, with Murray's Q tag hanging over Minnesota's response. Buffalo should stress MIN on early downs before the pass rush tees off.",
         "injuries": "BUF: QB Allen ACTIVE / WR1 DJ Moore Q (knee) · MIN: QB Murray Q (hamstring) / WR1 Jefferson ACTIVE",
         "edges": "BUF edges P/R/3/Pr -0.046/+0.062/-0.050/-0.520; MIN -0.006/-0.127/-0.277/+0.390. Combined pass+rush gap +0.149 favors BUF; biggest lane Rush.",
         "sources": [
@@ -2369,7 +2383,8 @@
           "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
           "ESPN team depth charts",
           "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -3.5 (CBS -3)"
+          "ESPN -3.5 (CBS -3)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
