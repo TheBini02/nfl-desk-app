@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "generated_at": "2026-11-05T09:14:28-06:00",
+  "generated_at": "2026-11-05T09:19:28-06:00",
   "games": [
     {
       "away": "JAX",
@@ -14,8 +14,8 @@
       "summary": "Jacksonville to win and lay -10 — Lamar OUT and Huntley OUT; Fagnano starts TNF. Double-digit road chalk is loud, but third-string Baltimore on a short week keeps the number honest.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8): Lamar OUT + Huntley OUT — Fagnano starts TNF. BAL emergency third-string QB on short week; scheme lean JAX. Expect Jaguars play-action/intermediate crossers; Ravens lean Henry/short throws.",
-        "injuries": "JAX: QB Lawrence ACTIVE / WR1 Washington ACTIVE · BAL: QB Jackson OUT (thumb, IR-bound); Huntley OUT (toe, season); Fagnano STARTS TNF / WR1 Flowers ACTIVE",
+        "scheme": "EPA (rbsdm W1–8 + Fagnano overlay): JAX Off (+0.124) vs BAL Def (+0.017); BAL Off with Fagnano vs elite JAX Def (−0.081). Gap: BAL struggles more — third-string QB into elite JAX D widens the mismatch. Scheme lean JAX (stronger than Tue).",
+        "injuries": "JAX: QB Lawrence ACTIVE / WR1 Parker Washington ACTIVE · BAL: QB Fagnano ACTIVE (TNF starter, depth QB1) / WR1 Flowers ACTIVE; Jackson OUT/IR (thumb); Huntley OUT (turf toe, IR looming). Brissett trade reported for later weeks; TNF still Fagnano",
         "edges": "JAX edges P/R/3/Pr +0.189/+0.139/+0.362/+0.020; BAL -0.085/-0.108/-0.069/+0.260. Combined pass+rush gap +0.521 favors JAX; biggest lane 3rd.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
@@ -333,8 +333,8 @@
       "summary": "New Orleans to win and NO -3 — Watson in concussion protocol with Sanders likely to start; Saints at home in a short-to-middling number after the Browns’ QB downgrade.",
       "final_score": null,
       "details": {
-        "scheme": "Thin gap flipped by Watson concussion protocol — Sanders likely under center. Prior free-data CLE lean no longer holds vs NO -3; scheme lean NO at home if Watson sits.",
-        "injuries": "CLE: QB Watson Q (concussion protocol; Sanders likely start) / WR1 Boston Q (calf) · NO: QB Shough ACTIVE / WR1 Olave ACTIVE",
+        "scheme": "EPA (rbsdm W1–8 + Sanders overlay): CLE Off (−0.067, Sanders likely) vs soft NO Def (+0.081); NO Off (−0.031) vs CLE Def (−0.018). Gap: thin — CLE Off into soft NO D is the slight edge; Sanders doesn't flip it to a strong lean. Scheme lean CLE (thin only).",
+        "injuries": "CLE: QB Watson Q (concussion protocol); Sanders ACTIVE (likely start) / WR1 Boston Q · NO: QB Shough ACTIVE / WR1 Olave ACTIVE",
         "edges": "CLE edges P/R/3/Pr -0.046/-0.002/-0.141/+0.370; NO -0.121/-0.013/-0.181/-0.210. Combined pass+rush gap +0.086 favors CLE; biggest lane Protection.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
@@ -753,7 +753,7 @@
       "final_score": null,
       "details": {
         "scheme": "DET pass O into soft MIA pass D remains the hammer; St. Brown Q (ribs) is the only wrinkle. Scheme lean DET.",
-        "injuries": "DET: QB Goff ACTIVE / WR1 St. Brown Q (ribs) · MIA: QB Willis ACTIVE / WR1 Washington ACTIVE",
+        "injuries": "DET: QB Goff ACTIVE / WR1 St. Brown Q · MIA: QB Willis ACTIVE / WR1 Malik Washington ACTIVE",
         "edges": "DET edges P/R/3/Pr +0.408/+0.024/+0.237/+0.180; MIA +0.077/-0.051/+0.267/+0.190. Combined pass+rush gap +0.406 favors DET; biggest lane Pass.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
@@ -873,8 +873,8 @@
       "summary": "Rams to win and LAR -4.5 — Stafford upgraded to active; Adams still on IR. Mid-range road lay into a soft Washington defense.",
       "final_score": null,
       "details": {
-        "scheme": "Stafford upgraded to ACTIVE (arm); Adams still IR. WSH defense still soft; LAR structural lean survives with Stafford expected in.",
-        "injuries": "LAR: QB Stafford ACTIVE (was Q arm) / WR1 Nacua ACTIVE; Adams IR · WSH: QB Daniels ACTIVE / WR1 Diggs ACTIVE",
+        "scheme": "EPA (rbsdm W1–8 + Stafford overlay): LA Off (+0.047, Stafford active) vs WAS Def (+0.033); WAS Off (−0.005) vs LA Def (−0.081). Gap: WAS struggles more into strong LA D; Stafford active clears the Q caveat — LAR Off edge cleaner.",
+        "injuries": "LAR: QB Stafford ACTIVE / WR1 Nacua ACTIVE · WSH: QB Daniels ACTIVE / WR1 Diggs ACTIVE",
         "edges": "LAR edges P/R/3/Pr +0.024/+0.085/+0.016/-0.180; WSH -0.140/-0.120/-0.638/+0.180. Combined pass+rush gap +0.369 favors LAR; biggest lane Rush.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
@@ -1116,7 +1116,7 @@
       "final_score": null,
       "details": {
         "scheme": "KC home pass/rush plus vs Jets. G. Wilson Q (concussion) and Hall Q weaken NYJ; KC -10 still a full possession-plus.",
-        "injuries": "NYJ: QB Smith ACTIVE / WR1 G. Wilson Q (concussion); Hall Q (quad) · KC: QB Mahomes ACTIVE / WR1 Rice Q (hamstring)",
+        "injuries": "NYJ: QB Smith ACTIVE / WR1 Garrett Wilson Q (concussion) · KC: QB Mahomes ACTIVE / WR1 Rice Q",
         "edges": "NYJ edges P/R/3/Pr +0.030/-0.061/-0.002/+0.500; KC +0.175/+0.101/+0.262/-0.370. Combined pass+rush gap -0.307 favors KC; biggest lane 3rd.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
@@ -1350,8 +1350,8 @@
       "summary": "Seattle wins — home Seahawks even with Darnold OUT and Lock starting. Take ARI +8.5; the number eased only two points off a starter-QB absence, and last week’s elite-D reminder still applies.",
       "final_score": null,
       "details": {
-        "scheme": "Darnold OUT (quad/rib); Lock starts managing elbow. SEA home D still grades well, but starter QB absence cuts the hammer — lean SEA thinner than Tue SEA -10.5 board.",
-        "injuries": "ARI: QB Brissett ACTIVE / WR1 Wilson Q (ribs); Bourne IR; Love IR · SEA: QB Darnold OUT (quad/rib); Lock STARTS (elbow Q) / WR1 Smith-Njigba ACTIVE",
+        "scheme": "EPA (rbsdm W1–8 + Lock overlay): ARI Off (−0.007) vs SEA Def (−0.077); SEA Off (−0.050, Lock/elbow) vs soft ARI Def (+0.087). Gap: ARI Off still the harder climb into SEA D; Lock softens SEA Off — W8 CHI lit-up reminder on SEA D as chalk.",
+        "injuries": "ARI: QB Minshew ACTIVE / WR1 Michael Wilson Q (ribs) · SEA: QB Darnold OUT (quad/ribs); Lock Q (elbow) but set to start / WR1 Smith-Njigba ACTIVE",
         "edges": "ARI edges P/R/3/Pr -0.208/-0.003/-0.524/-0.060; SEA +0.179/-0.197/+0.237/-0.060. Combined pass+rush gap -0.193 favors SEA; biggest lane 3rd.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
@@ -1492,8 +1492,8 @@
       "summary": "New England to win and NE -3.5 — Patriots at home with Parsons OUT for Green Bay and Watson’s ribs still a question. Short home chalk gets cleaner.",
       "final_score": null,
       "details": {
-        "scheme": "Close EPA into short NE home number. Parsons OUT removes GB’s top pass-rush threat; Watson Q (ribs) shrinks GB vertical. Scheme lean NE slightly stronger than Tue.",
-        "injuries": "GB: QB Love ACTIVE / WR1 Watson Q (ribs); Parsons OUT · NE: QB Maye ACTIVE / WR1 A.J. Brown Q (ankle/knee)",
+        "scheme": "EPA (rbsdm W1–8 + Parsons overlay): GB Off (+0.010) vs NE Def (+0.011); NE Off (+0.057) vs GB Def (−0.044 without Parsons). Gap: close; Parsons OUT softens GB pass-rush/D edge — NE Off into GB D less scary than Tue.",
+        "injuries": "GB: QB Love ACTIVE / WR1 Christian Watson Q (rib); Parsons OUT (DE) · NE: QB Maye ACTIVE / WR1 A.J. Brown Q",
         "edges": "GB edges P/R/3/Pr +0.066/-0.177/+0.009/-0.330; NE +0.028/-0.081/+0.065/-0.110. Combined pass+rush gap -0.058 favors NE; biggest lane 3rd.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
@@ -1627,8 +1627,8 @@
       "summary": "San Francisco wins — home 49ers should win even with Aiyuk out and CMC/Evans/Deebo tagged. Take LV +10; -10 is fat cover territory for the Raiders.",
       "final_score": null,
       "details": {
-        "scheme": "SF pass EPA still elite with Aiyuk OUT; CMC/Evans/Deebo all Q. Raiders leak explosives; SF home lean intact but skill-group availability is the caveat.",
-        "injuries": "LV: QB Cousins ACTIVE / WR1 Tucker ACTIVE · SF: QB Purdy ACTIVE / WR1 Evans Q (Achilles); Aiyuk OUT; Deebo Q (hamstring); CMC Q (hamstring)",
+        "scheme": "EPA (rbsdm W1–8 + skill-group overlay): LV Off (+0.046) vs SF Def (−0.040); SF Off (+0.154) vs soft LV Def (+0.064). Gap: LV struggles more if SF skill group mostly available; CMC/Evans/Deebo all Q and Aiyuk OUT — any OUTs soften SF Off edge.",
+        "injuries": "LV: QB Cousins ACTIVE / WR1 Tre Tucker ACTIVE · SF: QB Purdy ACTIVE / WR1 Evans Q; CMC Q; Deebo Q; Aiyuk OUT",
         "edges": "LV edges P/R/3/Pr +0.067/-0.231/+0.270/-0.210; SF +0.319/+0.145/+0.078/-0.330. Combined pass+rush gap -0.628 favors SF; biggest lane Pass.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
@@ -1877,7 +1877,7 @@
       "final_score": null,
       "details": {
         "scheme": "Allen top-shelf pass EPA into MIN D; Murray still Q (hamstring) for MNF. Scheme lean BUF; close number.",
-        "injuries": "BUF: QB Allen ACTIVE / WR1 Shakir ACTIVE; DJ Moore Q (knee) · MIN: QB Murray Q (hamstring) / WR1 Jefferson ACTIVE",
+        "injuries": "BUF: QB Allen ACTIVE / WR1 DJ Moore Q · MIN: QB Murray Q (hamstring) / WR1 Jefferson ACTIVE",
         "edges": "BUF edges P/R/3/Pr -0.046/+0.062/-0.050/-0.520; MIN -0.006/-0.127/-0.277/+0.390. Combined pass+rush gap +0.149 favors BUF; biggest lane Rush.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
