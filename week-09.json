@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "generated_at": "2026-11-05T09:19:28-06:00",
+  "generated_at": "2026-11-05T09:21:39-06:00",
   "games": [
     {
       "away": "JAX",
@@ -11,7 +11,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Jacksonville to win and lay -10 — Lamar OUT and Huntley OUT; Fagnano starts TNF. Double-digit road chalk is loud, but third-string Baltimore on a short week keeps the number honest.",
+      "summary": "Jacksonville to win and lay -10 — Fagnano into an elite Jaguars defense with Lamar OUT. The number's loud, but Baltimore's pass edge is gone and that chalk still plays.",
       "final_score": null,
       "details": {
         "scheme": "EPA (rbsdm W1–8 + Fagnano overlay): JAX Off (+0.124) vs BAL Def (+0.017); BAL Off with Fagnano vs elite JAX Def (−0.081). Gap: BAL struggles more — third-string QB into elite JAX D widens the mismatch. Scheme lean JAX (stronger than Tue).",
@@ -134,7 +134,7 @@
       "picker": {
         "winner": "JAX",
         "ats": "JAX -10",
-        "why": "Lamar+Huntley OUT; Fagnano starts; number not wrong"
+        "why": "Fagnano into elite JAX D; number OK"
       }
     },
     {
@@ -146,7 +146,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Cincinnati to win and CIN -3 — Burrow into a soft Falcons defense, short number that still plays. Bengals by structure on the road.",
+      "summary": "Cincinnati to win and CIN -3 — the edge is Atlanta's offense (-0.087), not a soft Falcons D. Bengals by structure on the road.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): Madrid: ATL offense struggles more. Madrid early kick and Falcons' soft pass shell invite Burrow to attack the seams; Atlanta must invent negative plays without a true pass-EPA ceiling. Bengals should force ATL into obvious passing downs where Cincinnati's rush-to-pass leverage flips.",
@@ -318,7 +318,7 @@
       "picker": {
         "winner": "CIN",
         "ats": "CIN -3",
-        "why": "Burrow into soft ATL; short number OK"
+        "why": "ATL Off soft, not ATL Def"
       }
     },
     {
@@ -330,7 +330,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "New Orleans to win and NO -3 — Watson in concussion protocol with Sanders likely to start; Saints at home in a short-to-middling number after the Browns’ QB downgrade.",
+      "summary": "New Orleans to win and NO -3 — Watson Q, line moved to -3. Saints at home; Cleveland's dog magic isn't automatic after Pittsburgh.",
       "final_score": null,
       "details": {
         "scheme": "EPA (rbsdm W1–8 + Sanders overlay): CLE Off (−0.067, Sanders likely) vs soft NO Def (+0.081); NO Off (−0.031) vs CLE Def (−0.018). Gap: thin — CLE Off into soft NO D is the slight edge; Sanders doesn't flip it to a strong lean. Scheme lean CLE (thin only).",
@@ -446,7 +446,7 @@
       "picker": {
         "winner": "NO",
         "ats": "NO -3",
-        "why": "Watson protocol; Sanders likely; NO home"
+        "why": "Watson Q; line to -3"
       }
     },
     {
@@ -458,7 +458,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Dallas wins, take IND +5.5 — Cowboys are the better side; the number eased a half-point but still gets sticky against Indy, so the Colts keep the cushion.",
+      "summary": "Dallas wins, take IND +5.5 — Cowboys are the better side; that mid-range road number stays sticky for Indy.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): IND offense worse; soft DAL defense is the subplot. Cowboys' pass-game structure still outclasses Indy's leaky secondary; Colts need early scripted runs to keep Dak out of rhythm. Dallas should force single-high looks and take the deep overs.",
@@ -567,7 +567,7 @@
       "picker": {
         "winner": "DAL",
         "ats": "IND +5.5",
-        "why": "DAL wins, -6 sticky vs IND (split)"
+        "why": "DAL wins; mid number sticky"
       }
     },
     {
@@ -579,7 +579,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Denver wins, take CAR +2.5 — Broncos are the side after beating KC at home; don’t auto-lay a short road favorite, so Carolina gets the tiny cushion.",
+      "summary": "Denver wins, take CAR +2.5 — Broncos are the side; don't auto-lay a short road favorite, so Carolina gets the tiny cushion.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): Close; slight DEN defense edge. Broncos bring a protection-first identity into Carolina's below-average sack profile — expect Denver to win on schedule with 12-personnel run/boot. Panthers must invent pressure without selling out the edges.",
@@ -737,7 +737,7 @@
       "picker": {
         "winner": "DEN",
         "ats": "CAR +2.5",
-        "why": "DEN wins; don’t auto-lay short road (split)"
+        "why": "short road; don't auto-lay"
       }
     },
     {
@@ -749,7 +749,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Detroit to win and lay -7 — soft Miami D, and Detroit’s offense can cover that number. Lions by structure on the road.",
+      "summary": "Detroit wins, take MIA +7 — St. Brown Q makes laying seven sticky. Lions still get the side; Dolphins get the points.",
       "final_score": null,
       "details": {
         "scheme": "DET pass O into soft MIA pass D remains the hammer; St. Brown Q (ribs) is the only wrinkle. Scheme lean DET.",
@@ -857,8 +857,8 @@
       },
       "picker": {
         "winner": "DET",
-        "ats": "DET -7",
-        "why": "soft MIA D; DET can cover"
+        "ats": "MIA +7",
+        "why": "DET wins; St. Brown Q makes -7 sticky"
       }
     },
     {
@@ -870,7 +870,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Rams to win and LAR -4.5 — Stafford upgraded to active; Adams still on IR. Mid-range road lay into a soft Washington defense.",
+      "summary": "Rams to win and LAR -4.5 — Stafford ACTIVE. Rams by structure on the road.",
       "final_score": null,
       "details": {
         "scheme": "EPA (rbsdm W1–8 + Stafford overlay): LA Off (+0.047, Stafford active) vs WAS Def (+0.033); WAS Off (−0.005) vs LA Def (−0.081). Gap: WAS struggles more into strong LA D; Stafford active clears the Q caveat — LAR Off edge cleaner.",
@@ -979,7 +979,7 @@
       "picker": {
         "winner": "LAR",
         "ats": "LAR -4.5",
-        "why": "Stafford active; LAR by structure"
+        "why": "Stafford ACTIVE"
       }
     },
     {
@@ -991,7 +991,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "New York Giants to win and lay -3.5 — McKee under center in Philly, and the Giants cover a short road number. New York with the side and the lay.",
+      "summary": "New York Giants to win and lay -3.5 — McKee under center in Philly. Giants with the side and the short road lay.",
       "final_score": null,
       "details": {
         "scheme": "McKee at QB: PHI struggles more; DeVonta + Barkley both Q. Scheme lean NYG.",
@@ -1100,7 +1100,7 @@
       "picker": {
         "winner": "NYG",
         "ats": "NYG -3.5",
-        "why": "McKee PHI; NYG covers short"
+        "why": "McKee PHI"
       }
     },
     {
@@ -1112,7 +1112,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Kansas City wins — home Chiefs should handle it. Take NYJ +10; -10 is still fat even when Kansas City gets the W, and Wilson’s concussion tag is extra Jets risk.",
+      "summary": "Kansas City to win and lay -10 — Wilson's concussion Q kills the dog cushion. Home Chiefs cover the fat number now.",
       "final_score": null,
       "details": {
         "scheme": "KC home pass/rush plus vs Jets. G. Wilson Q (concussion) and Hall Q weaken NYJ; KC -10 still a full possession-plus.",
@@ -1227,8 +1227,8 @@
       },
       "picker": {
         "winner": "KC",
-        "ats": "NYJ +10",
-        "why": "KC wins, -10 too fat (split)"
+        "ats": "KC -10",
+        "why": "Wilson concussion Q; dog cushion gone"
       }
     },
     {
@@ -1335,7 +1335,7 @@
       "picker": {
         "winner": "HOU",
         "ats": "HOU -4.5",
-        "why": "LAC offense crater"
+        "why": "LAC Off crater"
       }
     },
     {
@@ -1347,7 +1347,7 @@
       "why": null,
       "type": null,
       "money_flag": true,
-      "summary": "Seattle wins — home Seahawks even with Darnold OUT and Lock starting. Take ARI +8.5; the number eased only two points off a starter-QB absence, and last week’s elite-D reminder still applies.",
+      "summary": "Arizona to win and ARI +8.5 — Lock starts in Seattle, and last week's elite-D blowup is fresh. Cards with the side and the points.",
       "final_score": null,
       "details": {
         "scheme": "EPA (rbsdm W1–8 + Lock overlay): ARI Off (−0.007) vs SEA Def (−0.077); SEA Off (−0.050, Lock/elbow) vs soft ARI Def (+0.087). Gap: ARI Off still the harder climb into SEA D; Lock softens SEA Off — W8 CHI lit-up reminder on SEA D as chalk.",
@@ -1475,9 +1475,9 @@
         }
       },
       "picker": {
-        "winner": "SEA",
+        "winner": "ARI",
         "ats": "ARI +8.5",
-        "why": "SEA wins; Darnold OUT, -8.5 still fat (split)"
+        "why": "Lock starts; SU flip"
       }
     },
     {
@@ -1489,7 +1489,7 @@
       "why": null,
       "type": null,
       "money_flag": true,
-      "summary": "New England to win and NE -3.5 — Patriots at home with Parsons OUT for Green Bay and Watson’s ribs still a question. Short home chalk gets cleaner.",
+      "summary": "New England to win and NE -3.5 — Parsons OUT. Patriots at home; short home chalk.",
       "final_score": null,
       "details": {
         "scheme": "EPA (rbsdm W1–8 + Parsons overlay): GB Off (+0.010) vs NE Def (+0.011); NE Off (+0.057) vs GB Def (−0.044 without Parsons). Gap: close; Parsons OUT softens GB pass-rush/D edge — NE Off into GB D less scary than Tue.",
@@ -1612,7 +1612,7 @@
       "picker": {
         "winner": "NE",
         "ats": "NE -3.5",
-        "why": "NE home; Parsons OUT strengthens chalk"
+        "why": "Parsons OUT"
       }
     },
     {
@@ -1624,7 +1624,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "San Francisco wins — home 49ers should win even with Aiyuk out and CMC/Evans/Deebo tagged. Take LV +10; -10 is fat cover territory for the Raiders.",
+      "summary": "San Francisco wins, take LV +10 — skill trio Q softens San Fran, but they still get the W; -10 stays fat for the Raiders.",
       "final_score": null,
       "details": {
         "scheme": "EPA (rbsdm W1–8 + skill-group overlay): LV Off (+0.046) vs SF Def (−0.040); SF Off (+0.154) vs soft LV Def (+0.064). Gap: LV struggles more if SF skill group mostly available; CMC/Evans/Deebo all Q and Aiyuk OUT — any OUTs soften SF Off edge.",
@@ -1740,7 +1740,7 @@
       "picker": {
         "winner": "SF",
         "ats": "LV +10",
-        "why": "SF wins, -10 fat (split)"
+        "why": "SF skill Q; number fat"
       }
     },
     {
@@ -1752,7 +1752,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Chicago to win and CHI -6 — Bears’ form with Williams just lit up an elite home D on the road. Home Chicago laying six rides that momentum.",
+      "summary": "Chicago to win and CHI -6 — Williams form just lit up an elite home D on the road. Home Chicago laying six.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): CHI into elite TB defense is a harder climb. Bears' home defense (elite third-down EPA allowed) vs a Bucs offense still searching for positive pass EPA. Chicago can two-high and dare Mayfield to string drives after Egbuka's Q tag.",
@@ -1861,7 +1861,7 @@
       "picker": {
         "winner": "CHI",
         "ats": "CHI -6",
-        "why": "CHI form with Williams"
+        "why": "Williams form"
       }
     },
     {
@@ -1873,7 +1873,7 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Buffalo wins into Minnesota’s elite D — Bills still get the side. Take MIN +3.5; that number stays close enough for the Vikings to hang.",
+      "summary": "Buffalo to win and lay -3.5 — Murray Q; don't gift the dog the points. Bills cover the short road number now.",
       "final_score": null,
       "details": {
         "scheme": "Allen top-shelf pass EPA into MIN D; Murray still Q (hamstring) for MNF. Scheme lean BUF; close number.",
@@ -1974,8 +1974,8 @@
       },
       "picker": {
         "winner": "BUF",
-        "ats": "MIN +3.5",
-        "why": "BUF wins into elite MIN D — close number (split)"
+        "ats": "BUF -3.5",
+        "why": "Murray Q; don't gift dog"
       }
     }
   ],
