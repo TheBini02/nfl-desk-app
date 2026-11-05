@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "generated_at": "2026-11-03T13:52:52-06:00",
+  "generated_at": "2026-11-05T09:14:28-06:00",
   "games": [
     {
       "away": "JAX",
@@ -11,18 +11,17 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Jacksonville to win and lay -10 — Lamar’s OUT and Baltimore’s QB situation is chaos. Double-digit road chalk is loud, but the number isn’t wrong when the Ravens’ pass edge walks out with their starter.",
+      "summary": "Jacksonville to win and lay -10 — Lamar OUT and Huntley OUT; Fagnano starts TNF. Double-digit road chalk is loud, but third-string Baltimore on a short week keeps the number honest.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): Lamar OUT: BAL struggles more; scheme lean JAX. Baltimore is in emergency QB mode on a short week while Jacksonville can stay on-schedule 11-personnel and force Huntley into long chains. Expect Jaguars to live in play-action and intermediate crossers against a Ravens defense missing continuity at signal-caller.",
-        "injuries": "JAX: QB Lawrence ACTIVE / WR1 Washington ACTIVE · BAL: QB Jackson OUT (thumb, IR); Huntley Q (toe, coach: probably won't play TNF) / WR1 Flowers ACTIVE",
+        "scheme": "EPA gap (rbsdm W1–8): Lamar OUT + Huntley OUT — Fagnano starts TNF. BAL emergency third-string QB on short week; scheme lean JAX. Expect Jaguars play-action/intermediate crossers; Ravens lean Henry/short throws.",
+        "injuries": "JAX: QB Lawrence ACTIVE / WR1 Washington ACTIVE · BAL: QB Jackson OUT (thumb, IR-bound); Huntley OUT (toe, season); Fagnano STARTS TNF / WR1 Flowers ACTIVE",
         "edges": "JAX edges P/R/3/Pr +0.189/+0.139/+0.362/+0.020; BAL -0.085/-0.108/-0.069/+0.260. Combined pass+rush gap +0.521 favors JAX; biggest lane 3rd.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -9.5 (CBS had -8.5)",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -94,87 +93,38 @@
             ],
             "rows": [
               [
-                "JAX",
-                "Jakobi Meyers",
-                "Questionable",
-                "Back",
+                "BAL",
+                "Lamar Jackson",
+                "Out",
+                "Thumb (IR-bound)",
                 "Qualitative only"
               ],
               [
-                "JAX",
-                "Chris Rodriguez Jr.",
-                "Questionable",
-                "Ankle",
+                "BAL",
+                "Tyler Huntley",
+                "Out",
+                "Toe (season)",
+                "Qualitative only"
+              ],
+              [
+                "BAL",
+                "Joe Fagnano",
+                "Active",
+                "Starts TNF",
                 "Qualitative only"
               ],
               [
                 "JAX",
                 "Bhayshul Tuten",
                 "Questionable",
-                "Questionable",
+                "Ankle/foot",
                 "Qualitative only"
               ],
               [
                 "JAX",
-                "Ezra Cleveland",
+                "Travon Walker",
                 "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "JAX",
-                "Antonio Johnson",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "JAX",
-                "Branson Combs",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "JAX",
-                "Jarrian Jones",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "JAX",
-                "Eric Murray",
-                "Out",
-                "Elbow",
-                "Qualitative only"
-              ],
-              [
-                "BAL",
-                "Joe Fagnano",
-                "Questionable",
-                "Thumb",
-                "Qualitative only"
-              ],
-              [
-                "BAL",
-                "Tyler Huntley",
-                "Questionable",
-                "Thumb",
-                "Qualitative only"
-              ],
-              [
-                "BAL",
-                "Lamar Jackson",
-                "Out",
-                "Out",
-                "Qualitative only"
-              ],
-              [
-                "BAL",
-                "Olaivavega Ioane",
-                "Questionable",
-                "Questionable",
+                "Rib",
                 "Qualitative only"
               ]
             ]
@@ -184,7 +134,7 @@
       "picker": {
         "winner": "JAX",
         "ats": "JAX -10",
-        "why": "Lamar OUT / BAL QB chaos; number not wrong"
+        "why": "Lamar+Huntley OUT; Fagnano starts; number not wrong"
       }
     },
     {
@@ -204,10 +154,9 @@
         "edges": "CIN edges P/R/3/Pr +0.096/-0.049/+0.244/-0.130; ATL -0.265/+0.067/+0.006/-0.190. Combined pass+rush gap +0.245 favors CIN; biggest lane 3rd.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "Madrid; ESPN -3 (CBS -3.5)",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -376,23 +325,22 @@
       "away": "CLE",
       "home": "NO",
       "kickoff": "Sun Nov 8 12:00 PM CT",
-      "spread": "NO -1.5",
+      "spread": "NO -3",
       "pick": null,
       "why": null,
       "type": null,
-      "money_flag": true,
-      "summary": "New Orleans to win and NO -1.5 — same side as the straight-up pick. Saints at home in a short number; Cleveland’s dog magic isn’t automatic after last week.",
+      "money_flag": false,
+      "summary": "New Orleans to win and NO -3 — Watson in concussion protocol with Sanders likely to start; Saints at home in a short-to-middling number after the Browns’ QB downgrade.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): Thin gap; scheme lean CLE. Two low-ceiling offenses in a mudball — Browns' heavy personnel vs Saints' light boxes. Whoever wins early-down run fits on early downs owns a thin script; neither staff wants a track meet.",
-        "injuries": "CLE: QB Watson ACTIVE / WR1 Boston ACTIVE · NO: QB Shough ACTIVE / WR1 Olave ACTIVE",
+        "scheme": "Thin gap flipped by Watson concussion protocol — Sanders likely under center. Prior free-data CLE lean no longer holds vs NO -3; scheme lean NO at home if Watson sits.",
+        "injuries": "CLE: QB Watson Q (concussion protocol; Sanders likely start) / WR1 Boston Q (calf) · NO: QB Shough ACTIVE / WR1 Olave ACTIVE",
         "edges": "CLE edges P/R/3/Pr -0.046/-0.002/-0.141/+0.370; NO -0.121/-0.013/-0.181/-0.210. Combined pass+rush gap +0.086 favors CLE; biggest lane Protection.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS -2.5",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -464,38 +412,31 @@
             ],
             "rows": [
               [
-                "NO",
-                "Jordyn Tyson",
-                "IR",
-                "IR",
-                "Qualitative only"
-              ],
-              [
-                "NO",
-                "Cesar Ruiz",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "NO",
-                "CJ Donaldson",
-                "Questionable",
-                "Shoulder",
-                "Qualitative only"
-              ],
-              [
-                "NO",
-                "Nathan Shepherd",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "NO",
-                "Justin Reid",
+                "CLE",
+                "Deshaun Watson",
                 "Questionable",
                 "Concussion",
+                "Qualitative only"
+              ],
+              [
+                "CLE",
+                "Shedeur Sanders",
+                "Active",
+                "Likely start if Watson out",
+                "Qualitative only"
+              ],
+              [
+                "CLE",
+                "Denzel Boston",
+                "Questionable",
+                "Calf",
+                "Qualitative only"
+              ],
+              [
+                "NO",
+                "Alvin Kamara",
+                "Questionable",
+                "Rest/NIR",
                 "Qualitative only"
               ]
             ]
@@ -504,31 +445,30 @@
       },
       "picker": {
         "winner": "NO",
-        "ats": "NO -1.5",
-        "why": "same side as SU"
+        "ats": "NO -3",
+        "why": "Watson protocol; Sanders likely; NO home"
       }
     },
     {
       "away": "DAL",
       "home": "IND",
       "kickoff": "Sun Nov 8 12:00 PM CT",
-      "spread": "DAL -6",
+      "spread": "DAL -5.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Dallas wins, take IND +6 — Cowboys are the better side; -6 gets sticky against Indy, so the Colts get the cushion.",
+      "summary": "Dallas wins, take IND +5.5 — Cowboys are the better side; the number eased a half-point but still gets sticky against Indy, so the Colts keep the cushion.",
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): IND offense worse; soft DAL defense is the subplot. Cowboys' pass-game structure still outclasses Indy's leaky secondary; Colts need early scripted runs to keep Dak out of rhythm. Dallas should force single-high looks and take the deep overs.",
-        "injuries": "DAL: QB Prescott ACTIVE / WR1 Lamb ACTIVE · IND: QB Jones ACTIVE / WR1 Downs ACTIVE",
+        "injuries": "DAL: QB Prescott ACTIVE / WR1 Lamb ACTIVE; Pickens Q (hamstring) · IND: QB Jones ACTIVE / WR1 Downs ACTIVE",
         "edges": "DAL edges P/R/3/Pr +0.114/+0.166/+0.136/-0.290; IND -0.114/+0.168/+0.276/+0.250. Combined pass+rush gap +0.226 favors DAL; biggest lane Rush.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -6 (CBS -5.5)",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -601,20 +541,6 @@
             "rows": [
               [
                 "DAL",
-                "KaVontae Turpin",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "DAL",
-                "Luke Schoonmaker",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "DAL",
                 "Jake Ferguson",
                 "Questionable",
                 "Ankle",
@@ -622,51 +548,16 @@
               ],
               [
                 "DAL",
-                "Dee Winters",
+                "George Pickens",
                 "Questionable",
-                "Questionable",
+                "Hamstring",
                 "Qualitative only"
               ],
               [
                 "DAL",
-                "P.J. Locke",
+                "KaVontae Turpin",
                 "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "DAL",
-                "Caleb Downs",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "DAL",
-                "Malachi Lawrence",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "IND",
-                "Anthony Gould",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "IND",
-                "Justin Walley",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "IND",
-                "Bryce Boettcher",
-                "Questionable",
-                "Questionable",
+                "Undisclosed",
                 "Qualitative only"
               ]
             ]
@@ -675,7 +566,7 @@
       },
       "picker": {
         "winner": "DAL",
-        "ats": "IND +6",
+        "ats": "IND +5.5",
         "why": "DAL wins, -6 sticky vs IND (split)"
       }
     },
@@ -692,14 +583,13 @@
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): Close; slight DEN defense edge. Broncos bring a protection-first identity into Carolina's below-average sack profile — expect Denver to win on schedule with 12-personnel run/boot. Panthers must invent pressure without selling out the edges.",
-        "injuries": "DEN: QB Nix ACTIVE / WR1 Waddle ACTIVE · CAR: QB Young ACTIVE / WR1 McMillan ACTIVE",
+        "injuries": "DEN: QB Nix ACTIVE / WR1 Waddle ACTIVE; Sutton ACTIVE · CAR: QB Young ACTIVE / WR1 McMillan ACTIVE",
         "edges": "DEN edges P/R/3/Pr -0.077/+0.095/-0.372/-0.040; CAR -0.083/+0.087/-0.297/+0.070. Combined pass+rush gap +0.014 favors DEN; biggest lane Rush.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS -2.5",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -862,15 +752,14 @@
       "summary": "Detroit to win and lay -7 — soft Miami D, and Detroit’s offense can cover that number. Lions by structure on the road.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): MIA offense weaker. Lions' pass EPA into Miami's bottom-tier pass defense is the clearest structural hammer on the slate. Detroit should live in condensed splits and flood zones until Willis forces the Dolphins out of soft zone.",
-        "injuries": "DET: QB Goff ACTIVE / WR1 St. Brown ACTIVE · MIA: QB Willis ACTIVE / WR1 Washington ACTIVE",
+        "scheme": "DET pass O into soft MIA pass D remains the hammer; St. Brown Q (ribs) is the only wrinkle. Scheme lean DET.",
+        "injuries": "DET: QB Goff ACTIVE / WR1 St. Brown Q (ribs) · MIA: QB Willis ACTIVE / WR1 Washington ACTIVE",
         "edges": "DET edges P/R/3/Pr +0.408/+0.024/+0.237/+0.180; MIA +0.077/-0.051/+0.267/+0.190. Combined pass+rush gap +0.406 favors DET; biggest lane Pass.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS -7 (FOX had -6.5 earlier)",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -943,72 +832,23 @@
             "rows": [
               [
                 "DET",
-                "Jacob Saylors",
+                "Amon-Ra St. Brown",
                 "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "DET",
-                "Cade Mays",
-                "Questionable",
-                "Wrist",
-                "Qualitative only"
-              ],
-              [
-                "DET",
-                "D.J. Reed",
-                "Questionable",
-                "Back",
-                "Qualitative only"
-              ],
-              [
-                "DET",
-                "Jimmy Rolder",
-                "Out",
-                "Out",
-                "Qualitative only"
-              ],
-              [
-                "DET",
-                "Jack Campbell",
-                "Doubtful",
-                "Back",
-                "Qualitative only"
-              ],
-              [
-                "DET",
-                "Brian Branch",
-                "Questionable",
-                "Concussion",
-                "Qualitative only"
-              ],
-              [
-                "DET",
-                "DJ Wonnum",
-                "Questionable",
-                "Concussion",
+                "Ribs",
                 "Qualitative only"
               ],
               [
                 "DET",
                 "Kerby Joseph",
                 "Out",
-                "Knee",
+                "Undisclosed",
                 "Qualitative only"
               ],
               [
-                "MIA",
-                "Kadyn Proctor",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "MIA",
-                "Malik Herring",
-                "Questionable",
-                "Questionable",
+                "DET",
+                "Jack Campbell",
+                "Doubtful",
+                "Undisclosed",
                 "Qualitative only"
               ]
             ]
@@ -1025,23 +865,22 @@
       "away": "LAR",
       "home": "WSH",
       "kickoff": "Sun Nov 8 12:00 PM CT",
-      "spread": "LAR -5.5",
+      "spread": "LAR -4.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Rams to win and LAR -5.5 — Rams by structure on the road. Mid-range lay feels right.",
+      "summary": "Rams to win and LAR -4.5 — Stafford upgraded to active; Adams still on IR. Mid-range road lay into a soft Washington defense.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): WSH struggles more; Stafford Q is the caveat. Stafford's Q tag and Adams on IR shrink LA's vertical menu, but Washington's defense still grades soft versus scheme-clean play-action. Rams lean on Nacua/Kyren volume until Stafford's availability clarifies.",
-        "injuries": "LAR: QB Stafford Q (arm soreness) / WR1 Nacua ACTIVE · WSH: QB Daniels ACTIVE / WR1 Diggs ACTIVE",
+        "scheme": "Stafford upgraded to ACTIVE (arm); Adams still IR. WSH defense still soft; LAR structural lean survives with Stafford expected in.",
+        "injuries": "LAR: QB Stafford ACTIVE (was Q arm) / WR1 Nacua ACTIVE; Adams IR · WSH: QB Daniels ACTIVE / WR1 Diggs ACTIVE",
         "edges": "LAR edges P/R/3/Pr +0.024/+0.085/+0.016/-0.180; WSH -0.140/-0.120/-0.638/+0.180. Combined pass+rush gap +0.369 favors LAR; biggest lane Rush.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS/FOX -5.5",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -1115,85 +954,22 @@
               [
                 "LAR",
                 "Matthew Stafford",
-                "Questionable",
-                "Questionable",
+                "Active",
+                "Arm (upgraded)",
                 "Qualitative only"
               ],
               [
                 "LAR",
                 "Davante Adams",
-                "IR",
-                "Hamstring",
+                "Out",
+                "Hamstring (IR)",
                 "Qualitative only"
               ],
               [
                 "LAR",
                 "Colby Parkinson",
                 "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "LAR",
-                "Dean Connors",
-                "Questionable",
-                "Back",
-                "Qualitative only"
-              ],
-              [
-                "LAR",
-                "Joe Cardona",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "LAR",
-                "Grant Stuard",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "LAR",
-                "Trent McDuffie",
-                "Questionable",
-                "Back",
-                "Qualitative only"
-              ],
-              [
-                "LAR",
-                "Jaylen Watson",
-                "Questionable",
-                "Shoulder",
-                "Qualitative only"
-              ],
-              [
-                "WSH",
-                "Terry McLaurin",
-                "IR",
-                "IR",
-                "Qualitative only"
-              ],
-              [
-                "WSH",
-                "Jaylin Lane",
-                "IR",
-                "Ankle",
-                "Qualitative only"
-              ],
-              [
-                "WSH",
-                "Jeremy McNichols",
-                "Doubtful",
-                "Doubtful",
-                "Qualitative only"
-              ],
-              [
-                "WSH",
-                "Javon Kinlaw",
-                "Questionable",
-                "Questionable",
+                "Ribs",
                 "Qualitative only"
               ]
             ]
@@ -1202,8 +978,8 @@
       },
       "picker": {
         "winner": "LAR",
-        "ats": "LAR -5.5",
-        "why": "LAR by structure"
+        "ats": "LAR -4.5",
+        "why": "Stafford active; LAR by structure"
       }
     },
     {
@@ -1218,15 +994,14 @@
       "summary": "New York Giants to win and lay -3.5 — McKee under center in Philly, and the Giants cover a short road number. New York with the side and the lay.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): McKee at QB: PHI struggles more; scheme lean NYG. Giants as road favorites into a McKee-led Eagles offense that has not created positive EPA — NYG can play two-high and dare Philadelphia to drive the field. Eagles need early Saquon explosives to flip leverage.",
-        "injuries": "NYG: QB McCarthy ACTIVE / WR1 Nabers ACTIVE · PHI: QB McKee ACTIVE / WR1 DeVonta Smith Q",
+        "scheme": "McKee at QB: PHI struggles more; DeVonta + Barkley both Q. Scheme lean NYG.",
+        "injuries": "NYG: QB McCarthy ACTIVE / WR1 Nabers ACTIVE; Skattebo Q (hamstring) · PHI: QB McKee ACTIVE / WR1 DeVonta Smith Q (hamstring); Barkley Q (hamstring)",
         "edges": "NYG edges P/R/3/Pr +0.085/+0.133/+0.193/+0.450; PHI -0.185/-0.053/-0.168/+0.370. Combined pass+rush gap +0.456 favors NYG; biggest lane Protection.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -3.5 (CBS -3 / FOX -2.5)",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -1298,10 +1073,17 @@
             ],
             "rows": [
               [
-                "NYG",
-                "Theo Johnson",
+                "PHI",
+                "DeVonta Smith",
                 "Questionable",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "PHI",
+                "Saquon Barkley",
                 "Questionable",
+                "Hamstring",
                 "Qualitative only"
               ],
               [
@@ -1309,69 +1091,6 @@
                 "Cam Skattebo",
                 "Questionable",
                 "Hamstring",
-                "Qualitative only"
-              ],
-              [
-                "NYG",
-                "Marcus Mbow",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "NYG",
-                "Greg Newsome II",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "NYG",
-                "Jevon Holland",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "PHI",
-                "Dontayvion Wicks",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "PHI",
-                "DeVonta Smith",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "PHI",
-                "Britain Covey",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "PHI",
-                "Jonathan Jones",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "PHI",
-                "Jihaad Campbell",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "PHI",
-                "Michael Carter II",
-                "Questionable",
-                "Questionable",
                 "Qualitative only"
               ]
             ]
@@ -1388,23 +1107,22 @@
       "away": "NYJ",
       "home": "KC",
       "kickoff": "Sun Nov 8 12:00 PM CT",
-      "spread": "KC -9.5",
+      "spread": "KC -10",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Kansas City wins — home Chiefs should handle it. Take NYJ +9.5; -9.5 is too fat even when Kansas City gets the W.",
+      "summary": "Kansas City wins — home Chiefs should handle it. Take NYJ +10; -10 is still fat even when Kansas City gets the W, and Wilson’s concussion tag is extra Jets risk.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): NYJ struggles more. Chiefs' home pass-and-rush blend versus a Jets defense that bleeds EPA through the air. Kansas City should live in motion-heavy 11-personnel; New York needs negative plays on early downs or this gets away fast.",
-        "injuries": "NYJ: QB Smith ACTIVE / WR1 G. Wilson ACTIVE · KC: QB Mahomes ACTIVE / WR1 Rice ACTIVE",
+        "scheme": "KC home pass/rush plus vs Jets. G. Wilson Q (concussion) and Hall Q weaken NYJ; KC -10 still a full possession-plus.",
+        "injuries": "NYJ: QB Smith ACTIVE / WR1 G. Wilson Q (concussion); Hall Q (quad) · KC: QB Mahomes ACTIVE / WR1 Rice Q (hamstring)",
         "edges": "NYJ edges P/R/3/Pr +0.030/-0.061/-0.002/+0.500; KC +0.175/+0.101/+0.262/-0.370. Combined pass+rush gap -0.307 favors KC; biggest lane 3rd.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS -9.5",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -1477,51 +1195,30 @@
             "rows": [
               [
                 "NYJ",
+                "Garrett Wilson",
+                "Questionable",
+                "Concussion",
+                "Qualitative only"
+              ],
+              [
+                "NYJ",
                 "Breece Hall",
                 "Questionable",
                 "Quad",
                 "Qualitative only"
               ],
               [
-                "NYJ",
-                "Max Mitchell",
+                "KC",
+                "Rashee Rice",
                 "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "NYJ",
-                "Joseph Ossai",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "NYJ",
-                "David Bailey",
-                "Questionable",
-                "Questionable",
+                "Hamstring",
                 "Qualitative only"
               ],
               [
                 "KC",
-                "Mansoor Delane",
+                "Travis Kelce",
                 "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "KC",
-                "Peter Woods",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "KC",
-                "Omarr Norman-Lott",
-                "Out",
-                "Out",
+                "Ankle",
                 "Qualitative only"
               ]
             ]
@@ -1530,8 +1227,8 @@
       },
       "picker": {
         "winner": "KC",
-        "ats": "NYJ +9.5",
-        "why": "KC wins, -9.5 too fat (split)"
+        "ats": "NYJ +10",
+        "why": "KC wins, -10 too fat (split)"
       }
     },
     {
@@ -1546,15 +1243,14 @@
       "summary": "Houston to win and HOU -4.5 — Chargers offense has been a crater. Texans lay the points on the road.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): LAC offense collapses; scheme lean HOU. Two struggling teams, but Houston's pass EPA and sack generation beat a Chargers unit sitting at 0-7 with broken protection. Texans can force Herbert into obvious third-and-longs.",
-        "injuries": "HOU: QB Stroud ACTIVE / WR1 Collins ACTIVE · LAC: QB Herbert ACTIVE / WR1 McConkey ACTIVE",
+        "scheme": "LAC offense crater; Montgomery OUT trims HOU rush menu but Stroud/Collins active. Scheme lean HOU.",
+        "injuries": "HOU: QB Stroud ACTIVE / WR1 Collins ACTIVE; Montgomery OUT · LAC: QB Herbert ACTIVE / WR1 McConkey ACTIVE",
         "edges": "HOU edges P/R/3/Pr -0.025/-0.053/-0.410/+0.000; LAC -0.331/-0.108/-0.152/+0.130. Combined pass+rush gap +0.361 favors HOU; biggest lane Protection.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/CBS -4.5",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -1627,72 +1323,9 @@
             "rows": [
               [
                 "HOU",
-                "Jaylin Noel",
-                "IR",
-                "IR",
-                "Qualitative only"
-              ],
-              [
-                "HOU",
                 "David Montgomery",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "HOU",
-                "Reed Blankenship",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "HOU",
-                "Jalen Pitre",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "HOU",
-                "Blake Fisher",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "LAC",
-                "Brenen Thompson",
-                "Questionable",
-                "Back",
-                "Qualitative only"
-              ],
-              [
-                "LAC",
-                "Kayode Awosika",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "LAC",
-                "Rodney Shelley",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "LAC",
-                "Donte Jackson",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "LAC",
-                "Deane Leonard",
-                "Questionable",
-                "Questionable",
+                "Out",
+                "Groin",
                 "Qualitative only"
               ]
             ]
@@ -1709,23 +1342,22 @@
       "away": "ARI",
       "home": "SEA",
       "kickoff": "Sun Nov 8 3:25 PM CT",
-      "spread": "SEA -10.5",
+      "spread": "SEA -8.5",
       "pick": null,
       "why": null,
       "type": null,
-      "money_flag": false,
-      "summary": "Seattle wins — Seahawks at home. Take ARI +10.5; fat number plus last week’s reminder that elite D alone isn’t a short-home shield.",
+      "money_flag": true,
+      "summary": "Seattle wins — home Seahawks even with Darnold OUT and Lock starting. Take ARI +8.5; the number eased only two points off a starter-QB absence, and last week’s elite-D reminder still applies.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): ARI into SEA defense; note SEA D got lit up by CHI in Week 8. Seattle's home defense grades well against a Cardinals offense missing Bourne and uncertain at WR1. Seahawks can sit in two-shell and make Brissett drive the length of the field.",
-        "injuries": "ARI: QB Minshew ACTIVE / WR1 Wilson Q (ribs) · SEA: QB Darnold ACTIVE / WR1 Smith-Njigba ACTIVE",
+        "scheme": "Darnold OUT (quad/rib); Lock starts managing elbow. SEA home D still grades well, but starter QB absence cuts the hammer — lean SEA thinner than Tue SEA -10.5 board.",
+        "injuries": "ARI: QB Brissett ACTIVE / WR1 Wilson Q (ribs); Bourne IR; Love IR · SEA: QB Darnold OUT (quad/rib); Lock STARTS (elbow Q) / WR1 Smith-Njigba ACTIVE",
         "edges": "ARI edges P/R/3/Pr -0.208/-0.003/-0.524/-0.060; SEA +0.179/-0.197/+0.237/-0.060. Combined pass+rush gap -0.193 favors SEA; biggest lane 3rd.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -10.5 (CBS -11.5)",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -1797,87 +1429,45 @@
             ],
             "rows": [
               [
-                "ARI",
-                "Kendrick Bourne",
+                "SEA",
+                "Sam Darnold",
                 "Out",
-                "Ankle",
-                "Qualitative only"
-              ],
-              [
-                "ARI",
-                "Michael Wilson",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "ARI",
-                "Jon Gaines II",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "ARI",
-                "Bam Knight",
-                "Questionable",
-                "Shoulder",
-                "Qualitative only"
-              ],
-              [
-                "ARI",
-                "Jeremiyah Love",
-                "Questionable",
-                "Ankle",
-                "Qualitative only"
-              ],
-              [
-                "ARI",
-                "Walter Nolen III",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "ARI",
-                "Jayden Williams",
-                "Questionable",
-                "Questionable",
+                "Quad/rib",
                 "Qualitative only"
               ],
               [
                 "SEA",
                 "Drew Lock",
                 "Questionable",
-                "Elbow",
+                "Elbow (slated to start)",
                 "Qualitative only"
               ],
               [
-                "SEA",
-                "Rashid Shaheed",
-                "Questionable",
-                "Questionable",
+                "ARI",
+                "Kendrick Bourne",
+                "Out",
+                "Ankle (IR)",
                 "Qualitative only"
               ],
               [
-                "SEA",
-                "Velus Jones Jr.",
-                "Questionable",
-                "Questionable",
+                "ARI",
+                "Jeremiyah Love",
+                "Out",
+                "Ankle (IR)",
                 "Qualitative only"
               ],
               [
-                "SEA",
-                "Charles Cross",
+                "ARI",
+                "Michael Wilson",
                 "Questionable",
-                "Questionable",
+                "Ribs",
                 "Qualitative only"
               ],
               [
-                "SEA",
-                "Leonard Williams",
+                "ARI",
+                "Bam Knight",
                 "Questionable",
-                "Back",
+                "Concussion",
                 "Qualitative only"
               ]
             ]
@@ -1886,31 +1476,30 @@
       },
       "picker": {
         "winner": "SEA",
-        "ats": "ARI +10.5",
-        "why": "SEA wins; fat number + W8 elite-D lesson (split)"
+        "ats": "ARI +8.5",
+        "why": "SEA wins; Darnold OUT, -8.5 still fat (split)"
       }
     },
     {
       "away": "GB",
       "home": "NE",
       "kickoff": "Sun Nov 8 3:25 PM CT",
-      "spread": "NE -3",
+      "spread": "NE -3.5",
       "pick": null,
       "why": null,
       "type": null,
-      "money_flag": false,
-      "summary": "New England to win and NE -3 — Patriots at home. Short home chalk; take New England.",
+      "money_flag": true,
+      "summary": "New England to win and NE -3.5 — Patriots at home with Parsons OUT for Green Bay and Watson’s ribs still a question. Short home chalk gets cleaner.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): Close. Near-pick'em structure: Love's efficiency vs Maye's emerging EPA, with Watson's ribs a real Green Bay menu shrinker. Patriots' home edge is protection and forcing GB into obvious third downs.",
-        "injuries": "GB: QB Love ACTIVE / WR1 Watson Q (ribs) · NE: QB Maye ACTIVE / WR1 A.J. Brown Q (ankle/knee)",
+        "scheme": "Close EPA into short NE home number. Parsons OUT removes GB’s top pass-rush threat; Watson Q (ribs) shrinks GB vertical. Scheme lean NE slightly stronger than Tue.",
+        "injuries": "GB: QB Love ACTIVE / WR1 Watson Q (ribs); Parsons OUT · NE: QB Maye ACTIVE / WR1 A.J. Brown Q (ankle/knee)",
         "edges": "GB edges P/R/3/Pr +0.066/-0.177/+0.009/-0.330; NE +0.028/-0.081/+0.065/-0.110. Combined pass+rush gap -0.058 favors NE; biggest lane 3rd.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN/FOX -2.5 (CBS had -3)",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -1983,72 +1572,37 @@
             "rows": [
               [
                 "GB",
+                "Micah Parsons",
+                "Out",
+                "Undisclosed",
+                "Qualitative only"
+              ],
+              [
+                "GB",
                 "Christian Watson",
                 "Questionable",
                 "Rib",
                 "Qualitative only"
               ],
               [
-                "GB",
-                "Sean Rhyan",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "GB",
-                "Zaire Franklin",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "GB",
-                "Travis Glover",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "GB",
-                "Micah Parsons",
-                "Out",
-                "Out",
-                "Qualitative only"
-              ],
-              [
-                "NE",
-                "Mack Hollins",
-                "IR",
-                "Calf",
-                "Qualitative only"
-              ],
-              [
                 "NE",
                 "A.J. Brown",
                 "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "NE",
-                "TreVeyon Henderson",
-                "Questionable",
-                "Questionable",
+                "Ankle/knee",
                 "Qualitative only"
               ],
               [
                 "NE",
                 "Hunter Henry",
                 "Questionable",
-                "Questionable",
+                "Foot",
                 "Qualitative only"
               ],
               [
                 "NE",
-                "Gabe Jacas",
+                "TreVeyon Henderson",
                 "Questionable",
-                "Knee",
+                "Illness",
                 "Qualitative only"
               ]
             ]
@@ -2057,8 +1611,8 @@
       },
       "picker": {
         "winner": "NE",
-        "ats": "NE -3",
-        "why": "NE home"
+        "ats": "NE -3.5",
+        "why": "NE home; Parsons OUT strengthens chalk"
       }
     },
     {
@@ -2070,18 +1624,17 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "San Francisco wins — home 49ers should win. Take LV +10; -10 is fat cover territory for the Raiders.",
+      "summary": "San Francisco wins — home 49ers should win even with Aiyuk out and CMC/Evans/Deebo tagged. Take LV +10; -10 is fat cover territory for the Raiders.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): LV struggles more. Purdy-led 49ers still post elite pass EPA even with Aiyuk out and Deebo/Evans in flux; Raiders' defense has leaked explosive EPA. San Francisco should win with condensed splits and CMC early downs.",
-        "injuries": "LV: QB Cousins ACTIVE / WR1 Tucker ACTIVE · SF: QB Purdy ACTIVE / WR1 Evans Q (Achilles); Aiyuk OUT; Deebo Q (hamstring)",
+        "scheme": "SF pass EPA still elite with Aiyuk OUT; CMC/Evans/Deebo all Q. Raiders leak explosives; SF home lean intact but skill-group availability is the caveat.",
+        "injuries": "LV: QB Cousins ACTIVE / WR1 Tucker ACTIVE · SF: QB Purdy ACTIVE / WR1 Evans Q (Achilles); Aiyuk OUT; Deebo Q (hamstring); CMC Q (hamstring)",
         "edges": "LV edges P/R/3/Pr +0.067/-0.231/+0.270/-0.210; SF +0.319/+0.145/+0.078/-0.330. Combined pass+rush gap -0.628 favors SF; biggest lane Pass.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -10 (CBS/FOX -9.5)",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -2153,20 +1706,6 @@
             ],
             "rows": [
               [
-                "LV",
-                "Darien Porter",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "SF",
-                "De'Zhaun Stribling",
-                "IR",
-                "Rib",
-                "Qualitative only"
-              ],
-              [
                 "SF",
                 "Brandon Aiyuk",
                 "Out",
@@ -2175,16 +1714,9 @@
               ],
               [
                 "SF",
-                "Deebo Samuel Sr.",
+                "Christian McCaffrey",
                 "Questionable",
-                "Ankle",
-                "Qualitative only"
-              ],
-              [
-                "SF",
-                "Demarcus Robinson",
-                "IR",
-                "Ankle",
+                "Hamstring",
                 "Qualitative only"
               ],
               [
@@ -2196,23 +1728,9 @@
               ],
               [
                 "SF",
-                "Christian McCaffrey",
+                "Deebo Samuel Sr.",
                 "Questionable",
-                "Rib",
-                "Qualitative only"
-              ],
-              [
-                "SF",
-                "Marques Sigle",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "SF",
-                "Garret Wallow",
-                "Questionable",
-                "Questionable",
+                "Hamstring",
                 "Qualitative only"
               ]
             ]
@@ -2238,14 +1756,13 @@
       "final_score": null,
       "details": {
         "scheme": "EPA gap (rbsdm W1–8, 11/03): CHI into elite TB defense is a harder climb. Bears' home defense (elite third-down EPA allowed) vs a Bucs offense still searching for positive pass EPA. Chicago can two-high and dare Mayfield to string drives after Egbuka's Q tag.",
-        "injuries": "TB: QB Mayfield ACTIVE / WR1 Egbuka Q · CHI: QB Williams ACTIVE / WR1 Odunze ACTIVE",
+        "injuries": "TB: QB Mayfield ACTIVE / WR1 Egbuka Q (foot); Diaby OUT · CHI: QB Williams ACTIVE / WR1 Odunze ACTIVE",
         "edges": "TB edges P/R/3/Pr -0.294/+0.059/-0.611/+0.070; CHI -0.157/-0.020/-0.302/+0.070. Combined pass+rush gap -0.058 favors CHI; biggest lane Protection.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -6 (CBS -5.5)",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -2320,7 +1837,7 @@
                 "TB",
                 "Emeka Egbuka",
                 "Questionable",
-                "Questionable",
+                "Foot",
                 "Qualitative only"
               ],
               [
@@ -2334,28 +1851,7 @@
                 "CHI",
                 "Kyle Monangai",
                 "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "CHI",
-                "Kentavius Street",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "CHI",
-                "Grady Jarrett",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "CHI",
-                "Malik Muhammad II",
-                "Questionable",
-                "Back",
+                "Toe/thumb",
                 "Qualitative only"
               ]
             ]
@@ -2380,15 +1876,14 @@
       "summary": "Buffalo wins into Minnesota’s elite D — Bills still get the side. Take MIN +3.5; that number stays close enough for the Vikings to hang.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): Best offense vs best defense; MIN D did not cash the DET upset in Week 8. MNF volume spot: Allen's top-tier pass EPA into a Vikings defense that can still generate sacks, with Murray's Q tag hanging over Minnesota's response. Buffalo should stress MIN on early downs before the pass rush tees off.",
-        "injuries": "BUF: QB Allen ACTIVE / WR1 DJ Moore Q (knee) · MIN: QB Murray Q (hamstring) / WR1 Jefferson ACTIVE",
+        "scheme": "Allen top-shelf pass EPA into MIN D; Murray still Q (hamstring) for MNF. Scheme lean BUF; close number.",
+        "injuries": "BUF: QB Allen ACTIVE / WR1 Shakir ACTIVE; DJ Moore Q (knee) · MIN: QB Murray Q (hamstring) / WR1 Jefferson ACTIVE",
         "edges": "BUF edges P/R/3/Pr -0.046/+0.062/-0.050/-0.520; MIN -0.006/-0.127/-0.277/+0.390. Combined pass+rush gap +0.149 favors BUF; biggest lane Rush.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–8)",
-          "ESPN scoreboard + injuries API (Tue Nov 3, 2026)",
-          "ESPN team depth charts",
-          "Consensus spreads: ESPN scoreboard odds Tue Nov 3 ~9:15 AM CT (CBS/FOX cross-check noted)",
-          "ESPN -3.5 (CBS -3)",
+          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
+          "NFL.com Week 9 injury report / team IR pages",
+          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
           "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
@@ -2460,41 +1955,6 @@
             ],
             "rows": [
               [
-                "BUF",
-                "DJ Moore",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "BUF",
-                "Joshua Palmer",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "BUF",
-                "Greg Gaines",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "BUF",
-                "Dee Alford",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "BUF",
-                "Spencer Brown",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
                 "MIN",
                 "Kyler Murray",
                 "Questionable",
@@ -2502,17 +1962,10 @@
                 "Qualitative only"
               ],
               [
-                "MIN",
-                "Christian Darrisaw",
+                "BUF",
+                "DJ Moore",
                 "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "MIN",
-                "Theo Jackson",
-                "Questionable",
-                "Quad",
+                "Knee",
                 "Qualitative only"
               ]
             ]
