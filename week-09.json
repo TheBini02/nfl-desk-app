@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "generated_at": "2026-11-05T09:21:39-06:00",
+  "generated_at": "2026-11-06T08:22:09-06:00",
   "games": [
     {
       "away": "JAX",
@@ -11,18 +11,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Jacksonville to win and lay -10 — Fagnano into an elite Jaguars defense with Lamar OUT. The number's loud, but Baltimore's pass edge is gone and that chalk still plays.",
-      "final_score": null,
+      "summary": "Jacksonville to win and lay -10 \u2014 Fagnano into an elite Jaguars defense with Lamar OUT. The number's loud, but Baltimore's pass edge is gone and that chalk still plays.",
+      "final_score": "JAX 33 - BAL 10",
       "details": {
-        "scheme": "EPA (rbsdm W1–8 + Fagnano overlay): JAX Off (+0.124) vs BAL Def (+0.017); BAL Off with Fagnano vs elite JAX Def (−0.081). Gap: BAL struggles more — third-string QB into elite JAX D widens the mismatch. Scheme lean JAX (stronger than Tue).",
-        "injuries": "JAX: QB Lawrence ACTIVE / WR1 Parker Washington ACTIVE · BAL: QB Fagnano ACTIVE (TNF starter, depth QB1) / WR1 Flowers ACTIVE; Jackson OUT/IR (thumb); Huntley OUT (turf toe, IR looming). Brissett trade reported for later weeks; TNF still Fagnano",
+        "scheme": "EPA (rbsdm W1\u20138 + Fagnano overlay): JAX Off (+0.124) vs BAL Def (+0.017); BAL Off with Fagnano vs elite JAX Def (\u22120.081). Gap: BAL struggles more \u2014 third-string QB into elite JAX D widens the mismatch. Scheme lean JAX (stronger than Tue).",
+        "injuries": "JAX: QB Lawrence ACTIVE / WR1 Parker Washington ACTIVE \u00b7 BAL: QB Fagnano ACTIVE (TNF starter, depth QB1) / WR1 Flowers ACTIVE; Jackson OUT/IR (thumb); Huntley OUT (turf toe, IR looming). Brissett trade reported for later weeks; TNF still Fagnano",
         "edges": "JAX edges P/R/3/Pr +0.189/+0.139/+0.362/+0.020; BAL -0.085/-0.108/-0.069/+0.260. Combined pass+rush gap +0.521 favors JAX; biggest lane 3rd.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -146,18 +146,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Cincinnati to win and CIN -3 — the edge is Atlanta's offense (-0.087), not a soft Falcons D. Bengals by structure on the road.",
+      "summary": "Cincinnati to win and CIN -3 \u2014 the edge is Atlanta's offense (-0.087), not a soft Falcons D. Bengals by structure on the road.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): Madrid: ATL offense struggles more. Madrid early kick and Falcons' soft pass shell invite Burrow to attack the seams; Atlanta must invent negative plays without a true pass-EPA ceiling. Bengals should force ATL into obvious passing downs where Cincinnati's rush-to-pass leverage flips.",
-        "injuries": "CIN: QB Burrow ACTIVE / WR1 Chase ACTIVE · ATL: QB Penix ACTIVE / WR1 London ACTIVE",
+        "scheme": "EPA gap (rbsdm W1\u20138, 11/03): Madrid: ATL offense struggles more. Madrid early kick and Falcons' soft pass shell invite Burrow to attack the seams; Atlanta must invent negative plays without a true pass-EPA ceiling. Bengals should force ATL into obvious passing downs where Cincinnati's rush-to-pass leverage flips.",
+        "injuries": "CIN: QB Burrow ACTIVE / WR1 Chase ACTIVE \u00b7 ATL: QB Penix ACTIVE / WR1 London ACTIVE",
         "edges": "CIN edges P/R/3/Pr +0.096/-0.049/+0.244/-0.130; ATL -0.265/+0.067/+0.006/-0.190. Combined pass+rush gap +0.245 favors CIN; biggest lane 3rd.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -330,18 +330,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "New Orleans to win and NO -3 — Watson Q, line moved to -3. Saints at home; Cleveland's dog magic isn't automatic after Pittsburgh.",
+      "summary": "New Orleans to win and NO -3 \u2014 Watson Q, line moved to -3. Saints at home; Cleveland's dog magic isn't automatic after Pittsburgh.",
       "final_score": null,
       "details": {
-        "scheme": "EPA (rbsdm W1–8 + Sanders overlay): CLE Off (−0.067, Sanders likely) vs soft NO Def (+0.081); NO Off (−0.031) vs CLE Def (−0.018). Gap: thin — CLE Off into soft NO D is the slight edge; Sanders doesn't flip it to a strong lean. Scheme lean CLE (thin only).",
-        "injuries": "CLE: QB Watson Q (concussion protocol); Sanders ACTIVE (likely start) / WR1 Boston Q · NO: QB Shough ACTIVE / WR1 Olave ACTIVE",
+        "scheme": "EPA (rbsdm W1\u20138 + Sanders overlay): CLE Off (\u22120.067, Sanders likely) vs soft NO Def (+0.081); NO Off (\u22120.031) vs CLE Def (\u22120.018). Gap: thin \u2014 CLE Off into soft NO D is the slight edge; Sanders doesn't flip it to a strong lean. Scheme lean CLE (thin only).",
+        "injuries": "CLE: QB Watson Q (concussion protocol); Sanders ACTIVE (likely start) / WR1 Boston Q \u00b7 NO: QB Shough ACTIVE / WR1 Olave ACTIVE",
         "edges": "CLE edges P/R/3/Pr -0.046/-0.002/-0.141/+0.370; NO -0.121/-0.013/-0.181/-0.210. Combined pass+rush gap +0.086 favors CLE; biggest lane Protection.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -458,18 +458,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Dallas wins, take IND +5.5 — Cowboys are the better side; that mid-range road number stays sticky for Indy.",
+      "summary": "Dallas wins, take IND +5.5 \u2014 Cowboys are the better side; that mid-range road number stays sticky for Indy.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): IND offense worse; soft DAL defense is the subplot. Cowboys' pass-game structure still outclasses Indy's leaky secondary; Colts need early scripted runs to keep Dak out of rhythm. Dallas should force single-high looks and take the deep overs.",
-        "injuries": "DAL: QB Prescott ACTIVE / WR1 Lamb ACTIVE; Pickens Q (hamstring) · IND: QB Jones ACTIVE / WR1 Downs ACTIVE",
+        "scheme": "EPA gap (rbsdm W1\u20138, 11/03): IND offense worse; soft DAL defense is the subplot. Cowboys' pass-game structure still outclasses Indy's leaky secondary; Colts need early scripted runs to keep Dak out of rhythm. Dallas should force single-high looks and take the deep overs.",
+        "injuries": "DAL: QB Prescott ACTIVE / WR1 Lamb ACTIVE; Pickens Q (hamstring) \u00b7 IND: QB Jones ACTIVE / WR1 Downs ACTIVE",
         "edges": "DAL edges P/R/3/Pr +0.114/+0.166/+0.136/-0.290; IND -0.114/+0.168/+0.276/+0.250. Combined pass+rush gap +0.226 favors DAL; biggest lane Rush.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -579,18 +579,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Denver wins, take CAR +2.5 — Broncos are the side; don't auto-lay a short road favorite, so Carolina gets the tiny cushion.",
+      "summary": "Denver wins, take CAR +2.5 \u2014 Broncos are the side; don't auto-lay a short road favorite, so Carolina gets the tiny cushion.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): Close; slight DEN defense edge. Broncos bring a protection-first identity into Carolina's below-average sack profile — expect Denver to win on schedule with 12-personnel run/boot. Panthers must invent pressure without selling out the edges.",
-        "injuries": "DEN: QB Nix ACTIVE / WR1 Waddle ACTIVE; Sutton ACTIVE · CAR: QB Young ACTIVE / WR1 McMillan ACTIVE",
+        "scheme": "EPA gap (rbsdm W1\u20138, 11/03): Close; slight DEN defense edge. Broncos bring a protection-first identity into Carolina's below-average sack profile \u2014 expect Denver to win on schedule with 12-personnel run/boot. Panthers must invent pressure without selling out the edges.",
+        "injuries": "DEN: QB Nix ACTIVE / WR1 Waddle ACTIVE; Sutton ACTIVE \u00b7 CAR: QB Young ACTIVE / WR1 McMillan ACTIVE",
         "edges": "DEN edges P/R/3/Pr -0.077/+0.095/-0.372/-0.040; CAR -0.083/+0.087/-0.297/+0.070. Combined pass+rush gap +0.014 favors DEN; biggest lane Rush.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -749,18 +749,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Detroit wins, take MIA +7 — St. Brown Q makes laying seven sticky. Lions still get the side; Dolphins get the points.",
+      "summary": "Detroit wins, take MIA +7 \u2014 St. Brown Q makes laying seven sticky. Lions still get the side; Dolphins get the points.",
       "final_score": null,
       "details": {
         "scheme": "DET pass O into soft MIA pass D remains the hammer; St. Brown Q (ribs) is the only wrinkle. Scheme lean DET.",
-        "injuries": "DET: QB Goff ACTIVE / WR1 St. Brown Q · MIA: QB Willis ACTIVE / WR1 Malik Washington ACTIVE",
+        "injuries": "DET: QB Goff ACTIVE / WR1 St. Brown Q \u00b7 MIA: QB Willis ACTIVE / WR1 Malik Washington ACTIVE",
         "edges": "DET edges P/R/3/Pr +0.408/+0.024/+0.237/+0.180; MIA +0.077/-0.051/+0.267/+0.190. Combined pass+rush gap +0.406 favors DET; biggest lane Pass.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -870,18 +870,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Rams to win and LAR -4.5 — Stafford ACTIVE. Rams by structure on the road.",
+      "summary": "Rams to win and LAR -4.5 \u2014 Stafford ACTIVE. Rams by structure on the road.",
       "final_score": null,
       "details": {
-        "scheme": "EPA (rbsdm W1–8 + Stafford overlay): LA Off (+0.047, Stafford active) vs WAS Def (+0.033); WAS Off (−0.005) vs LA Def (−0.081). Gap: WAS struggles more into strong LA D; Stafford active clears the Q caveat — LAR Off edge cleaner.",
-        "injuries": "LAR: QB Stafford ACTIVE / WR1 Nacua ACTIVE · WSH: QB Daniels ACTIVE / WR1 Diggs ACTIVE",
+        "scheme": "EPA (rbsdm W1\u20138 + Stafford overlay): LA Off (+0.047, Stafford active) vs WAS Def (+0.033); WAS Off (\u22120.005) vs LA Def (\u22120.081). Gap: WAS struggles more into strong LA D; Stafford active clears the Q caveat \u2014 LAR Off edge cleaner.",
+        "injuries": "LAR: QB Stafford ACTIVE / WR1 Nacua ACTIVE \u00b7 WSH: QB Daniels ACTIVE / WR1 Diggs ACTIVE",
         "edges": "LAR edges P/R/3/Pr +0.024/+0.085/+0.016/-0.180; WSH -0.140/-0.120/-0.638/+0.180. Combined pass+rush gap +0.369 favors LAR; biggest lane Rush.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -991,18 +991,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "New York Giants to win and lay -3.5 — McKee under center in Philly. Giants with the side and the short road lay.",
+      "summary": "New York Giants to win and lay -3.5 \u2014 McKee under center in Philly. Giants with the side and the short road lay.",
       "final_score": null,
       "details": {
         "scheme": "McKee at QB: PHI struggles more; DeVonta + Barkley both Q. Scheme lean NYG.",
-        "injuries": "NYG: QB McCarthy ACTIVE / WR1 Nabers ACTIVE; Skattebo Q (hamstring) · PHI: QB McKee ACTIVE / WR1 DeVonta Smith Q (hamstring); Barkley Q (hamstring)",
+        "injuries": "NYG: QB McCarthy ACTIVE / WR1 Nabers ACTIVE; Skattebo Q (hamstring) \u00b7 PHI: QB McKee ACTIVE / WR1 DeVonta Smith Q (hamstring); Barkley Q (hamstring)",
         "edges": "NYG edges P/R/3/Pr +0.085/+0.133/+0.193/+0.450; PHI -0.185/-0.053/-0.168/+0.370. Combined pass+rush gap +0.456 favors NYG; biggest lane Protection.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1112,18 +1112,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Kansas City to win and lay -10 — Wilson's concussion Q kills the dog cushion. Home Chiefs cover the fat number now.",
+      "summary": "Kansas City to win and lay -10 \u2014 Wilson's concussion Q kills the dog cushion. Home Chiefs cover the fat number now.",
       "final_score": null,
       "details": {
         "scheme": "KC home pass/rush plus vs Jets. G. Wilson Q (concussion) and Hall Q weaken NYJ; KC -10 still a full possession-plus.",
-        "injuries": "NYJ: QB Smith ACTIVE / WR1 Garrett Wilson Q (concussion) · KC: QB Mahomes ACTIVE / WR1 Rice Q",
+        "injuries": "NYJ: QB Smith ACTIVE / WR1 Garrett Wilson Q (concussion) \u00b7 KC: QB Mahomes ACTIVE / WR1 Rice Q",
         "edges": "NYJ edges P/R/3/Pr +0.030/-0.061/-0.002/+0.500; KC +0.175/+0.101/+0.262/-0.370. Combined pass+rush gap -0.307 favors KC; biggest lane 3rd.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1240,18 +1240,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Houston to win and HOU -4.5 — Chargers offense has been a crater. Texans lay the points on the road.",
+      "summary": "Houston to win and HOU -4.5 \u2014 Chargers offense has been a crater. Texans lay the points on the road.",
       "final_score": null,
       "details": {
         "scheme": "LAC offense crater; Montgomery OUT trims HOU rush menu but Stroud/Collins active. Scheme lean HOU.",
-        "injuries": "HOU: QB Stroud ACTIVE / WR1 Collins ACTIVE; Montgomery OUT · LAC: QB Herbert ACTIVE / WR1 McConkey ACTIVE",
+        "injuries": "HOU: QB Stroud ACTIVE / WR1 Collins ACTIVE; Montgomery OUT \u00b7 LAC: QB Herbert ACTIVE / WR1 McConkey ACTIVE",
         "edges": "HOU edges P/R/3/Pr -0.025/-0.053/-0.410/+0.000; LAC -0.331/-0.108/-0.152/+0.130. Combined pass+rush gap +0.361 favors HOU; biggest lane Protection.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1347,18 +1347,18 @@
       "why": null,
       "type": null,
       "money_flag": true,
-      "summary": "Arizona to win and ARI +8.5 — Lock starts in Seattle, and last week's elite-D blowup is fresh. Cards with the side and the points.",
+      "summary": "Arizona to win and ARI +8.5 \u2014 Lock starts in Seattle, and last week's elite-D blowup is fresh. Cards with the side and the points.",
       "final_score": null,
       "details": {
-        "scheme": "EPA (rbsdm W1–8 + Lock overlay): ARI Off (−0.007) vs SEA Def (−0.077); SEA Off (−0.050, Lock/elbow) vs soft ARI Def (+0.087). Gap: ARI Off still the harder climb into SEA D; Lock softens SEA Off — W8 CHI lit-up reminder on SEA D as chalk.",
-        "injuries": "ARI: QB Minshew ACTIVE / WR1 Michael Wilson Q (ribs) · SEA: QB Darnold OUT (quad/ribs); Lock Q (elbow) but set to start / WR1 Smith-Njigba ACTIVE",
+        "scheme": "EPA (rbsdm W1\u20138 + Lock overlay): ARI Off (\u22120.007) vs SEA Def (\u22120.077); SEA Off (\u22120.050, Lock/elbow) vs soft ARI Def (+0.087). Gap: ARI Off still the harder climb into SEA D; Lock softens SEA Off \u2014 W8 CHI lit-up reminder on SEA D as chalk.",
+        "injuries": "ARI: QB Minshew ACTIVE / WR1 Michael Wilson Q (ribs) \u00b7 SEA: QB Darnold OUT (quad/ribs); Lock Q (elbow) but set to start / WR1 Smith-Njigba ACTIVE",
         "edges": "ARI edges P/R/3/Pr -0.208/-0.003/-0.524/-0.060; SEA +0.179/-0.197/+0.237/-0.060. Combined pass+rush gap -0.193 favors SEA; biggest lane 3rd.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1489,18 +1489,18 @@
       "why": null,
       "type": null,
       "money_flag": true,
-      "summary": "New England to win and NE -3.5 — Parsons OUT. Patriots at home; short home chalk.",
+      "summary": "New England to win and NE -3.5 \u2014 Parsons OUT. Patriots at home; short home chalk.",
       "final_score": null,
       "details": {
-        "scheme": "EPA (rbsdm W1–8 + Parsons overlay): GB Off (+0.010) vs NE Def (+0.011); NE Off (+0.057) vs GB Def (−0.044 without Parsons). Gap: close; Parsons OUT softens GB pass-rush/D edge — NE Off into GB D less scary than Tue.",
-        "injuries": "GB: QB Love ACTIVE / WR1 Christian Watson Q (rib); Parsons OUT (DE) · NE: QB Maye ACTIVE / WR1 A.J. Brown Q",
+        "scheme": "EPA (rbsdm W1\u20138 + Parsons overlay): GB Off (+0.010) vs NE Def (+0.011); NE Off (+0.057) vs GB Def (\u22120.044 without Parsons). Gap: close; Parsons OUT softens GB pass-rush/D edge \u2014 NE Off into GB D less scary than Tue.",
+        "injuries": "GB: QB Love ACTIVE / WR1 Christian Watson Q (rib); Parsons OUT (DE) \u00b7 NE: QB Maye ACTIVE / WR1 A.J. Brown Q",
         "edges": "GB edges P/R/3/Pr +0.066/-0.177/+0.009/-0.330; NE +0.028/-0.081/+0.065/-0.110. Combined pass+rush gap -0.058 favors NE; biggest lane 3rd.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1624,18 +1624,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "San Francisco wins, take LV +10 — skill trio Q softens San Fran, but they still get the W; -10 stays fat for the Raiders.",
+      "summary": "San Francisco wins, take LV +10 \u2014 skill trio Q softens San Fran, but they still get the W; -10 stays fat for the Raiders.",
       "final_score": null,
       "details": {
-        "scheme": "EPA (rbsdm W1–8 + skill-group overlay): LV Off (+0.046) vs SF Def (−0.040); SF Off (+0.154) vs soft LV Def (+0.064). Gap: LV struggles more if SF skill group mostly available; CMC/Evans/Deebo all Q and Aiyuk OUT — any OUTs soften SF Off edge.",
-        "injuries": "LV: QB Cousins ACTIVE / WR1 Tre Tucker ACTIVE · SF: QB Purdy ACTIVE / WR1 Evans Q; CMC Q; Deebo Q; Aiyuk OUT",
+        "scheme": "EPA (rbsdm W1\u20138 + skill-group overlay): LV Off (+0.046) vs SF Def (\u22120.040); SF Off (+0.154) vs soft LV Def (+0.064). Gap: LV struggles more if SF skill group mostly available; CMC/Evans/Deebo all Q and Aiyuk OUT \u2014 any OUTs soften SF Off edge.",
+        "injuries": "LV: QB Cousins ACTIVE / WR1 Tre Tucker ACTIVE \u00b7 SF: QB Purdy ACTIVE / WR1 Evans Q; CMC Q; Deebo Q; Aiyuk OUT",
         "edges": "LV edges P/R/3/Pr +0.067/-0.231/+0.270/-0.210; SF +0.319/+0.145/+0.078/-0.330. Combined pass+rush gap -0.628 favors SF; biggest lane Pass.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1752,18 +1752,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Chicago to win and CHI -6 — Williams form just lit up an elite home D on the road. Home Chicago laying six.",
+      "summary": "Chicago to win and CHI -6 \u2014 Williams form just lit up an elite home D on the road. Home Chicago laying six.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1–8, 11/03): CHI into elite TB defense is a harder climb. Bears' home defense (elite third-down EPA allowed) vs a Bucs offense still searching for positive pass EPA. Chicago can two-high and dare Mayfield to string drives after Egbuka's Q tag.",
-        "injuries": "TB: QB Mayfield ACTIVE / WR1 Egbuka Q (foot); Diaby OUT · CHI: QB Williams ACTIVE / WR1 Odunze ACTIVE",
+        "scheme": "EPA gap (rbsdm W1\u20138, 11/03): CHI into elite TB defense is a harder climb. Bears' home defense (elite third-down EPA allowed) vs a Bucs offense still searching for positive pass EPA. Chicago can two-high and dare Mayfield to string drives after Egbuka's Q tag.",
+        "injuries": "TB: QB Mayfield ACTIVE / WR1 Egbuka Q (foot); Diaby OUT \u00b7 CHI: QB Williams ACTIVE / WR1 Odunze ACTIVE",
         "edges": "TB edges P/R/3/Pr -0.294/+0.059/-0.611/+0.070; CHI -0.157/-0.020/-0.302/+0.070. Combined pass+rush gap -0.058 favors CHI; biggest lane Protection.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1873,18 +1873,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Buffalo to win and lay -3.5 — Murray Q; don't gift the dog the points. Bills cover the short road number now.",
+      "summary": "Buffalo to win and lay -3.5 \u2014 Murray Q; don't gift the dog the points. Bills cover the short road number now.",
       "final_score": null,
       "details": {
         "scheme": "Allen top-shelf pass EPA into MIN D; Murray still Q (hamstring) for MNF. Scheme lean BUF; close number.",
-        "injuries": "BUF: QB Allen ACTIVE / WR1 DJ Moore Q · MIN: QB Murray Q (hamstring) / WR1 Jefferson ACTIVE",
+        "injuries": "BUF: QB Allen ACTIVE / WR1 DJ Moore Q \u00b7 MIN: QB Murray Q (hamstring) / WR1 Jefferson ACTIVE",
         "edges": "BUF edges P/R/3/Pr -0.046/+0.062/-0.050/-0.520; MIN -0.006/-0.127/-0.277/+0.390. Combined pass+rush gap +0.149 favors BUF; biggest lane Rush.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "nflverse play_by_play_2026 (Weeks 1\u20138)",
           "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
           "NFL.com Week 9 injury report / team IR pages",
           "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
+          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
