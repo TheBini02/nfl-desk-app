@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "generated_at": "2026-11-08T10:07:29-06:00",
+  "generated_at": "2026-11-08T16:26:17-06:00",
   "games": [
     {
       "away": "JAX",
@@ -140,14 +140,14 @@
     {
       "away": "CIN",
       "home": "ATL",
-      "kickoff": "Sun Nov 8 8:30 AM CT",
+      "kickoff": "Sun Nov 8 8:30 AM CT (FINAL)",
       "spread": "CIN -3",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Cincinnati to win and CIN −3 — the edge is Atlanta's offense (−0.087), not a soft Falcons D. Bengals by structure on the road in Madrid.",
-      "final_score": null,
+      "summary": "Final: CIN 34 – ATL 17. Cincinnati won and covered −3 — the edge is Atlanta's offense (−0.087), not a soft Falcons D. Bengals by structure on the road in Madrid.",
+      "final_score": "CIN 34 - ATL 17",
       "details": {
         "scheme": "Madrid international game: ATL offense struggles more. CIN pass EPA into a Falcons defense that has not suppressed the pass lane.",
         "injuries": "CIN: QB Burrow ACTIVE / WR1 Chase ACTIVE · ATL: QB Penix ACTIVE / WR1 London ACTIVE",
@@ -261,14 +261,14 @@
     {
       "away": "CLE",
       "home": "NO",
-      "kickoff": "Sun Nov 8 12:00 PM CT",
+      "kickoff": "Sun Nov 8 12:00 PM CT (FINAL/OT)",
       "spread": "NO -3.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "New Orleans to win and NO −3 — Watson is expected to be inactive with a concussion, and Sanders starts. Saints at home; Cleveland's dog magic isn't automatic after Pittsburgh.",
-      "final_score": null,
+      "summary": "Final: CLE 22 – NO 23 (OT). New Orleans won but did not cover −3 — Watson was inactive with a concussion, and Sanders started. Saints at home in a one-point overtime finish; Cleveland's dog magic wasn't automatic after Pittsburgh.",
+      "final_score": "CLE 22 - NO 23",
       "details": {
         "scheme": "CLE Off −0.067 (Sanders confirmed start; Watson expected inactive) vs soft NO Def +0.081; NO Off −0.031 vs CLE Def −0.018. Thin — CLE Off into soft NO D is the slight structural edge; Sanders start does not flip it to a strong lean. Scheme lean CLE (thin only).",
         "injuries": "CLE: QB Watson Q (concussion, expected inactive); Sanders ACTIVE (starts) / WR1 Boston ACTIVE · NO: QB Shough ACTIVE / WR1 Olave ACTIVE",
@@ -396,14 +396,14 @@
     {
       "away": "DAL",
       "home": "IND",
-      "kickoff": "Sun Nov 8 12:00 PM CT",
+      "kickoff": "Sun Nov 8 12:00 PM CT (FINAL)",
       "spread": "DAL -4.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Dallas wins, take IND +5.5 — Cowboys are the better side, even with Turpin OUT and Pickens questionable. That mid-range road number stays sticky for Indy.",
-      "final_score": null,
+      "summary": "Final: DAL 27 – IND 23. Dallas won; Indianapolis covered +5.5 — Cowboys are the better side, even with Turpin OUT and Pickens questionable. That mid-range road number stayed sticky for Indy.",
+      "final_score": "DAL 27 - IND 23",
       "details": {
         "scheme": "IND offense worse; soft DAL defense is the subplot. Turpin OUT; Pickens Q (hamstring).",
         "injuries": "DAL: QB Prescott ACTIVE / WR1 Lamb ACTIVE; Pickens Q (hamstring); Turpin OUT (ribs) · IND: QB Jones ACTIVE / WR1 Downs ACTIVE",
@@ -524,14 +524,14 @@
     {
       "away": "DEN",
       "home": "CAR",
-      "kickoff": "Sun Nov 8 12:00 PM CT",
+      "kickoff": "Sun Nov 8 12:00 PM CT (FINAL)",
       "spread": "DEN -2.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Denver wins, take CAR +2.5 — Broncos are the side; don't auto-lay a short road favorite, so Carolina gets the tiny cushion.",
-      "final_score": null,
+      "summary": "Final: DEN 26 – CAR 21. Denver won; Carolina did not cover +2.5 — Broncos are the side; don't auto-lay a short road favorite, so Carolina got the tiny cushion that did not hold.",
+      "final_score": "DEN 26 - CAR 21",
       "details": {
         "scheme": "Close; slight DEN defense edge. Hufanga is a game-time decision (ankle).",
         "injuries": "DEN: QB Nix ACTIVE / WR1 Waddle ACTIVE; Sutton ACTIVE; Hufanga Q (ankle, GTD) · CAR: QB Young ACTIVE / WR1 McMillan ACTIVE",
@@ -666,14 +666,14 @@
     {
       "away": "DET",
       "home": "MIA",
-      "kickoff": "Sun Nov 8 12:00 PM CT",
+      "kickoff": "Sun Nov 8 12:00 PM CT (FINAL)",
       "spread": "DET -6.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Detroit wins, take MIA +7 — St. Brown is slated to play but still listed as questionable with ribs, and that keeps laying seven from being automatic. Lions still get the side; Dolphins get the points.",
-      "final_score": null,
+      "summary": "Final: DET 19 – MIA 9. Detroit won; Miami did not cover +7 — St. Brown was slated to play but still listed as questionable with ribs, and that kept laying seven from being automatic. Lions still got the side; the points did not hold.",
+      "final_score": "DET 19 - MIA 9",
       "details": {
         "scheme": "MIA offense weaker; St. Brown Q (ribs) but slated to play. DET pass EPA into a bottom-tier MIA pass D remains the louder structural hammer.",
         "injuries": "DET: QB Goff ACTIVE / WR1 St. Brown Q (ribs, slated to play) · MIA: QB Willis ACTIVE / WR1 Malik Washington ACTIVE",
@@ -794,14 +794,14 @@
     {
       "away": "LAR",
       "home": "WSH",
-      "kickoff": "Sun Nov 8 12:00 PM CT",
+      "kickoff": "Sun Nov 8 12:00 PM CT (FINAL)",
       "spread": "LAR -4.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Rams to win and LAR −4.5 — Stafford is ACTIVE. Rams by structure on the road.",
-      "final_score": null,
+      "summary": "Final: LAR 20 – WSH 13. The Rams won and covered −4.5 — Stafford was ACTIVE. Rams by structure on the road.",
+      "final_score": "LAR 20 - WSH 13",
       "details": {
         "scheme": "LA Off +0.047 (Stafford active) vs WAS Def +0.033; WAS Off −0.005 vs LA Def −0.081. WAS struggles more into strong LA D; Stafford active keeps the LAR Off edge clean.",
         "injuries": "LAR: QB Stafford ACTIVE / WR1 Nacua ACTIVE · WSH: QB Daniels ACTIVE / WR1 Diggs ACTIVE",
@@ -922,14 +922,14 @@
     {
       "away": "NYG",
       "home": "PHI",
-      "kickoff": "Sun Nov 8 12:00 PM CT",
+      "kickoff": "Sun Nov 8 12:00 PM CT (FINAL)",
       "spread": "NYG -3",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "New York Giants to win and lay −3.5 — Joe Milton starts for Philadelphia, McKee is expected to back up with sore ribs, and DeVonta Smith is OUT. Giants with the side and the short road lay.",
-      "final_score": null,
+      "summary": "Final: NYG 19 – PHI 11. The Giants won and covered −3.5 — Joe Milton started for Philadelphia, McKee was expected to back up with sore ribs, and DeVonta Smith was OUT. Giants with the side and the short road lay.",
+      "final_score": "NYG 19 - PHI 11",
       "details": {
         "scheme": "Milton starts (McKee Q ribs, expected to back up); DeVonta Smith OUT; Barkley ACTIVE. PHI offense the harder climb — backup QB without WR1. Scheme lean NYG (stronger than Thu).",
         "injuries": "NYG: QB McCarthy ACTIVE / WR1 Nabers ACTIVE; Skattebo DOUBTFUL (hamstring) · PHI: QB Milton ACTIVE (starts); McKee Q (ribs, expected backup) / WR1 DeVonta Smith OUT (hamstring); Barkley ACTIVE",
@@ -1064,14 +1064,14 @@
     {
       "away": "NYJ",
       "home": "KC",
-      "kickoff": "Sun Nov 8 12:00 PM CT",
+      "kickoff": "Sun Nov 8 12:00 PM CT (FINAL)",
       "spread": "KC -9.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Kansas City to win and lay −10 — Garrett Wilson is OUT with a concussion, so the Jets' top target is gone. Home Chiefs cover the fat number now.",
-      "final_score": null,
+      "summary": "Final: NYJ 12 – KC 35. Kansas City won and covered −10 — Garrett Wilson was OUT with a concussion, so the Jets' top target was gone. Home Chiefs covered the fat number.",
+      "final_score": "NYJ 12 - KC 35",
       "details": {
         "scheme": "Garrett Wilson OUT (concussion). NYJ struggles more without the top target; scheme lean KC (stronger than Thu).",
         "injuries": "NYJ: QB Smith ACTIVE / WR1 Garrett Wilson OUT (concussion) · KC: QB Mahomes ACTIVE / WR1 Rice ACTIVE",
@@ -2000,7 +2000,7 @@
       }
     }
   ],
-  "status": "Sunday final report: final injuries + lines (Week 9); pick/why null until Saturday lock",
+  "status": "Sunday early slate final scores filled (Week 9); pick/why null until Saturday lock",
   "byes": [
     "PIT",
     "TEN"
