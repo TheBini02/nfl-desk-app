@@ -1,28 +1,28 @@
 {
   "week": 9,
-  "generated_at": "2026-11-06T08:22:09-06:00",
+  "generated_at": "2026-11-08T10:07:29-06:00",
   "games": [
     {
       "away": "JAX",
       "home": "BAL",
-      "kickoff": "Thu Nov 5 7:15 PM CT",
+      "kickoff": "Thu Nov 5 7:15 PM CT (FINAL)",
       "spread": "JAX -10",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Jacksonville to win and lay -10 \u2014 Fagnano into an elite Jaguars defense with Lamar OUT. The number's loud, but Baltimore's pass edge is gone and that chalk still plays.",
+      "summary": "Final: JAX 33 – BAL 10. Jacksonville won and covered −10; Fagnano and a backup Ravens attack could not stay on schedule against that Jaguars defense.",
       "final_score": "JAX 33 - BAL 10",
       "details": {
-        "scheme": "EPA (rbsdm W1\u20138 + Fagnano overlay): JAX Off (+0.124) vs BAL Def (+0.017); BAL Off with Fagnano vs elite JAX Def (\u22120.081). Gap: BAL struggles more \u2014 third-string QB into elite JAX D widens the mismatch. Scheme lean JAX (stronger than Tue).",
-        "injuries": "JAX: QB Lawrence ACTIVE / WR1 Parker Washington ACTIVE \u00b7 BAL: QB Fagnano ACTIVE (TNF starter, depth QB1) / WR1 Flowers ACTIVE; Jackson OUT/IR (thumb); Huntley OUT (turf toe, IR looming). Brissett trade reported for later weeks; TNF still Fagnano",
+        "scheme": "EPA (rbsdm W1–8 + Fagnano overlay): JAX Off (+0.124) vs BAL Def (+0.017); BAL Off with Fagnano vs elite JAX Def (−0.081). Gap: BAL struggled more — third-string QB into elite JAX D. Scheme lean JAX. TNF final: JAX 33 – BAL 10.",
+        "injuries": "JAX: QB Lawrence ACTIVE / WR1 Parker Washington ACTIVE · BAL: QB Fagnano started TNF / WR1 Flowers ACTIVE; Jackson IR (thumb); Huntley IR (toe)",
         "edges": "JAX edges P/R/3/Pr +0.189/+0.139/+0.362/+0.020; BAL -0.085/-0.108/-0.069/+0.260. Combined pass+rush gap +0.521 favors JAX; biggest lane 3rd.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -96,35 +96,35 @@
                 "BAL",
                 "Lamar Jackson",
                 "Out",
-                "Thumb (IR-bound)",
+                "Thumb (IR)",
                 "Qualitative only"
               ],
               [
                 "BAL",
                 "Tyler Huntley",
                 "Out",
-                "Toe (season)",
+                "Toe (IR)",
                 "Qualitative only"
               ],
               [
                 "BAL",
                 "Joe Fagnano",
                 "Active",
-                "Starts TNF",
+                "Started TNF",
                 "Qualitative only"
               ],
               [
                 "JAX",
                 "Bhayshul Tuten",
-                "Questionable",
-                "Ankle/foot",
+                "Active",
+                "Ankle/foot (played TNF)",
                 "Qualitative only"
               ],
               [
                 "JAX",
                 "Travon Walker",
-                "Questionable",
-                "Rib",
+                "Active",
+                "Rib (played TNF)",
                 "Qualitative only"
               ]
             ]
@@ -146,18 +146,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Cincinnati to win and CIN -3 \u2014 the edge is Atlanta's offense (-0.087), not a soft Falcons D. Bengals by structure on the road.",
+      "summary": "Cincinnati to win and CIN −3 — the edge is Atlanta's offense (−0.087), not a soft Falcons D. Bengals by structure on the road in Madrid.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1\u20138, 11/03): Madrid: ATL offense struggles more. Madrid early kick and Falcons' soft pass shell invite Burrow to attack the seams; Atlanta must invent negative plays without a true pass-EPA ceiling. Bengals should force ATL into obvious passing downs where Cincinnati's rush-to-pass leverage flips.",
-        "injuries": "CIN: QB Burrow ACTIVE / WR1 Chase ACTIVE \u00b7 ATL: QB Penix ACTIVE / WR1 London ACTIVE",
+        "scheme": "Madrid international game: ATL offense struggles more. CIN pass EPA into a Falcons defense that has not suppressed the pass lane.",
+        "injuries": "CIN: QB Burrow ACTIVE / WR1 Chase ACTIVE · ATL: QB Penix ACTIVE / WR1 London ACTIVE",
         "edges": "CIN edges P/R/3/Pr +0.096/-0.049/+0.244/-0.130; ATL -0.265/+0.067/+0.006/-0.190. Combined pass+rush gap +0.245 favors CIN; biggest lane 3rd.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -230,85 +230,22 @@
               [
                 "CIN",
                 "Andrei Iosivas",
-                "IR",
-                "Thumb",
+                "Out",
+                "Thumb (IR)",
                 "Qualitative only"
               ],
               [
                 "CIN",
                 "Kyle Dugger",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "CIN",
-                "DJ Turner II",
-                "Questionable",
-                "Back",
-                "Qualitative only"
-              ],
-              [
-                "CIN",
-                "Cashius Howell",
-                "Questionable",
-                "Wrist",
-                "Qualitative only"
-              ],
-              [
-                "CIN",
-                "Cedric Johnson",
-                "Questionable",
-                "Ankle",
-                "Qualitative only"
-              ],
-              [
-                "ATL",
-                "Zachariah Branch",
                 "Out",
-                "Out",
-                "Qualitative only"
-              ],
-              [
-                "ATL",
-                "Beaux Collins",
-                "IR",
-                "IR",
+                "Quadriceps (inactive)",
                 "Qualitative only"
               ],
               [
                 "ATL",
                 "Brian Robinson Jr.",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "ATL",
-                "Divine Deablo",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "ATL",
-                "Billy Bowman Jr.",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "ATL",
-                "Samson Ebukam",
                 "Out",
-                "Out",
-                "Qualitative only"
-              ],
-              [
-                "ATL",
-                "Anterio Thompson",
-                "Out",
-                "Out",
+                "Hamstring (IR)",
                 "Qualitative only"
               ]
             ]
@@ -325,23 +262,23 @@
       "away": "CLE",
       "home": "NO",
       "kickoff": "Sun Nov 8 12:00 PM CT",
-      "spread": "NO -3",
+      "spread": "NO -3.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "New Orleans to win and NO -3 \u2014 Watson Q, line moved to -3. Saints at home; Cleveland's dog magic isn't automatic after Pittsburgh.",
+      "summary": "New Orleans to win and NO −3 — Watson is expected to be inactive with a concussion, and Sanders starts. Saints at home; Cleveland's dog magic isn't automatic after Pittsburgh.",
       "final_score": null,
       "details": {
-        "scheme": "EPA (rbsdm W1\u20138 + Sanders overlay): CLE Off (\u22120.067, Sanders likely) vs soft NO Def (+0.081); NO Off (\u22120.031) vs CLE Def (\u22120.018). Gap: thin \u2014 CLE Off into soft NO D is the slight edge; Sanders doesn't flip it to a strong lean. Scheme lean CLE (thin only).",
-        "injuries": "CLE: QB Watson Q (concussion protocol); Sanders ACTIVE (likely start) / WR1 Boston Q \u00b7 NO: QB Shough ACTIVE / WR1 Olave ACTIVE",
-        "edges": "CLE edges P/R/3/Pr -0.046/-0.002/-0.141/+0.370; NO -0.121/-0.013/-0.181/-0.210. Combined pass+rush gap +0.086 favors CLE; biggest lane Protection.",
+        "scheme": "CLE Off −0.067 (Sanders confirmed start; Watson expected inactive) vs soft NO Def +0.081; NO Off −0.031 vs CLE Def −0.018. Thin — CLE Off into soft NO D is the slight structural edge; Sanders start does not flip it to a strong lean. Scheme lean CLE (thin only).",
+        "injuries": "CLE: QB Watson Q (concussion, expected inactive); Sanders ACTIVE (starts) / WR1 Boston ACTIVE · NO: QB Shough ACTIVE / WR1 Olave ACTIVE",
+        "edges": "CLE edges P/R/3/Pr -0.046/-0.002/-0.141/+0.370; NO -0.121/-0.013/-0.181/-0.210. Combined pass+rush gap +0.086 favors CLE; biggest lane Protection. Sunday overlay: Sanders confirmed to start; Watson expected inactive.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -415,28 +352,35 @@
                 "CLE",
                 "Deshaun Watson",
                 "Questionable",
-                "Concussion",
+                "Concussion (expected inactive)",
                 "Qualitative only"
               ],
               [
                 "CLE",
                 "Shedeur Sanders",
                 "Active",
-                "Likely start if Watson out",
+                "Starts Sunday",
                 "Qualitative only"
               ],
               [
                 "CLE",
                 "Denzel Boston",
-                "Questionable",
-                "Calf",
+                "Active",
+                "Calf (no designation)",
+                "Qualitative only"
+              ],
+              [
+                "CLE",
+                "Maliek Collins",
+                "Out",
+                "Elbow",
                 "Qualitative only"
               ],
               [
                 "NO",
                 "Alvin Kamara",
-                "Questionable",
-                "Rest/NIR",
+                "Active",
+                "Rest/back (no designation)",
                 "Qualitative only"
               ]
             ]
@@ -453,23 +397,23 @@
       "away": "DAL",
       "home": "IND",
       "kickoff": "Sun Nov 8 12:00 PM CT",
-      "spread": "DAL -5.5",
+      "spread": "DAL -4.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Dallas wins, take IND +5.5 \u2014 Cowboys are the better side; that mid-range road number stays sticky for Indy.",
+      "summary": "Dallas wins, take IND +5.5 — Cowboys are the better side, even with Turpin OUT and Pickens questionable. That mid-range road number stays sticky for Indy.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1\u20138, 11/03): IND offense worse; soft DAL defense is the subplot. Cowboys' pass-game structure still outclasses Indy's leaky secondary; Colts need early scripted runs to keep Dak out of rhythm. Dallas should force single-high looks and take the deep overs.",
-        "injuries": "DAL: QB Prescott ACTIVE / WR1 Lamb ACTIVE; Pickens Q (hamstring) \u00b7 IND: QB Jones ACTIVE / WR1 Downs ACTIVE",
+        "scheme": "IND offense worse; soft DAL defense is the subplot. Turpin OUT; Pickens Q (hamstring).",
+        "injuries": "DAL: QB Prescott ACTIVE / WR1 Lamb ACTIVE; Pickens Q (hamstring); Turpin OUT (ribs) · IND: QB Jones ACTIVE / WR1 Downs ACTIVE",
         "edges": "DAL edges P/R/3/Pr +0.114/+0.166/+0.136/-0.290; IND -0.114/+0.168/+0.276/+0.250. Combined pass+rush gap +0.226 favors DAL; biggest lane Rush.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -541,9 +485,9 @@
             "rows": [
               [
                 "DAL",
-                "Jake Ferguson",
-                "Questionable",
-                "Ankle",
+                "KaVontae Turpin",
+                "Out",
+                "Ribs",
                 "Qualitative only"
               ],
               [
@@ -555,9 +499,16 @@
               ],
               [
                 "DAL",
-                "KaVontae Turpin",
+                "Jake Ferguson",
                 "Questionable",
-                "Undisclosed",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "DAL",
+                "Luke Schoonmaker",
+                "Questionable",
+                "Groin",
                 "Qualitative only"
               ]
             ]
@@ -579,18 +530,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Denver wins, take CAR +2.5 \u2014 Broncos are the side; don't auto-lay a short road favorite, so Carolina gets the tiny cushion.",
+      "summary": "Denver wins, take CAR +2.5 — Broncos are the side; don't auto-lay a short road favorite, so Carolina gets the tiny cushion.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1\u20138, 11/03): Close; slight DEN defense edge. Broncos bring a protection-first identity into Carolina's below-average sack profile \u2014 expect Denver to win on schedule with 12-personnel run/boot. Panthers must invent pressure without selling out the edges.",
-        "injuries": "DEN: QB Nix ACTIVE / WR1 Waddle ACTIVE; Sutton ACTIVE \u00b7 CAR: QB Young ACTIVE / WR1 McMillan ACTIVE",
+        "scheme": "Close; slight DEN defense edge. Hufanga is a game-time decision (ankle).",
+        "injuries": "DEN: QB Nix ACTIVE / WR1 Waddle ACTIVE; Sutton ACTIVE; Hufanga Q (ankle, GTD) · CAR: QB Young ACTIVE / WR1 McMillan ACTIVE",
         "edges": "DEN edges P/R/3/Pr -0.077/+0.095/-0.372/-0.040; CAR -0.083/+0.087/-0.297/+0.070. Combined pass+rush gap +0.014 favors DEN; biggest lane Rush.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -664,70 +615,42 @@
                 "DEN",
                 "Talanoa Hufanga",
                 "Questionable",
-                "Questionable",
+                "Ankle (GTD)",
                 "Qualitative only"
               ],
               [
                 "DEN",
                 "Brandon Jones",
-                "Questionable",
+                "Out",
                 "Hamstring",
                 "Qualitative only"
               ],
               [
                 "DEN",
                 "Kris Abrams-Draine",
-                "Questionable",
+                "Out",
                 "Ankle",
                 "Qualitative only"
               ],
               [
                 "CAR",
-                "Xavier Legette",
-                "IR",
-                "IR",
+                "Jaelan Phillips",
+                "Out",
+                "Hamstring",
                 "Qualitative only"
               ],
               [
                 "CAR",
-                "Torricelli Simpkins III",
-                "Questionable",
-                "Questionable",
+                "Bobby Okereke",
+                "Out",
+                "Foot",
                 "Qualitative only"
               ],
               [
                 "CAR",
                 "Damien Lewis",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "CAR",
-                "Corey Bullock",
-                "Questionable",
+                "Out",
                 "Knee",
-                "Qualitative only"
-              ],
-              [
-                "CAR",
-                "Bobby Brown III",
-                "Questionable",
-                "Questionable",
-                "Qualitative only"
-              ],
-              [
-                "CAR",
-                "Will Lee III",
-                "Questionable",
-                "Hamstring",
-                "Qualitative only"
-              ],
-              [
-                "CAR",
-                "Jaelan Phillips",
-                "Questionable",
-                "Hamstring",
                 "Qualitative only"
               ]
             ]
@@ -744,23 +667,23 @@
       "away": "DET",
       "home": "MIA",
       "kickoff": "Sun Nov 8 12:00 PM CT",
-      "spread": "DET -7",
+      "spread": "DET -6.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Detroit wins, take MIA +7 \u2014 St. Brown Q makes laying seven sticky. Lions still get the side; Dolphins get the points.",
+      "summary": "Detroit wins, take MIA +7 — St. Brown is slated to play but still listed as questionable with ribs, and that keeps laying seven from being automatic. Lions still get the side; Dolphins get the points.",
       "final_score": null,
       "details": {
-        "scheme": "DET pass O into soft MIA pass D remains the hammer; St. Brown Q (ribs) is the only wrinkle. Scheme lean DET.",
-        "injuries": "DET: QB Goff ACTIVE / WR1 St. Brown Q \u00b7 MIA: QB Willis ACTIVE / WR1 Malik Washington ACTIVE",
+        "scheme": "MIA offense weaker; St. Brown Q (ribs) but slated to play. DET pass EPA into a bottom-tier MIA pass D remains the louder structural hammer.",
+        "injuries": "DET: QB Goff ACTIVE / WR1 St. Brown Q (ribs, slated to play) · MIA: QB Willis ACTIVE / WR1 Malik Washington ACTIVE",
         "edges": "DET edges P/R/3/Pr +0.408/+0.024/+0.237/+0.180; MIA +0.077/-0.051/+0.267/+0.190. Combined pass+rush gap +0.406 favors DET; biggest lane Pass.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -834,21 +757,28 @@
                 "DET",
                 "Amon-Ra St. Brown",
                 "Questionable",
-                "Ribs",
+                "Ribs (slated to play)",
                 "Qualitative only"
               ],
               [
                 "DET",
-                "Kerby Joseph",
+                "D.J. Reed",
                 "Out",
-                "Undisclosed",
+                "Hip",
                 "Qualitative only"
               ],
               [
                 "DET",
-                "Jack Campbell",
-                "Doubtful",
-                "Undisclosed",
+                "Cade Mays",
+                "Out",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "DET",
+                "DJ Wonnum",
+                "Out",
+                "Concussion",
                 "Qualitative only"
               ]
             ]
@@ -870,18 +800,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Rams to win and LAR -4.5 \u2014 Stafford ACTIVE. Rams by structure on the road.",
+      "summary": "Rams to win and LAR −4.5 — Stafford is ACTIVE. Rams by structure on the road.",
       "final_score": null,
       "details": {
-        "scheme": "EPA (rbsdm W1\u20138 + Stafford overlay): LA Off (+0.047, Stafford active) vs WAS Def (+0.033); WAS Off (\u22120.005) vs LA Def (\u22120.081). Gap: WAS struggles more into strong LA D; Stafford active clears the Q caveat \u2014 LAR Off edge cleaner.",
-        "injuries": "LAR: QB Stafford ACTIVE / WR1 Nacua ACTIVE \u00b7 WSH: QB Daniels ACTIVE / WR1 Diggs ACTIVE",
+        "scheme": "LA Off +0.047 (Stafford active) vs WAS Def +0.033; WAS Off −0.005 vs LA Def −0.081. WAS struggles more into strong LA D; Stafford active keeps the LAR Off edge clean.",
+        "injuries": "LAR: QB Stafford ACTIVE / WR1 Nacua ACTIVE · WSH: QB Daniels ACTIVE / WR1 Diggs ACTIVE",
         "edges": "LAR edges P/R/3/Pr +0.024/+0.085/+0.016/-0.180; WSH -0.140/-0.120/-0.638/+0.180. Combined pass+rush gap +0.369 favors LAR; biggest lane Rush.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -955,7 +885,7 @@
                 "LAR",
                 "Matthew Stafford",
                 "Active",
-                "Arm (upgraded)",
+                "Elbow (active)",
                 "Qualitative only"
               ],
               [
@@ -970,6 +900,13 @@
                 "Colby Parkinson",
                 "Questionable",
                 "Ribs",
+                "Qualitative only"
+              ],
+              [
+                "LAR",
+                "Terrance Ferguson",
+                "Out",
+                "Hamstring",
                 "Qualitative only"
               ]
             ]
@@ -986,23 +923,23 @@
       "away": "NYG",
       "home": "PHI",
       "kickoff": "Sun Nov 8 12:00 PM CT",
-      "spread": "NYG -3.5",
+      "spread": "NYG -3",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "New York Giants to win and lay -3.5 \u2014 McKee under center in Philly. Giants with the side and the short road lay.",
+      "summary": "New York Giants to win and lay −3.5 — Joe Milton starts for Philadelphia, McKee is expected to back up with sore ribs, and DeVonta Smith is OUT. Giants with the side and the short road lay.",
       "final_score": null,
       "details": {
-        "scheme": "McKee at QB: PHI struggles more; DeVonta + Barkley both Q. Scheme lean NYG.",
-        "injuries": "NYG: QB McCarthy ACTIVE / WR1 Nabers ACTIVE; Skattebo Q (hamstring) \u00b7 PHI: QB McKee ACTIVE / WR1 DeVonta Smith Q (hamstring); Barkley Q (hamstring)",
-        "edges": "NYG edges P/R/3/Pr +0.085/+0.133/+0.193/+0.450; PHI -0.185/-0.053/-0.168/+0.370. Combined pass+rush gap +0.456 favors NYG; biggest lane Protection.",
+        "scheme": "Milton starts (McKee Q ribs, expected to back up); DeVonta Smith OUT; Barkley ACTIVE. PHI offense the harder climb — backup QB without WR1. Scheme lean NYG (stronger than Thu).",
+        "injuries": "NYG: QB McCarthy ACTIVE / WR1 Nabers ACTIVE; Skattebo DOUBTFUL (hamstring) · PHI: QB Milton ACTIVE (starts); McKee Q (ribs, expected backup) / WR1 DeVonta Smith OUT (hamstring); Barkley ACTIVE",
+        "edges": "NYG edges P/R/3/Pr +0.085/+0.133/+0.193/+0.450; PHI -0.185/-0.053/-0.168/+0.370. Combined pass+rush gap +0.456 favors NYG; biggest lane Protection. Sunday overlay: Milton starts, DeVonta OUT — PHI pass menu shrinks further; NYG lean stronger.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1073,24 +1010,45 @@
             ],
             "rows": [
               [
+                "NYG",
+                "Cam Skattebo",
+                "Doubtful",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "NYG",
+                "Malik Nabers",
+                "Active",
+                "Knee (no designation)",
+                "Qualitative only"
+              ],
+              [
+                "PHI",
+                "Joe Milton",
+                "Active",
+                "Starts at QB",
+                "Qualitative only"
+              ],
+              [
+                "PHI",
+                "Tanner McKee",
+                "Questionable",
+                "Ribs (expected backup)",
+                "Qualitative only"
+              ],
+              [
                 "PHI",
                 "DeVonta Smith",
-                "Questionable",
+                "Out",
                 "Hamstring",
                 "Qualitative only"
               ],
               [
                 "PHI",
                 "Saquon Barkley",
-                "Questionable",
-                "Hamstring",
-                "Qualitative only"
-              ],
-              [
-                "NYG",
-                "Cam Skattebo",
-                "Questionable",
-                "Hamstring",
+                "Active",
+                "Hamstring/back (no designation)",
                 "Qualitative only"
               ]
             ]
@@ -1107,23 +1065,23 @@
       "away": "NYJ",
       "home": "KC",
       "kickoff": "Sun Nov 8 12:00 PM CT",
-      "spread": "KC -10",
+      "spread": "KC -9.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Kansas City to win and lay -10 \u2014 Wilson's concussion Q kills the dog cushion. Home Chiefs cover the fat number now.",
+      "summary": "Kansas City to win and lay −10 — Garrett Wilson is OUT with a concussion, so the Jets' top target is gone. Home Chiefs cover the fat number now.",
       "final_score": null,
       "details": {
-        "scheme": "KC home pass/rush plus vs Jets. G. Wilson Q (concussion) and Hall Q weaken NYJ; KC -10 still a full possession-plus.",
-        "injuries": "NYJ: QB Smith ACTIVE / WR1 Garrett Wilson Q (concussion) \u00b7 KC: QB Mahomes ACTIVE / WR1 Rice Q",
-        "edges": "NYJ edges P/R/3/Pr +0.030/-0.061/-0.002/+0.500; KC +0.175/+0.101/+0.262/-0.370. Combined pass+rush gap -0.307 favors KC; biggest lane 3rd.",
+        "scheme": "Garrett Wilson OUT (concussion). NYJ struggles more without the top target; scheme lean KC (stronger than Thu).",
+        "injuries": "NYJ: QB Smith ACTIVE / WR1 Garrett Wilson OUT (concussion) · KC: QB Mahomes ACTIVE / WR1 Rice ACTIVE",
+        "edges": "NYJ edges P/R/3/Pr +0.030/-0.061/-0.002/+0.500; KC +0.175/+0.101/+0.262/-0.370. Combined pass+rush gap -0.307 favors KC; biggest lane 3rd. Sunday overlay: Garrett Wilson OUT (concussion) — NYJ WR1 gone; KC lean stronger.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1196,29 +1154,29 @@
               [
                 "NYJ",
                 "Garrett Wilson",
-                "Questionable",
+                "Out",
                 "Concussion",
                 "Qualitative only"
               ],
               [
                 "NYJ",
                 "Breece Hall",
-                "Questionable",
-                "Quad",
+                "Active",
+                "Quad (cleared, expected to play)",
+                "Qualitative only"
+              ],
+              [
+                "NYJ",
+                "Joseph Ossai",
+                "Out",
+                "Ankle",
                 "Qualitative only"
               ],
               [
                 "KC",
                 "Rashee Rice",
-                "Questionable",
-                "Hamstring",
-                "Qualitative only"
-              ],
-              [
-                "KC",
-                "Travis Kelce",
-                "Questionable",
-                "Ankle",
+                "Active",
+                "Hamstring/knee (no designation)",
                 "Qualitative only"
               ]
             ]
@@ -1235,23 +1193,23 @@
       "away": "HOU",
       "home": "LAC",
       "kickoff": "Sun Nov 8 3:05 PM CT",
-      "spread": "HOU -4.5",
+      "spread": "HOU -5.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Houston to win and HOU -4.5 \u2014 Chargers offense has been a crater. Texans lay the points on the road.",
+      "summary": "Houston to win and HOU −4.5 — Chargers offense has been a crater, and Derwin James is on IR. Texans lay the points on the road.",
       "final_score": null,
       "details": {
-        "scheme": "LAC offense crater; Montgomery OUT trims HOU rush menu but Stroud/Collins active. Scheme lean HOU.",
-        "injuries": "HOU: QB Stroud ACTIVE / WR1 Collins ACTIVE; Montgomery OUT \u00b7 LAC: QB Herbert ACTIVE / WR1 McConkey ACTIVE",
-        "edges": "HOU edges P/R/3/Pr -0.025/-0.053/-0.410/+0.000; LAC -0.331/-0.108/-0.152/+0.130. Combined pass+rush gap +0.361 favors HOU; biggest lane Protection.",
+        "scheme": "LAC offense collapses; Montgomery OUT; Derwin James on IR for LAC. Scheme lean HOU.",
+        "injuries": "HOU: QB Stroud ACTIVE / WR1 Collins ACTIVE; Montgomery OUT (groin) · LAC: QB Herbert ACTIVE / WR1 McConkey ACTIVE",
+        "edges": "HOU edges P/R/3/Pr -0.025/-0.053/-0.410/+0.000; LAC -0.331/-0.108/-0.152/+0.130. Combined pass+rush gap +0.361 favors HOU; biggest lane Protection. Sunday overlay: Montgomery OUT; Derwin James on IR.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1327,6 +1285,27 @@
                 "Out",
                 "Groin",
                 "Qualitative only"
+              ],
+              [
+                "HOU",
+                "Reed Blankenship",
+                "Out",
+                "Concussion",
+                "Qualitative only"
+              ],
+              [
+                "HOU",
+                "Jaylin Noel",
+                "Out",
+                "Toe (IR)",
+                "Qualitative only"
+              ],
+              [
+                "LAC",
+                "Derwin James Jr.",
+                "Out",
+                "Hamstring (IR)",
+                "Qualitative only"
               ]
             ]
           }
@@ -1347,18 +1326,18 @@
       "why": null,
       "type": null,
       "money_flag": true,
-      "summary": "Arizona to win and ARI +8.5 \u2014 Lock starts in Seattle, and last week's elite-D blowup is fresh. Cards with the side and the points.",
+      "summary": "Arizona to win and ARI +8.5 — Lock starts in Seattle with Darnold OUT, and the Seahawks are also without left tackle Charles Cross. Last week's blowup against Chicago is fresh. Cards with the side and the points.",
       "final_score": null,
       "details": {
-        "scheme": "EPA (rbsdm W1\u20138 + Lock overlay): ARI Off (\u22120.007) vs SEA Def (\u22120.077); SEA Off (\u22120.050, Lock/elbow) vs soft ARI Def (+0.087). Gap: ARI Off still the harder climb into SEA D; Lock softens SEA Off \u2014 W8 CHI lit-up reminder on SEA D as chalk.",
-        "injuries": "ARI: QB Minshew ACTIVE / WR1 Michael Wilson Q (ribs) \u00b7 SEA: QB Darnold OUT (quad/ribs); Lock Q (elbow) but set to start / WR1 Smith-Njigba ACTIVE",
-        "edges": "ARI edges P/R/3/Pr -0.208/-0.003/-0.524/-0.060; SEA +0.179/-0.197/+0.237/-0.060. Combined pass+rush gap -0.193 favors SEA; biggest lane 3rd.",
+        "scheme": "ARI Off −0.007 vs SEA Def −0.077; SEA Off −0.050 (Lock starts, Darnold OUT) vs soft ARI Def +0.087. Lock confirmed and Charles Cross OUT soften SEA further; ARI Off still the harder climb into SEA D, but the home number stays fat. W8 CHI blowup reminder on SEA D as chalk.",
+        "injuries": "ARI: QB Minshew ACTIVE (starts) / WR1 Michael Wilson ACTIVE · SEA: QB Darnold OUT (quad); Lock ACTIVE (starts) / WR1 Smith-Njigba ACTIVE",
+        "edges": "ARI edges P/R/3/Pr -0.208/-0.003/-0.524/-0.060; SEA +0.179/-0.197/+0.237/-0.060. Combined pass+rush gap -0.193 favors SEA; biggest lane 3rd. Sunday overlay: Lock confirmed start; Charles Cross OUT — SEA -8.5 still a fat home number without Darnold.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1432,21 +1411,49 @@
                 "SEA",
                 "Sam Darnold",
                 "Out",
-                "Quad/rib",
+                "Quadriceps",
                 "Qualitative only"
               ],
               [
                 "SEA",
                 "Drew Lock",
-                "Questionable",
-                "Elbow (slated to start)",
+                "Active",
+                "Elbow (starts)",
+                "Qualitative only"
+              ],
+              [
+                "SEA",
+                "Charles Cross",
+                "Out",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "SEA",
+                "Leonard Williams",
+                "Out",
+                "Shoulder",
+                "Qualitative only"
+              ],
+              [
+                "ARI",
+                "Gardner Minshew II",
+                "Active",
+                "Starts at QB",
+                "Qualitative only"
+              ],
+              [
+                "ARI",
+                "Michael Wilson",
+                "Active",
+                "Ribs (no designation)",
                 "Qualitative only"
               ],
               [
                 "ARI",
                 "Kendrick Bourne",
                 "Out",
-                "Ankle (IR)",
+                "Ankle/tibia (IR)",
                 "Qualitative only"
               ],
               [
@@ -1458,15 +1465,8 @@
               ],
               [
                 "ARI",
-                "Michael Wilson",
-                "Questionable",
-                "Ribs",
-                "Qualitative only"
-              ],
-              [
-                "ARI",
                 "Bam Knight",
-                "Questionable",
+                "Out",
                 "Concussion",
                 "Qualitative only"
               ]
@@ -1484,23 +1484,23 @@
       "away": "GB",
       "home": "NE",
       "kickoff": "Sun Nov 8 3:25 PM CT",
-      "spread": "NE -3.5",
+      "spread": "NE -3",
       "pick": null,
       "why": null,
       "type": null,
-      "money_flag": true,
-      "summary": "New England to win and NE -3.5 \u2014 Parsons OUT. Patriots at home; short home chalk.",
+      "money_flag": false,
+      "summary": "New England to win and NE −3.5 — Parsons is OUT. Christian Watson is ACTIVE for Green Bay, but A.J. Brown is OUT for New England. Patriots at home; short home chalk.",
       "final_score": null,
       "details": {
-        "scheme": "EPA (rbsdm W1\u20138 + Parsons overlay): GB Off (+0.010) vs NE Def (+0.011); NE Off (+0.057) vs GB Def (\u22120.044 without Parsons). Gap: close; Parsons OUT softens GB pass-rush/D edge \u2014 NE Off into GB D less scary than Tue.",
-        "injuries": "GB: QB Love ACTIVE / WR1 Christian Watson Q (rib); Parsons OUT (DE) \u00b7 NE: QB Maye ACTIVE / WR1 A.J. Brown Q",
-        "edges": "GB edges P/R/3/Pr +0.066/-0.177/+0.009/-0.330; NE +0.028/-0.081/+0.065/-0.110. Combined pass+rush gap -0.058 favors NE; biggest lane 3rd.",
+        "scheme": "GB Off +0.010 vs NE Def +0.011; NE Off +0.057 vs GB Def −0.044 (no Parsons). Christian Watson ACTIVE; A.J. Brown OUT. Close; Parsons OUT still softens GB pass-rush, while Brown OUT trims NE's WR1 answers. Near pick'em structure into a short home number.",
+        "injuries": "GB: QB Love ACTIVE / WR1 Christian Watson ACTIVE; Parsons OUT (knee) · NE: QB Maye ACTIVE / WR1 A.J. Brown OUT (knee/ankle)",
+        "edges": "GB edges P/R/3/Pr +0.066/-0.177/+0.009/-0.330; NE +0.028/-0.081/+0.065/-0.110. Combined pass+rush gap -0.058 favors NE; biggest lane 3rd. Sunday overlay: Parsons OUT; Christian Watson ACTIVE; A.J. Brown OUT — closer to even than Thursday's NE $.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1574,34 +1574,34 @@
                 "GB",
                 "Micah Parsons",
                 "Out",
-                "Undisclosed",
+                "Knee (ACL / PUP)",
                 "Qualitative only"
               ],
               [
                 "GB",
                 "Christian Watson",
-                "Questionable",
-                "Rib",
+                "Active",
+                "Ribs (no designation)",
                 "Qualitative only"
               ],
               [
                 "NE",
                 "A.J. Brown",
-                "Questionable",
-                "Ankle/knee",
+                "Out",
+                "Knee/ankle",
                 "Qualitative only"
               ],
               [
                 "NE",
                 "Hunter Henry",
                 "Questionable",
-                "Foot",
+                "Foot (realistic chance)",
                 "Qualitative only"
               ],
               [
                 "NE",
                 "TreVeyon Henderson",
-                "Questionable",
+                "Out",
                 "Illness",
                 "Qualitative only"
               ]
@@ -1619,23 +1619,23 @@
       "away": "LV",
       "home": "SF",
       "kickoff": "Sun Nov 8 3:25 PM CT",
-      "spread": "SF -10",
+      "spread": "SF -9.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "San Francisco wins, take LV +10 \u2014 skill trio Q softens San Fran, but they still get the W; -10 stays fat for the Raiders.",
+      "summary": "San Francisco wins, take LV +10 — CMC is expected to take a full workload, but Evans (Achilles) and Deebo (hamstring) are OUT and Aiyuk remains away. They still get the W; −10 stays fat for the Raiders.",
       "final_score": null,
       "details": {
-        "scheme": "EPA (rbsdm W1\u20138 + skill-group overlay): LV Off (+0.046) vs SF Def (\u22120.040); SF Off (+0.154) vs soft LV Def (+0.064). Gap: LV struggles more if SF skill group mostly available; CMC/Evans/Deebo all Q and Aiyuk OUT \u2014 any OUTs soften SF Off edge.",
-        "injuries": "LV: QB Cousins ACTIVE / WR1 Tre Tucker ACTIVE \u00b7 SF: QB Purdy ACTIVE / WR1 Evans Q; CMC Q; Deebo Q; Aiyuk OUT",
-        "edges": "LV edges P/R/3/Pr +0.067/-0.231/+0.270/-0.210; SF +0.319/+0.145/+0.078/-0.330. Combined pass+rush gap -0.628 favors SF; biggest lane Pass.",
+        "scheme": "LV Off +0.046 vs SF Def −0.040; SF Off +0.154 vs soft LV Def +0.064. CMC expected full workload; Evans OUT, Deebo OUT, Aiyuk away. LV still struggles more if CMC is himself; the skill-group outs keep the home number fat.",
+        "injuries": "LV: QB Cousins ACTIVE / WR1 Tre Tucker ACTIVE · SF: QB Purdy ACTIVE / WR1 Evans OUT (Achilles); Deebo OUT (hamstring); CMC ACTIVE (full workload expected); Aiyuk away",
+        "edges": "LV edges P/R/3/Pr +0.067/-0.231/+0.270/-0.210; SF +0.319/+0.145/+0.078/-0.330. Combined pass+rush gap -0.628 favors SF; biggest lane Pass. Sunday overlay: CMC expected full workload; Evans and Deebo OUT.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1707,30 +1707,30 @@
             "rows": [
               [
                 "SF",
-                "Brandon Aiyuk",
-                "Out",
-                "Knee",
-                "Qualitative only"
-              ],
-              [
-                "SF",
-                "Christian McCaffrey",
-                "Questionable",
-                "Hamstring",
-                "Qualitative only"
-              ],
-              [
-                "SF",
                 "Mike Evans",
-                "Questionable",
+                "Out",
                 "Achilles",
                 "Qualitative only"
               ],
               [
                 "SF",
                 "Deebo Samuel Sr.",
-                "Questionable",
+                "Out",
                 "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "SF",
+                "Christian McCaffrey",
+                "Active",
+                "Full workload expected",
+                "Qualitative only"
+              ],
+              [
+                "SF",
+                "Brandon Aiyuk",
+                "Out",
+                "Personal / away",
                 "Qualitative only"
               ]
             ]
@@ -1752,18 +1752,18 @@
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Chicago to win and CHI -6 \u2014 Williams form just lit up an elite home D on the road. Home Chicago laying six.",
+      "summary": "Chicago to win and CHI −6 — Williams form just lit up an elite home D on the road. Egbuka is questionable but slated to return; Diaby is OUT. Home Chicago laying six.",
       "final_score": null,
       "details": {
-        "scheme": "EPA gap (rbsdm W1\u20138, 11/03): CHI into elite TB defense is a harder climb. Bears' home defense (elite third-down EPA allowed) vs a Bucs offense still searching for positive pass EPA. Chicago can two-high and dare Mayfield to string drives after Egbuka's Q tag.",
-        "injuries": "TB: QB Mayfield ACTIVE / WR1 Egbuka Q (foot); Diaby OUT \u00b7 CHI: QB Williams ACTIVE / WR1 Odunze ACTIVE",
+        "scheme": "CHI into a tougher TB defense is a harder climb; Egbuka Q (foot) but slated to return. Diaby OUT. Scheme lean CHI on home third-down defense plus Williams form.",
+        "injuries": "TB: QB Mayfield ACTIVE / WR1 Egbuka Q (foot, slated to return); Diaby OUT · CHI: QB Williams ACTIVE / WR1 Odunze ACTIVE",
         "edges": "TB edges P/R/3/Pr -0.294/+0.059/-0.611/+0.070; CHI -0.157/-0.020/-0.302/+0.070. Combined pass+rush gap -0.058 favors CHI; biggest lane Protection.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1837,21 +1837,21 @@
                 "TB",
                 "Emeka Egbuka",
                 "Questionable",
-                "Foot",
+                "Foot (slated to return)",
                 "Qualitative only"
               ],
               [
                 "TB",
                 "Yaya Diaby",
                 "Out",
-                "Knee",
+                "Knee (MCL)",
                 "Qualitative only"
               ],
               [
                 "CHI",
                 "Kyle Monangai",
                 "Questionable",
-                "Toe/thumb",
+                "Toe",
                 "Qualitative only"
               ]
             ]
@@ -1868,23 +1868,23 @@
       "away": "BUF",
       "home": "MIN",
       "kickoff": "Mon Nov 9 7:15 PM CT",
-      "spread": "BUF -3.5",
+      "spread": "BUF -3",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Buffalo to win and lay -3.5 \u2014 Murray Q; don't gift the dog the points. Bills cover the short road number now.",
+      "summary": "Buffalo to win and lay −3.5 — Murray is OUT with a hamstring and Wentz starts Monday night. Don't gift the dog the points. Bills cover the short road number now.",
       "final_score": null,
       "details": {
-        "scheme": "Allen top-shelf pass EPA into MIN D; Murray still Q (hamstring) for MNF. Scheme lean BUF; close number.",
-        "injuries": "BUF: QB Allen ACTIVE / WR1 DJ Moore Q \u00b7 MIN: QB Murray Q (hamstring) / WR1 Jefferson ACTIVE",
-        "edges": "BUF edges P/R/3/Pr -0.046/+0.062/-0.050/-0.520; MIN -0.006/-0.127/-0.277/+0.390. Combined pass+rush gap +0.149 favors BUF; biggest lane Rush.",
+        "scheme": "Murray OUT (hamstring); Wentz starts Monday. Allen's top-shelf pass EPA into MIN D remains the cleaner side; Wentz overlay widens that gap. Scheme lean BUF (stronger than Thu).",
+        "injuries": "BUF: QB Allen ACTIVE / WR1 DJ Moore ACTIVE; Palmer OUT (hamstring) · MIN: QB Murray OUT (hamstring); Wentz ACTIVE (starts) / WR1 Jefferson ACTIVE",
+        "edges": "BUF edges P/R/3/Pr -0.046/+0.062/-0.050/-0.520; MIN -0.006/-0.127/-0.277/+0.390. Combined pass+rush gap +0.149 favors BUF; biggest lane Rush. Sunday overlay: Murray OUT, Wentz starts — BUF lean stronger into the short road number.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1\u20138)",
-          "ESPN scoreboard odds + injuries API (Thu Nov 5, 2026 AM CT)",
-          "NFL.com Week 9 injury report / team IR pages",
-          "CBS Sports Week 9 odds (DraftKings, Thu Nov 5)",
-          "rbsdm.com Team Tiers EPA Weeks 1\u20138 (updated 11/03)"
+          "nflverse play_by_play_2026 (Weeks 1–8)",
+          "ESPN scoreboard odds + injuries API (Sun Nov 8, 2026 AM CT)",
+          "ESPN/NFL.com Week 9 injury report (Sunday AM CT designations)",
+          "DraftKings lines via ESPN scoreboard (Sun Nov 8 AM CT)",
+          "rbsdm.com Team Tiers EPA Weeks 1–8 (updated 11/03)"
         ],
         "tables": {
           "matchup": {
@@ -1957,15 +1957,36 @@
               [
                 "MIN",
                 "Kyler Murray",
-                "Questionable",
+                "Out",
                 "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "MIN",
+                "Carson Wentz",
+                "Active",
+                "Starts MNF",
+                "Qualitative only"
+              ],
+              [
+                "MIN",
+                "Jauan Jennings",
+                "Out",
+                "Calf",
                 "Qualitative only"
               ],
               [
                 "BUF",
                 "DJ Moore",
-                "Questionable",
-                "Knee",
+                "Active",
+                "Shoulder (no designation)",
+                "Qualitative only"
+              ],
+              [
+                "BUF",
+                "Joshua Palmer",
+                "Out",
+                "Hamstring",
                 "Qualitative only"
               ]
             ]
@@ -1979,7 +2000,7 @@
       }
     }
   ],
-  "status": "DRAFT",
+  "status": "Sunday final report: final injuries + lines (Week 9); pick/why null until Saturday lock",
   "byes": [
     "PIT",
     "TEN"
