@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "generated_at": "2026-11-08T19:33:54-06:00",
+  "generated_at": "2026-11-08T23:09:25-06:00",
   "games": [
     {
       "away": "JAX",
@@ -1746,14 +1746,14 @@
     {
       "away": "TB",
       "home": "CHI",
-      "kickoff": "Sun Nov 8 7:20 PM CT",
+      "kickoff": "Sun Nov 8 7:20 PM CT (FINAL)",
       "spread": "CHI -6",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Chicago to win and CHI −6 — Williams form just lit up an elite home D on the road. Egbuka is questionable but slated to return; Diaby is OUT. Home Chicago laying six.",
-      "final_score": null,
+      "summary": "Final: TB 24 – CHI 27. Chicago won but did not cover −6 — Williams threw four interceptions and Chicago had five giveaways, but Tampa Bay could not turn that chaos into a win, and Santos kicked a 38-yard field goal as time expired. Egbuka was questionable but slated to return; Diaby was OUT. Home Chicago got the side; laying six was too many in a three-point game.",
+      "final_score": "TB 24 - CHI 27",
       "details": {
         "scheme": "CHI into a tougher TB defense is a harder climb; Egbuka Q (foot) but slated to return. Diaby OUT. Scheme lean CHI on home third-down defense plus Williams form.",
         "injuries": "TB: QB Mayfield ACTIVE / WR1 Egbuka Q (foot, slated to return); Diaby OUT · CHI: QB Williams ACTIVE / WR1 Odunze ACTIVE",
@@ -2000,7 +2000,7 @@
       }
     }
   ],
-  "status": "Sunday afternoon slate final scores filled (Week 9); pick/why null until Saturday lock",
+  "status": "Sunday night slate final scores filled (Week 9); pick/why null until Saturday lock; MNF BUF at MIN still live",
   "byes": [
     "PIT",
     "TEN"
