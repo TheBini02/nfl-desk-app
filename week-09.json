@@ -1,6 +1,6 @@
 {
   "week": 9,
-  "generated_at": "2026-11-08T16:26:17-06:00",
+  "generated_at": "2026-11-08T19:33:54-06:00",
   "games": [
     {
       "away": "JAX",
@@ -1192,14 +1192,14 @@
     {
       "away": "HOU",
       "home": "LAC",
-      "kickoff": "Sun Nov 8 3:05 PM CT",
+      "kickoff": "Sun Nov 8 3:05 PM CT (FINAL)",
       "spread": "HOU -5.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "Houston to win and HOU −4.5 — Chargers offense has been a crater, and Derwin James is on IR. Texans lay the points on the road.",
-      "final_score": null,
+      "summary": "Final: HOU 44 – LAC 22. Houston won and covered −4.5 — Chargers offense has been a crater, and Derwin James is on IR. Texans laid the points on the road and ran away with it.",
+      "final_score": "HOU 44 - LAC 22",
       "details": {
         "scheme": "LAC offense collapses; Montgomery OUT; Derwin James on IR for LAC. Scheme lean HOU.",
         "injuries": "HOU: QB Stroud ACTIVE / WR1 Collins ACTIVE; Montgomery OUT (groin) · LAC: QB Herbert ACTIVE / WR1 McConkey ACTIVE",
@@ -1320,14 +1320,14 @@
     {
       "away": "ARI",
       "home": "SEA",
-      "kickoff": "Sun Nov 8 3:25 PM CT",
+      "kickoff": "Sun Nov 8 3:25 PM CT (FINAL)",
       "spread": "SEA -8.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": true,
-      "summary": "Arizona to win and ARI +8.5 — Lock starts in Seattle with Darnold OUT, and the Seahawks are also without left tackle Charles Cross. Last week's blowup against Chicago is fresh. Cards with the side and the points.",
-      "final_score": null,
+      "summary": "Final: ARI 3 – SEA 17. Seattle won; Arizona did not cover +8.5 — Lock started with Darnold OUT and Charles Cross was OUT, but Seattle still won by 14. The side flip and the points both missed.",
+      "final_score": "ARI 3 - SEA 17",
       "details": {
         "scheme": "ARI Off −0.007 vs SEA Def −0.077; SEA Off −0.050 (Lock starts, Darnold OUT) vs soft ARI Def +0.087. Lock confirmed and Charles Cross OUT soften SEA further; ARI Off still the harder climb into SEA D, but the home number stays fat. W8 CHI blowup reminder on SEA D as chalk.",
         "injuries": "ARI: QB Minshew ACTIVE (starts) / WR1 Michael Wilson ACTIVE · SEA: QB Darnold OUT (quad); Lock ACTIVE (starts) / WR1 Smith-Njigba ACTIVE",
@@ -1483,14 +1483,14 @@
     {
       "away": "GB",
       "home": "NE",
-      "kickoff": "Sun Nov 8 3:25 PM CT",
+      "kickoff": "Sun Nov 8 3:25 PM CT (FINAL)",
       "spread": "NE -3",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "New England to win and NE −3.5 — Parsons is OUT. Christian Watson is ACTIVE for Green Bay, but A.J. Brown is OUT for New England. Patriots at home; short home chalk.",
-      "final_score": null,
+      "summary": "Final: GB 45 – NE 27. Green Bay won; New England did not cover −3.5 — Parsons was OUT, Christian Watson was ACTIVE, and A.J. Brown was OUT for New England. The short home chalk missed on both the side and the points.",
+      "final_score": "GB 45 - NE 27",
       "details": {
         "scheme": "GB Off +0.010 vs NE Def +0.011; NE Off +0.057 vs GB Def −0.044 (no Parsons). Christian Watson ACTIVE; A.J. Brown OUT. Close; Parsons OUT still softens GB pass-rush, while Brown OUT trims NE's WR1 answers. Near pick'em structure into a short home number.",
         "injuries": "GB: QB Love ACTIVE / WR1 Christian Watson ACTIVE; Parsons OUT (knee) · NE: QB Maye ACTIVE / WR1 A.J. Brown OUT (knee/ankle)",
@@ -1618,14 +1618,14 @@
     {
       "away": "LV",
       "home": "SF",
-      "kickoff": "Sun Nov 8 3:25 PM CT",
+      "kickoff": "Sun Nov 8 3:25 PM CT (FINAL)",
       "spread": "SF -9.5",
       "pick": null,
       "why": null,
       "type": null,
       "money_flag": false,
-      "summary": "San Francisco wins, take LV +10 — CMC is expected to take a full workload, but Evans (Achilles) and Deebo (hamstring) are OUT and Aiyuk remains away. They still get the W; −10 stays fat for the Raiders.",
-      "final_score": null,
+      "summary": "Final: LV 17 – SF 38. San Francisco won; Las Vegas did not cover +10 — CMC took a full workload, but Evans and Deebo were OUT and Aiyuk remained away. The 49ers got the W; −10 was not fat enough as the Raiders lost by 21.",
+      "final_score": "LV 17 - SF 38",
       "details": {
         "scheme": "LV Off +0.046 vs SF Def −0.040; SF Off +0.154 vs soft LV Def +0.064. CMC expected full workload; Evans OUT, Deebo OUT, Aiyuk away. LV still struggles more if CMC is himself; the skill-group outs keep the home number fat.",
         "injuries": "LV: QB Cousins ACTIVE / WR1 Tre Tucker ACTIVE · SF: QB Purdy ACTIVE / WR1 Evans OUT (Achilles); Deebo OUT (hamstring); CMC ACTIVE (full workload expected); Aiyuk away",
@@ -2000,7 +2000,7 @@
       }
     }
   ],
-  "status": "Sunday early slate final scores filled (Week 9); pick/why null until Saturday lock",
+  "status": "Sunday afternoon slate final scores filled (Week 9); pick/why null until Saturday lock",
   "byes": [
     "PIT",
     "TEN"
