@@ -1,6 +1,6 @@
 {
   "week": 10,
-  "generated_at": "2026-11-15T17:02:00-06:00",
+  "generated_at": "2026-11-16T00:10:00-06:00",
   "games": [
     {
       "away": "WSH",
@@ -20,10 +20,10 @@
       },
       "details": {
         "scheme": "Final: Washington won outright as a short road dog. Daniels beat the third-down profile with three TD passes, including the 32-yard winner to Diggs, despite two fourth-quarter picks; McCarthy's hip held up and his 66-yard TD to Likely put New York up 21-17 in the fourth, but the Giants couldn't hold the lead.",
-        "injuries": "FINAL. WSH: QB Daniels played (3 TD, 2 INT) / WR1 Diggs played (32-yd game-winning TD); Burks, Yankoff, G Patrick OUT · NYG: QB McCarthy played (hip; career-high passing yards, 66-yd TD to Likely) / WR1 Nabers ACTIVE; LB Harrison inactive (groin); Skattebo, CB Hood OUT",
+        "injuries": "FINAL. WSH: QB Daniels played (3 TD, 2 INT) / WR1 Diggs played (32-yd game-winning TD); Burks, Yankoff, G Patrick OUT \u00b7 NYG: QB McCarthy played (hip; career-high passing yards, 66-yd TD to Likely) / WR1 Nabers ACTIVE; LB Harrison inactive (groin); Skattebo, CB Hood OUT",
         "edges": "Top 3 edges vs season avg: WSH 3rd down -0.328; NYG 3rd down +0.170; NYG protection -0.123. Combined pass+rush gap -0.166 favors NYG; biggest lane 3rd down. WSH P/R/3/Pr -0.059/-0.053/-0.328/+0.087; NYG +0.057/-0.003/+0.170/-0.123. Total 41.5. Final WSH 24 - NYG 21 (Thu Nov 12). Closing line NYG -1.5 (DraftKings via ESPN): WSH covered and won outright. No Saturday lock existed for this game, so nothing is graded against a desk pick.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -219,10 +219,10 @@
       },
       "details": {
         "scheme": "Shootout profile became a rout: Detroit's pass O (+0.211) into a soft NE pass D did its work early, and New England lost Maye to an ankle injury after four throws. With DeVito at QB, the Patriots' +0.149 pass O baseline no longer applies. Watch Hutchinson's knee for Detroit's second-half rush.",
-        "injuries": "LIVE (Munich, halftime DET 21-3). NE: QB Maye OUT in-game (ankle; ruled out for the rest of the game after 3/4, 48 yds) — Tommy DeVito in, Morton emergency QB3 / WR1 A.J. Brown active (Q ankle/knee on final report); RB Henderson IR (illness, placed Sat), Stevenson active; C B. Brown, CB C. Davis, S Schooler, OL Rouse, OT Crownover inactive · DET: QB Goff ACTIVE / WR1 St. Brown active (Q ribs on final report); S K. Joseph, CB Reed, C Mays inactive; DE Hutchinson Q to return (knee)",
+        "injuries": "LIVE (Munich, halftime DET 21-3). NE: QB Maye OUT in-game (ankle; ruled out for the rest of the game after 3/4, 48 yds) \u2014 Tommy DeVito in, Morton emergency QB3 / WR1 A.J. Brown active (Q ankle/knee on final report); RB Henderson IR (illness, placed Sat), Stevenson active; C B. Brown, CB C. Davis, S Schooler, OL Rouse, OT Crownover inactive \u00b7 DET: QB Goff ACTIVE / WR1 St. Brown active (Q ribs on final report); S K. Joseph, CB Reed, C Mays inactive; DE Hutchinson Q to return (knee)",
         "edges": "Top 3 edges vs season avg: DET pass +0.256; NE pass +0.218; DET protection -0.134. Combined pass+rush gap -0.114 favors DET; biggest lane Rush. NE P/R/3/Pr +0.218/-0.063/+0.025/-0.091; DET +0.256/+0.013/-0.129/-0.134. Total 51.5. Thu update: Goff Q (chest), St. Brown Q (ribs), A.J. Brown upgraded OUT to Q; Stevenson doubtful. No $ flag. Sun update (10 AM CT): in progress, DET 21 - NE 3 at halftime. Maye OUT for the game (ankle; targeting Nov 29 return after NE's Week 11 bye), DeVito in. Hutchinson Q to return (knee). No $ flag.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -394,7 +394,7 @@
                 "Jared Goff (QB)",
                 "Active (no designation)",
                 "Chest",
-                "No QB2 sample — qualitative"
+                "No QB2 sample \u2014 qualitative"
               ],
               [
                 "DET",
@@ -468,10 +468,10 @@
       },
       "details": {
         "scheme": "KC owns third down (+0.170 O vs ATL's average 3rd-down D) and the pocket (3.8% sacks allowed). Mahomes is cleared and practiced fully all week. Atlanta's offense is underwater (-0.073/play; Penix -0.108/db Weeks 7-9, five INTs in two games) and plays without LB Deablo and WR Branch. KC is missing RB Walker and OT Jaylon Moore.",
-        "injuries": "KC: QB Mahomes ACTIVE — no injury designation, full practice Wed-Fri (muscle strain + 'very small' UCL sprain per Schefter; cleared by three doctors) / WR1 Rice ACTIVE; WR Josh Downs set to debut; RB K. Walker OUT (groin), OT Jaylon Moore OUT (ankle), DT P. Woods OUT, DT Norman-Lott OUT; CB Delane Q, RB Ott Q · ATL: QB Penix ACTIVE / WR1 London ACTIVE; WR Branch OUT (hamstring), LB Deablo OUT (forearm); LB Pearce Jr., DT Dexter, LB Woods Q",
+        "injuries": "KC: QB Mahomes ACTIVE \u2014 no injury designation, full practice Wed-Fri (muscle strain + 'very small' UCL sprain per Schefter; cleared by three doctors) / WR1 Rice ACTIVE; WR Josh Downs set to debut; RB K. Walker OUT (groin), OT Jaylon Moore OUT (ankle), DT P. Woods OUT, DT Norman-Lott OUT; CB Delane Q, RB Ott Q \u00b7 ATL: QB Penix ACTIVE / WR1 London ACTIVE; WR Branch OUT (hamstring), LB Deablo OUT (forearm); LB Pearce Jr., DT Dexter, LB Woods Q",
         "edges": "Top 3 edges vs season avg: KC protection +0.316; ATL protection +0.257; KC 3rd down +0.247. Combined pass+rush gap +0.532 favors KC; biggest lane 3rd down. KC P/R/3/Pr +0.104/+0.198/+0.247/+0.316; ATL -0.239/+0.009/-0.111/+0.257. Total 45.5. $: KC -3.5 is a Mahomes-injury discount. Free data has KC +0.532 combined (third-biggest gap) with 3rd-down and protection edges, and ESPN FPI has KC by 7.3. ATL also just traded S Bates. Conditional: only a $ if Mahomes practices fully by Fri; if Fields starts, drop the flag. Thu update: line KC -3 (was -3.5); Mahomes full Wed. $ flag stays: KC -3 still under FPI KC by 7.3 if Mahomes keeps practicing fully; drop it only if he is limited Fri. Sun update: line KC -3 (DraftKings via ESPN), unchanged since Thu. ESPN FPI matchup predictor KC 78.3%. Mahomes no designation. $ flag KEPT: free EPA combined gap +0.532 (third-biggest) plus FPI both say more than a field goal; the Thursday condition (drop if limited Fri) was met in KC's favor.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -558,7 +558,7 @@
                 "Patrick Mahomes (QB)",
                 "Active (no designation)",
                 "Elbow/knee (full Wed)",
-                "Fields no 2026 sample vs Mahomes +0.157 (n=290) — qualitative, large drop"
+                "Fields no 2026 sample vs Mahomes +0.157 (n=290) \u2014 qualitative, large drop"
               ],
               [
                 "KC",
@@ -674,10 +674,10 @@
       },
       "details": {
         "scheme": "The thesis was CLE's league-worst protection (10.8% sacks allowed) vs HOU's 9.2% rush. That rush now plays without Danielle Hunter, with Will Anderson Q on an ankle, and without Al-Shaair behind them. Houston's offense loses Harrison Jr. and Montgomery, and three Texans linemen are questionable with illness. Stroud (+0.286/db Weeks 7-9) is still the best player on the field.",
-        "injuries": "HOU: QB Stroud ACTIVE / WR1 Collins ACTIVE; WR Marvin Harrison Jr. OUT (hamstring), RB Montgomery OUT (downgraded Sat, groin), TE B. Jordan OUT, G Rutledge OUT, DE Danielle Hunter OUT (hamstring), LB Al-Shaair OUT, CB Jaylin Smith OUT; DE Will Anderson Jr. Q (ankle; 'should be OK' per Fowler); OT Trent Brown, OT Braden Smith, G Teller Q (illness) · CLE: QB Watson starts / WR1 Boston Q (toe; expected to play per Fowler); S Hickman OUT (concussion), FB Burton OUT",
+        "injuries": "HOU: QB Stroud ACTIVE / WR1 Collins ACTIVE; WR Marvin Harrison Jr. OUT (hamstring), RB Montgomery OUT (downgraded Sat, groin), TE B. Jordan OUT, G Rutledge OUT, DE Danielle Hunter OUT (hamstring), LB Al-Shaair OUT, CB Jaylin Smith OUT; DE Will Anderson Jr. Q (ankle; 'should be OK' per Fowler); OT Trent Brown, OT Braden Smith, G Teller Q (illness) \u00b7 CLE: QB Watson starts / WR1 Boston Q (toe; expected to play per Fowler); S Hickman OUT (concussion), FB Burton OUT",
         "edges": "Top 3 edges vs season avg: CLE protection -0.725; CLE rush -0.133; HOU pass +0.062. Combined pass+rush gap +0.247 favors HOU; biggest lane Protection. HOU P/R/3/Pr +0.062/+0.002/+0.048/-0.016; CLE -0.050/-0.133/+0.015/-0.725. Total 39.5. $: The slate's widest single lane: CLE allows sacks on 10.8% (worst) vs HOU's 9.2% rush (2nd). HOU +0.247 combined, Stroud +0.286/db Weeks 7-9, FPI HOU by 7.3. Laying 4.5 is under both signals. Risk: low total (39.5) keeps margins tight. Thu update: Watson confirmed starter; Montgomery OUT to Q; Boston Q (toe). $ flag stays: HOU -4.5 unchanged vs market. Sun update: line HOU -4.5, unchanged. ESPN FPI HOU 76.6%. $ flag DROPPED: the edge was the HOU pass rush vs CLE's protection, and Hunter is OUT with Anderson Q (ankle); add Harrison Jr. and Montgomery OUT and three HOU OL Q with illness. The market didn't move, but the lane that justified it shrank. Lean HOU straight-up only.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -907,10 +907,10 @@
       },
       "details": {
         "scheme": "Two good defenses (MIN -0.149, GB -0.076 EPA/play). Cousins' first start in a new offense, with Jennings and Hockenson out and Addison a game-time call, leaves Jefferson as nearly the whole passing game. Green Bay's Love (+0.324/db Weeks 7-9) faces the league's best pass D (-0.179) without Jacobs and Parsons, and with the secondary banged up.",
-        "injuries": "MIN: QB Kirk Cousins starts (first MIN start since 2023; Murray OUT hamstring, Wentz QB2) / WR1 Jefferson ACTIVE; WR Addison Q (thumb; game-time decision per Rapoport); WR Jennings OUT, TE Hockenson OUT, LB Cashman OUT, DE Ingram-Dawkins OUT; S Metellus, LB Van Noy Q · GB: QB Love ACTIVE / WR1 Watson ACTIVE; RB Jacobs OUT (finger surgery), EDGE Parsons OUT, G Rhyan OUT, TE Whyle OUT; LB Franklin DOUBTFUL; S McKinney, S Bullard, G Zeitler, EDGE Van Ness Q; RB Brooks and WR Skyy Moore activated from IR (Q)",
+        "injuries": "MIN: QB Kirk Cousins starts (first MIN start since 2023; Murray OUT hamstring, Wentz QB2) / WR1 Jefferson ACTIVE; WR Addison Q (thumb; game-time decision per Rapoport); WR Jennings OUT, TE Hockenson OUT, LB Cashman OUT, DE Ingram-Dawkins OUT; S Metellus, LB Van Noy Q \u00b7 GB: QB Love ACTIVE / WR1 Watson ACTIVE; RB Jacobs OUT (finger surgery), EDGE Parsons OUT, G Rhyan OUT, TE Whyle OUT; LB Franklin DOUBTFUL; S McKinney, S Bullard, G Zeitler, EDGE Van Ness Q; RB Brooks and WR Skyy Moore activated from IR (Q)",
         "edges": "Top 3 edges vs season avg: MIN protection -0.288; MIN pass -0.281; GB protection -0.266. Combined pass+rush gap -0.159 favors GB; biggest lane Pass. MIN P/R/3/Pr -0.281/-0.149/-0.036/-0.288; GB -0.090/-0.181/-0.191/-0.266. Total 42.5. Thu update: Cousins acquired; line GB -3 (was -4.5). Cousins' sample is not in the MIN EPA above. No $ flag. Sun update: line GB -2.5 (was -3 Thu, -4.5 Tue). ESPN FPI GB 55.2%. No $ flag: the market has priced Cousins and GB's injury list.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -1191,10 +1191,10 @@
       },
       "details": {
         "scheme": "Biggest structural gap of the week: JAX pass O (+0.269, #2) into TEN's soft pass D (+0.171), and TEN's pass O (-0.096) loses WR1 Tate. Jacksonville's new defenders Bates and Jordan Davis won't play, so the defense is the one that's in the season EPA, which was already good (-0.101 pass). Tennessee is also without two starting LBs and LG Skoronski.",
-        "injuries": "JAX: QB Lawrence ACTIVE / WR1 Parker Washington ACTIVE; S Jessie Bates and DT Jordan Davis will NOT play (coach's decision, per Coen — deadline adds); Meyers, Walker, Tuten off final report · TEN: QB Ward ACTIVE / WR1 Carnell Tate OUT (shoulder); G Skoronski OUT, LB Barton OUT, LB Hill Jr. OUT, P Townsend OUT; RB Spears Q (expected to play per Fowler)",
+        "injuries": "JAX: QB Lawrence ACTIVE / WR1 Parker Washington ACTIVE; S Jessie Bates and DT Jordan Davis will NOT play (coach's decision, per Coen \u2014 deadline adds); Meyers, Walker, Tuten off final report \u00b7 TEN: QB Ward ACTIVE / WR1 Carnell Tate OUT (shoulder); G Skoronski OUT, LB Barton OUT, LB Hill Jr. OUT, P Townsend OUT; RB Spears Q (expected to play per Fowler)",
         "edges": "Top 3 edges vs season avg: JAX pass +0.345; JAX 3rd down +0.345; TEN pass -0.292. Combined pass+rush gap +0.820 favors JAX; biggest lane Pass. JAX P/R/3/Pr +0.345/+0.100/+0.345/+0.097; TEN -0.292/-0.083/-0.152/+0.261. Total 46.5. Thu update: Tate and Spears upgraded OUT to Q; Meyers Q. Line unchanged JAX -10.5. No $ flag. Sun update: line JAX -10.5 (unchanged). ESPN FPI JAX 84.0%. Bates and J. Davis held out; Tate, Skoronski, Barton and Hill OUT for TEN. No $ flag: the number already prices the gap.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -1369,10 +1369,10 @@
       },
       "details": {
         "scheme": "Dead-even profile before the QB change (combined gap -0.002). Miami debuts McCord behind a pocket that allows 9.3% sacks, now without C Brewer; its pass D is the league's worst (+0.264), but Indy's pass O is bottom-2 (-0.216). Indianapolis' run game (+0.009) is the cleaner lane, though it plays without RT Travis.",
-        "injuries": "MIA: QB Kyle McCord starts (NFL debut; Willis IR) — Brady Cook elevated as QB2 / WR1 Malik Washington ACTIVE; WR Wayne OUT, WR Bell DOUBTFUL, C Brewer OUT (concussion), CB Baker Jr. OUT (not activated from PUP) · IND: QB Jones ACTIVE / WR1 Downs ACTIVE; TE Mallory OUT (downgraded Sat), OT Jalen Travis OUT, DT Tillery OUT, LB Carlies OUT, LS Rhodes OUT; Pierce IR",
+        "injuries": "MIA: QB Kyle McCord starts (NFL debut; Willis IR) \u2014 Brady Cook elevated as QB2 / WR1 Malik Washington ACTIVE; WR Wayne OUT, WR Bell DOUBTFUL, C Brewer OUT (concussion), CB Baker Jr. OUT (not activated from PUP) \u00b7 IND: QB Jones ACTIVE / WR1 Downs ACTIVE; TE Mallory OUT (downgraded Sat), OT Jalen Travis OUT, DT Tillery OUT, LB Carlies OUT, LS Rhodes OUT; Pierce IR",
         "edges": "Top 3 edges vs season avg: MIA protection -0.298; IND 3rd down +0.206; MIA 3rd down +0.150. Combined pass+rush gap -0.002 favors IND; biggest lane Protection. MIA P/R/3/Pr -0.001/+0.066/+0.150/-0.298; IND -0.047/+0.114/+0.206/+0.056. Total 40.5. Thu update: McCord replaces Willis; line IND -3.5 (was -2.5). Market moved ~1 point; no $ flag. Sun update: line IND -4.5 (was -3.5 Thu, -2.5 Tue). ESPN FPI IND 82.0%. Market moved 2 points with the McCord news; no $ flag. FPI and EPA disagree on size, so no edge vs the number.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -1459,7 +1459,7 @@
                 "Malik Willis (QB)",
                 "Out (IR)",
                 "Abdomen",
-                "McCord no NFL sample vs Willis -0.038 (n=256) — qualitative, large drop"
+                "McCord no NFL sample vs Willis -0.038 (n=256) \u2014 qualitative, large drop"
               ],
               [
                 "MIA",
@@ -1603,10 +1603,10 @@
       },
       "details": {
         "scheme": "New Orleans' biggest lane was protection (+0.301) against Carolina's league-weakest rush (3.9% sacks). It now plays without C McCoy and RT Fuaga, which narrows it. Carolina's defense is still thin (Okereke, Mike Jackson out) but gets Phillips back. Shough +0.109/db Weeks 7-9 vs Young -0.164; season EPA leaned CAR (+0.196).",
-        "injuries": "CAR: QB Young ACTIVE / WR1 McMillan ACTIVE; WR Legette activated from IR (Q); LB Phillips Q (expected to play per Rapoport); LB Okereke OUT, CB Mike Jackson OUT, OL Christensen OUT, RB J. Brooks OUT; CB Will Lee Q · NO: QB Shough ACTIVE / WR1 Olave ACTIVE; C McCoy OUT (biceps), RT Fuaga OUT (knee), RB Donaldson OUT, DL C. Miller OUT; RB Etienne activated from IR (Q); CB Emerson Q",
+        "injuries": "CAR: QB Young ACTIVE / WR1 McMillan ACTIVE; WR Legette activated from IR (Q); LB Phillips Q (expected to play per Rapoport); LB Okereke OUT, CB Mike Jackson OUT, OL Christensen OUT, RB J. Brooks OUT; CB Will Lee Q \u00b7 NO: QB Shough ACTIVE / WR1 Olave ACTIVE; C McCoy OUT (biceps), RT Fuaga OUT (knee), RB Donaldson OUT, DL C. Miller OUT; RB Etienne activated from IR (Q); CB Emerson Q",
         "edges": "Top 3 edges vs season avg: NO protection +0.301; CAR protection -0.228; CAR rush +0.104. Combined pass+rush gap +0.196 favors CAR; biggest lane Rush. CAR P/R/3/Pr +0.085/+0.104/-0.019/-0.228; NO -0.007/-0.000/+0.049/+0.301. Total 48.5. Thu update: line NO -2.5 (was -1.5); McCoy now doubtful, Kamara Q. No $ flag. Sun update: line NO -1.5 (back from -2.5 Thu). ESPN FPI 50.0/49.6. NO loses two OL starters (McCoy, Fuaga). No $ flag.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -1801,10 +1801,10 @@
       },
       "details": {
         "scheme": "BUF pass O (+0.253) into a Jets pass D that bleeds (+0.161), plus a third-down lane (+0.194 O vs NYJ +0.044 D). The Jets' 3rd-down O (-0.121) into BUF's elite 3rd-down D (-0.238) is the flip side. Buffalo's tackle scare mostly cleared (Dawkins, Anderson off the report); RT Spencer Brown is doubtful. Garrett Wilson's return helps NYJ.",
-        "injuries": "BUF: QB Josh Allen ACTIVE / WR1 DJ Moore ACTIVE; RT Spencer Brown DOUBTFUL (ankle); CB Benford Q (wrist), CB Hancock activated (Q), S Franklin Q; Shavers not activated (OUT); Dawkins, Anderson, McGovern, Kincaid off final report · NYJ: QB Geno Smith ACTIVE / WR1 Garrett Wilson Q (concussion) — cleared protocol, expected to play (Rapoport); Cooper Jr. and A. Mitchell expected to play; LB Wallace OUT; DT Phillips, DE Ossai, CBs Wright/Brownlee Q",
+        "injuries": "BUF: QB Josh Allen ACTIVE / WR1 DJ Moore ACTIVE; RT Spencer Brown DOUBTFUL (ankle); CB Benford Q (wrist), CB Hancock activated (Q), S Franklin Q; Shavers not activated (OUT); Dawkins, Anderson, McGovern, Kincaid off final report \u00b7 NYJ: QB Geno Smith ACTIVE / WR1 Garrett Wilson Q (concussion) \u2014 cleared protocol, expected to play (Rapoport); Cooper Jr. and A. Mitchell expected to play; LB Wallace OUT; DT Phillips, DE Ossai, CBs Wright/Brownlee Q",
         "edges": "Top 3 edges vs season avg: BUF pass +0.318; BUF 3rd down +0.315; NYJ 3rd down -0.283. Combined pass+rush gap +0.405 favors BUF; biggest lane 3rd down. BUF P/R/3/Pr +0.318/+0.056/+0.315/-0.044; NYJ +0.035/-0.066/-0.283/-0.138. Total 50.5. Thu update: Wilson OUT to Q; Buffalo has five OL/TE/CB Qs (Dawkins, S. Brown, Anderson, McGovern, Kincaid). Line unchanged BUF -8.5. No $ flag. Sun update: line BUF -8.5 (unchanged). ESPN FPI BUF 82.6%. Wilson cleared; BUF OL mostly healthy except S. Brown. No $ flag.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -2033,7 +2033,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Seattle should win, but it isn't a team to lay a touchdown with. The Seahawks' defense is the best unit in the game, especially on third down, and it gets Fernando Mendoza in his first NFL start behind a Raiders run game that hasn't worked all season. That's the whole case for Seattle, and it's a good one. The problem is the other side of the ball. Drew Lock is cleared to start, and he's been sharp in a small sample, but left tackle Charles Cross and guard Quenton Nelson are both out, so he's playing behind a makeshift line. Leonard Williams is out on defense too. Las Vegas' pass defense is soft enough for Lock and Smith-Njigba to find plays, but sacks and stalled drives behind backup linemen are how a 6.5-point favorite wins by four. Seahawks straight-up; Raiders +6.5 is the slightly better side of the number.",
-      "final_score": null,
+      "final_score": "SEA 21 - LV 13",
       "picker": {
         "winner": "SEA",
         "ats": "SEA -6.5",
@@ -2041,10 +2041,10 @@
       },
       "details": {
         "scheme": "Seattle's defense (-0.096/play, elite on 3rd at -0.373) vs rookie Mendoza's first start behind a Raiders run game that doesn't work (-0.215). Lock is cleared to start, but Seattle plays without LT Cross and G Nelson, so LV's pass rush finally has a lane. LV's pass D is soft (+0.185).",
-        "injuries": "SEA: QB Darnold OUT (quad/ribs; back Week 12) — Drew Lock starts, no designation (elbow/oblique cleared) / WR1 Smith-Njigba ACTIVE; LT Charles Cross OUT, G Quenton Nelson OUT, DT Leonard Williams OUT; Shaheed no designation (full practice) · LV: QB Fernando Mendoza starts (rookie, first NFL start; O'Connell QB2) / WR1 Tucker ACTIVE; WR Thornton Q (back), DT Booker Q",
+        "injuries": "SEA: QB Darnold OUT (quad/ribs; back Week 12) \u2014 Drew Lock starts, no designation (elbow/oblique cleared) / WR1 Smith-Njigba ACTIVE; LT Charles Cross OUT, G Quenton Nelson OUT, DT Leonard Williams OUT; Shaheed no designation (full practice) \u00b7 LV: QB Fernando Mendoza starts (rookie, first NFL start; O'Connell QB2) / WR1 Tucker ACTIVE; WR Thornton Q (back), DT Booker Q",
         "edges": "Top 3 edges vs season avg: LV protection +0.296; SEA pass +0.205; LV rush -0.162. Combined pass+rush gap +0.377 favors SEA; biggest lane Pass. SEA P/R/3/Pr +0.205/-0.066/+0.128/+0.076; LV -0.076/-0.162/-0.001/+0.296. Total 43.5. Thu update: Mendoza replaces Cousins; line SEA -6.5 (was -3.5). Market moved 3 points; no $ flag. Sun update: line SEA -6.5 (unchanged since Thu). ESPN FPI SEA 74.2%. Cross, Nelson and L. Williams all OUT (were doubtful/Q). No $ flag.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -2137,7 +2137,7 @@
                 "Drew Lock (QB)",
                 "Active (no designation)",
                 "Elbow/oblique",
-                "If Lock cannot go: no healthy QB2 sample — qualitative"
+                "If Lock cannot go: no healthy QB2 sample \u2014 qualitative"
               ],
               [
                 "SEA",
@@ -2186,7 +2186,7 @@
                 "Fernando Mendoza (QB)",
                 "Active (no designation)",
                 "n/a",
-                "No NFL sample (8 dropbacks) vs Cousins; Seattle has the #1 pass D — qualitative"
+                "No NFL sample (8 dropbacks) vs Cousins; Seattle has the #1 pass D \u2014 qualitative"
               ],
               [
                 "LV",
@@ -2210,7 +2210,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "The Rams should win this, and the third-down mismatch is as lopsided as anything on the slate. Arizona's offense can't stay on the field on third down, the Rams' defense is the best in the league in that spot, and now it's rookie Carson Beck's first NFL start. He also has two interior line starters out and a receiver room so thin that Trey McBride is effectively the whole passing game. Myles Garrett is expected to play, which makes Beck's afternoon even harder. The reason not to lay the full 9.5 is that the Rams are short-handed too: Puka Nacua and Davante Adams are both on IR, and left guard Steve Avila is out, so Stafford doesn't have the weapons to run up a big score. With the total at 38.5, a 17-6 kind of game is the likeliest outcome. Rams straight-up, and we'd lean Arizona to cover the big number.",
-      "final_score": null,
+      "final_score": "LAR 34 - ARI 6",
       "picker": {
         "winner": "LAR",
         "ats": "LAR -9.5",
@@ -2218,10 +2218,10 @@
       },
       "details": {
         "scheme": "Third down is the canyon: ARI's offense (-0.245 on 3rd) into the Rams' #1 3rd-down D (-0.438). Rookie Beck's first start comes with two interior OL starters out (Froholdt, Gaines) and a gutted receiver room, so McBride is the passing game. The Rams' offense is thin too: no Nacua, Adams or Whittington, and LG Avila out.",
-        "injuries": "LAR: QB Stafford ACTIVE / WR1 Puka Nacua IR (knee); Davante Adams IR, Whittington IR; G Avila OUT; CB McDuffie Q (back), S Curl Q (optimistic), DE Myles Garrett Q (expected to play), TE Allen Q · ARI: QB Carson Beck starts (rookie, first NFL start; Minshew IR, UCL surgery) / WR1 Michael Wilson IR (neck); C Froholdt OUT (concussion), G Gaines OUT (ankle); OT J. Williams Q, TE Hunter Long activated (Q); S Wingard, CB Melton, DE D. Robinson Q",
+        "injuries": "LAR: QB Stafford ACTIVE / WR1 Puka Nacua IR (knee); Davante Adams IR, Whittington IR; G Avila OUT; CB McDuffie Q (back), S Curl Q (optimistic), DE Myles Garrett Q (expected to play), TE Allen Q \u00b7 ARI: QB Carson Beck starts (rookie, first NFL start; Minshew IR, UCL surgery) / WR1 Michael Wilson IR (neck); C Froholdt OUT (concussion), G Gaines OUT (ankle); OT J. Williams Q, TE Hunter Long activated (Q); S Wingard, CB Melton, DE D. Robinson Q",
         "edges": "Top 3 edges vs season avg: ARI 3rd down -0.606; LAR protection +0.269; ARI pass -0.250. Combined pass+rush gap +0.572 favors LAR; biggest lane 3rd down. LAR P/R/3/Pr +0.210/+0.043/+0.180/+0.269; ARI -0.250/-0.069/-0.606/+0.196. Total 40.5. Thu update: Nacua now OUT; Beck confirmed starter; Minshew to IR. Line unchanged LAR -9.5. No $ flag. Sun update: line LAR -9.5 (unchanged). ESPN FPI LAR 87.2%. ARI interior OL now two starters short. Total 38.5 caps margins. No $ flag.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -2465,7 +2465,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "San Francisco is still the better team, but the reason to like the 49ers at a discount is gone. Thursday's case at 3.5 depended on Mike Evans playing, and he's been ruled out with his Achilles injury, while the line has gone back up to 4.5. Without Evans, the 49ers' passing game is still above average, and Brock Purdy gets a Dallas defense that's been one of the league's leakiest against the pass and is short at safety, with P.J. Locke out and Juanyeh Thomas doubtful. Trent Williams is expected to play through his shoulder, which matters a lot against this front. Dallas, though, can trade punches: Prescott and Lamb are healthy, the Cowboys' corners Joey Porter Jr. and DaRon Bland are expected to suit up, and the total is 55.5 for a reason. 49ers straight-up. At 4.5 in a shootout, Dallas plus the points is the slightly better side, but there's no edge either way.",
-      "final_score": null,
+      "final_score": "SF 46 - DAL 40",
       "picker": {
         "winner": "SF",
         "ats": "DAL +4.5",
@@ -2473,10 +2473,10 @@
       },
       "details": {
         "scheme": "SF pass O (+0.306, #1) into a DAL pass D allowing +0.170 (fifth-worst). Evans (1.023 EPA/target) is OUT; SF's dropback EPA without his targets is +0.177, still above average. Dallas' corners Porter Jr. and Bland are expected to play, but the safety room is thin (Locke out, Thomas doubtful). Highest total on the slate (55.5).",
-        "injuries": "SF: QB Purdy ACTIVE / WR1 Mike Evans OUT (Achilles; ruled out Fri); Aiyuk OUT (roster exemption); Deebo no designation (hamstring cleared); LT Trent Williams Q (shoulder; expected to play per Schefter); CBs Lenoir, R. Green Q; LB Greenlaw Q · DAL: QB Prescott ACTIVE / WR1 Lamb ACTIVE; WR Mingo OUT, TE Ferguson OUT, S Locke OUT, LB Ezeiruaku OUT, S J. Thomas DOUBTFUL; CBs Porter Jr. and Bland Q but expected to play (Rapoport); Pickens no designation (hamstring cleared)",
+        "injuries": "SF: QB Purdy ACTIVE / WR1 Mike Evans OUT (Achilles; ruled out Fri); Aiyuk OUT (roster exemption); Deebo no designation (hamstring cleared); LT Trent Williams Q (shoulder; expected to play per Schefter); CBs Lenoir, R. Green Q; LB Greenlaw Q \u00b7 DAL: QB Prescott ACTIVE / WR1 Lamb ACTIVE; WR Mingo OUT, TE Ferguson OUT, S Locke OUT, LB Ezeiruaku OUT, S J. Thomas DOUBTFUL; CBs Porter Jr. and Bland Q but expected to play (Rapoport); Pickens no designation (hamstring cleared)",
         "edges": "Top 3 edges vs season avg: SF 3rd down +0.467; SF protection +0.456; DAL protection +0.398. Combined pass+rush gap +0.513 favors SF; biggest lane Pass. SF P/R/3/Pr +0.382/+0.164/+0.467/+0.456; DAL +0.052/-0.019/+0.236/+0.398. Total 55.5. $: SF -3.5 is cheaper than Tuesday's -4.5 even though Evans and Deebo moved OUT to Q. Free data has SF +0.513 combined (3rd down +0.467, protection +0.456, top-4 gap). Conditional: only a $ if Evans is active by Fri/Sat; drop if he is ruled out. Risk: Dallas' own Q's (Pickens, Turpin) also trending up; 55.5 total. Sun update: line SF -4.5 (was -3.5 Thu). ESPN FPI SF 63.8%. $ flag DROPPED: it was conditional on Evans being active, and he's OUT; the market also moved back a point to -4.5.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -2733,7 +2733,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Cincinnati should win at home behind the hottest quarterback in football. Joe Burrow has four straight games with at least four touchdowns, and the Bengals' third-down offense is the best in the league, which is how you beat a solid Pittsburgh defense: sustain drives and finish them. The Steelers' path is the run game. Jaylen Warren and Rico Dowdle face a Bengals run defense that can be pushed around, and Cincinnati's own third-down defense has been a liability, so Pittsburgh can shorten the game and keep Burrow on the sideline. Aaron Rodgers' passing hasn't been good enough to win a shootout, though, and Pat Freiermuth is questionable with an illness. Kyle Dugger's absence thins Cincinnati's secondary, but not enough to flip it. Bengals straight-up. At 3.5 the number is about right; we'd lean Cincinnati to cover, without a strong edge.",
-      "final_score": null,
+      "final_score": "PIT 18 - CIN 38",
       "picker": {
         "winner": "CIN",
         "ats": "CIN -3.5",
@@ -2741,10 +2741,10 @@
       },
       "details": {
         "scheme": "Even on paper (combined gap +0.024 PIT). Pittsburgh's lane is the run game (+0.119) against CIN's run D; Rodgers' passing (-0.101/db) is its drag. Cincinnati's 3rd-down O (+0.331, #1) and red-hot Burrow (+0.458/db Weeks 7-9) are the best unit in the game, but CIN's 3rd-down D (+0.253) and a safety room without Dugger are liabilities.",
-        "injuries": "PIT: QB Rodgers ACTIVE / WR1 Metcalf ACTIVE; TE Freiermuth Q (illness, added Sat); DT Harmon activated from IR (Q); Pittman IR; WR Skowronek and CBs Slaughter/Echols full practice, no designation · CIN: QB Burrow ACTIVE / WR1 Chase ACTIVE; Higgins ACTIVE; WR Iosivas OUT, S Dugger OUT (quad)",
+        "injuries": "PIT: QB Rodgers ACTIVE / WR1 Metcalf ACTIVE; TE Freiermuth Q (illness, added Sat); DT Harmon activated from IR (Q); Pittman IR; WR Skowronek and CBs Slaughter/Echols full practice, no designation \u00b7 CIN: QB Burrow ACTIVE / WR1 Chase ACTIVE; Higgins ACTIVE; WR Iosivas OUT, S Dugger OUT (quad)",
         "edges": "Top 3 edges vs season avg: PIT rush +0.246; CIN 3rd down +0.232; PIT protection -0.183. Combined pass+rush gap +0.024 favors PIT; biggest lane Rush. PIT P/R/3/Pr -0.176/+0.246/+0.162/-0.183; CIN +0.137/-0.091/+0.232/-0.008. Total 48.5. Sun update: line CIN -3.5 (unchanged). ESPN FPI CIN 70.5%. Freiermuth illness Q; Dugger OUT. No $ flag.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -2925,10 +2925,10 @@
       },
       "details": {
         "scheme": "LAC's offense is the league's worst (-0.245/play) with 10.5% sacks allowed, and Herbert plays through a finger injury without a starting guard (Taylor). Baltimore debuts Brissett behind Henry. BAL's D is middling (+0.017) and loses S Hawkins; protection is the widest lane. The total has fallen from 48.5 to 38.5.",
-        "injuries": "Monday night (final report Sat). LAC: QB Herbert ACTIVE (finger; no designation) / WR1 McConkey Q (back); WR B. Thompson DOUBTFUL; G Branson Taylor OUT, CB Waxter OUT, S Williamson OUT; G Awosika, DT Eboigbe Q; Njoku IR · BAL: QB Jacoby Brissett starts (first BAL start; Lamar IR thumb, 6-10 weeks) / WR1 Flowers ACTIVE; S Jaylinn Hawkins OUT (knee); Wiggins and Hamilton off final report",
-        "edges": "Top 3 edges vs season avg: LAC protection -0.289; LAC pass -0.262; BAL 3rd down -0.167. Combined pass+rush gap -0.414 favors BAL; biggest lane Protection. LAC P/R/3/Pr -0.262/-0.152/-0.023/-0.289; BAL -0.029/+0.029/-0.167/-0.028. Total 38.5. Thu update: line BAL -4.5 (was -5.5); Herbert expected to play; Wiggins/Hawkins OUT to Q. No $ flag. Sun update: line BAL -4.5 (unchanged). ESPN FPI LAC 54.8% — disagrees with the market, but free EPA (-0.414 combined gap favoring BAL) agrees with it, so no $ flag. Re-check Monday for McConkey.",
+        "injuries": "Monday night (final report Sat). LAC: QB Herbert ACTIVE (finger; no designation) / WR1 McConkey Q (back); WR B. Thompson DOUBTFUL; G Branson Taylor OUT, CB Waxter OUT, S Williamson OUT; G Awosika, DT Eboigbe Q; Njoku IR \u00b7 BAL: QB Jacoby Brissett starts (first BAL start; Lamar IR thumb, 6-10 weeks) / WR1 Flowers ACTIVE; S Jaylinn Hawkins OUT (knee); Wiggins and Hamilton off final report",
+        "edges": "Top 3 edges vs season avg: LAC protection -0.289; LAC pass -0.262; BAL 3rd down -0.167. Combined pass+rush gap -0.414 favors BAL; biggest lane Protection. LAC P/R/3/Pr -0.262/-0.152/-0.023/-0.289; BAL -0.029/+0.029/-0.167/-0.028. Total 38.5. Thu update: line BAL -4.5 (was -5.5); Herbert expected to play; Wiggins/Hawkins OUT to Q. No $ flag. Sun update: line BAL -4.5 (unchanged). ESPN FPI LAC 54.8% \u2014 disagrees with the market, but free EPA (-0.414 combined gap favoring BAL) agrees with it, so no $ flag. Re-check Monday for McConkey.",
         "sources": [
-          "nflverse play_by_play_2026 (Weeks 1–9, through MNF Nov 9)",
+          "nflverse play_by_play_2026 (Weeks 1\u20139, through MNF Nov 9)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 10, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 10 AM CT)",
           "ESPN Week 10 odds/FPI article (Nov 10)",
@@ -3014,7 +3014,7 @@
                 "Justin Herbert (QB)",
                 "Active (no designation)",
                 "Finger",
-                "Uiagalelei 7 db only vs Herbert -0.252 (n=288) — qualitative"
+                "Uiagalelei 7 db only vs Herbert -0.252 (n=288) \u2014 qualitative"
               ],
               [
                 "LAC",
@@ -3127,7 +3127,7 @@
       }
     }
   ],
-  "status": "Week 10 Saturday lock: 13 BASE, 0 UPSET. TNF WSH at NYG ungraded (no card). Early window (8 games) provisional vs lock: 5-3 SU, 5-3 ATS. Afternoon SEA/LAR/SF in progress; SNF PIT at CIN and MNF LAC at BAL still ahead. $: KC -3 only.",
+  "status": "Week 10 Saturday lock: 13 BASE, 0 UPSET. TNF WSH at NYG ungraded (no card). Early window provisional vs lock: 5-3 SU, 5-3 ATS. Afternoon window provisional: 3-0 SU, 2-1 ATS. SNF PIT at CIN final: CIN 38-18, provisional 1-0 SU / 1-0 ATS (CIN -3.5). Through SNF including TNF ungraded: 9-3 SU, 8-4 ATS. MNF LAC at BAL still ahead. $: KC -3 only.",
   "byes": [
     "CHI",
     "DEN",
