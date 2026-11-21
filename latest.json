@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "generated_at": "2026-11-17T09:11:59-06:00",
+  "generated_at": "2026-11-19T09:30:00-06:00",
   "games": [
     {
       "away": "IND",
@@ -11,7 +11,7 @@
       "why": null,
       "type": "BASE",
       "money_flag": false,
-      "summary": "Thursday's opener is a protection story. Houston gets home after the pass rush to the tune of a sack on more than 9% of dropbacks, and Indianapolis may be starting backups at both tackle spots on a short week. That's a bad mix for Daniel Jones, who has been the least efficient passer in football over the last three weeks and just watched the front office trade away Josh Downs and Keenan Allen. Stroud has been rolling, and Nico Collins is the best player in either receiver room. The one thing that keeps this from being a walkover on paper is the number: the market has run Houston from about 10 to 12.5, while ESPN's FPI makes it closer to a touchdown. The mismatch is real; whether it's two touchdowns' worth is a different question.",
+      "summary": "Thursday's opener is a protection story. Houston gets home after the pass rush to the tune of a sack on more than 9% of dropbacks, and Indianapolis will start backups at both tackle spots on a short week. That's a bad mix for Daniel Jones, who has been the least efficient passer in football over the last three weeks and just watched the front office trade away Josh Downs and Keenan Allen. Stroud has been rolling, and Nico Collins is the best player in either receiver room. The one thing that keeps this from being a walkover on paper is the number: the market has run Houston from about 10 to 12.5, while ESPN's FPI makes it closer to a touchdown. The mismatch is real; whether it's two touchdowns' worth is a different question.",
       "final_score": null,
       "picker": {
         "winner": null,
@@ -19,9 +19,9 @@
         "why": null
       },
       "details": {
-        "scheme": "Houston's pass rush (9.2% sack rate, second-best) meets an Indianapolis line that allows 7.1% and may be without both starting tackles (Raimann concussion, Travis doubtful). Jones has been the league's coldest passer over Weeks 8-10 (-0.360/db), and the deadline sell-off (Downs, Allen) left Tyler Warren as the only proven target. Stroud is +0.218/db over the same stretch; Nico Collins (+0.436/tgt) is the best receiver on the field.",
-        "injuries": "IND: QB Daniel Jones ACTIVE (named Thu starter) / WR1 none established after Downs + Allen trades and Pierce IR (Treadwell nominal); LT Raimann Q (concussion), RT Travis D (knee) · HOU: QB C.J. Stroud ACTIVE / WR1 Nico Collins ACTIVE; M. Harrison Jr. Q (hamstring, DNP Mon), RB Marks D (concussion), DE Hunter Q (hamstring)",
-        "edges": "Top 3 edges vs season avg: IND protection -0.337; IND pass -0.252; HOU protection +0.149. Combined pass+rush gap -0.280 favors HOU; biggest lane Protection. IND P/R/3/Pr -0.252/+0.089/-0.028/-0.337; HOU +0.108/+0.009/+0.052/+0.149. Total 44.5.",
+        "scheme": "Houston's pass rush (9.2% sack rate, second-best) meets an Indianapolis line that allows 7.1% and is without both starting tackles (Raimann, Travis OUT). Jones has been the league's coldest passer over Weeks 8-10 (-0.360/db), and the deadline sell-off (Downs, Allen) left Tyler Warren as the only proven target. Stroud is +0.218/db over the same stretch; Nico Collins (+0.436/tgt) is the best receiver on the field.",
+        "injuries": "IND: QB Daniel Jones ACTIVE / WR1 none established (Downs + Allen traded); OT Raimann OUT (concussion), OT Travis OUT (knee), TE Mallory OUT (hamstring), DT Tillery OUT (calf), CB Ward OUT (knee); CB Gardner Q (calf), WR Gould Q (toe) · HOU: QB Stroud ACTIVE / WR1 Nico Collins ACTIVE; WR Harrison Jr. OUT (hamstring), DE Hunter OUT (hamstring), RB Marks OUT (concussion), TE Jordan OUT (foot/illness); G Teller Q (back), LB Hummel Q (groin), CB J. Smith Q (hamstring)",
+        "edges": "Top 3 edges vs season avg: IND protection -0.337; IND pass -0.252; HOU protection +0.149. Combined pass+rush gap -0.280 favors HOU; biggest lane Protection. IND P/R/3/Pr -0.252/+0.089/-0.028/-0.337; HOU +0.108/+0.009/+0.052/+0.149. Total 44.5. Update Thu: Houston also without Hunter and Harrison Jr.; line still HOU -12.5.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–10, through MNF Nov 16)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
@@ -30,7 +30,8 @@
           "eDraft consensus odds (Nov 17 AM)",
           "CBS Sports Week 11 early odds (cross-check)",
           "Houston Texans official site, Week 11 practice report (Nov 16)",
-          "NBC Sports / ESPN: Colts sticking with Daniel Jones (Nov 16)"
+          "NBC Sports / ESPN: Colts sticking with Daniel Jones (Nov 16)",
+          "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)"
         ],
         "tables": {
           "matchup": {
@@ -110,7 +111,7 @@
               [
                 "IND",
                 "Will Mallory (TE)",
-                "Questionable",
+                "Out",
                 "Hamstring",
                 "Qualitative only"
               ],
@@ -124,49 +125,49 @@
               [
                 "IND",
                 "Jalen Travis (OT)",
-                "Doubtful",
+                "Out",
                 "Knee",
                 "Qualitative only"
               ],
               [
                 "IND",
                 "Bernhard Raimann (OT)",
-                "Questionable",
+                "Out",
                 "Concussion",
                 "Qualitative only"
               ],
               [
                 "IND",
                 "Jerry Tillery (DT)",
-                "Questionable",
+                "Out",
                 "Calf",
                 "Qualitative only"
               ],
               [
                 "HOU",
                 "Marvin Harrison Jr. (WR)",
-                "Questionable",
+                "Out",
                 "Hamstring",
                 "Qualitative only"
               ],
               [
                 "HOU",
                 "Brevin Jordan (TE)",
-                "Questionable",
-                "Finger",
+                "Out",
+                "Foot/illness",
                 "Qualitative only"
               ],
               [
                 "HOU",
                 "Woody Marks (RB)",
-                "Doubtful",
+                "Out",
                 "Concussion",
                 "-0.107/car (n=107) vs other carries -0.131 = -0.024"
               ],
               [
                 "HOU",
                 "Danielle Hunter (DE)",
-                "Questionable",
+                "Out",
                 "Hamstring",
                 "Qualitative only"
               ],
@@ -197,6 +198,34 @@
                 "Traded",
                 "At deadline",
                 "+0.097/tgt (n=58) with IND — qualitative"
+              ],
+              [
+                "IND",
+                "Ward",
+                "Out",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "IND",
+                "Gardner",
+                "Questionable",
+                "Calf",
+                "Qualitative only"
+              ],
+              [
+                "HOU",
+                "Teller",
+                "Questionable",
+                "Back",
+                "Qualitative only"
+              ],
+              [
+                "HOU",
+                "Jaylin Smith",
+                "Questionable",
+                "Hamstring",
+                "Qualitative only"
               ]
             ]
           }
@@ -720,12 +749,12 @@
       "away": "TB",
       "home": "DET",
       "kickoff": "Sun Nov 22 12:00 PM CT",
-      "spread": "DET -6.5",
+      "spread": "DET -7",
       "pick": null,
       "why": null,
       "type": "BASE",
       "money_flag": true,
-      "summary": "On paper this is closer than the spread. Detroit's offense is still better, but Goff has been close to average for three weeks and the Lions' third-down offense has been below average all season. The bigger news is on defense: Aidan Hutchinson tore his ACL in Munich, and Kerby Joseph is still out, so Detroit's season pass-rush numbers overstate what Tampa Bay will face. The quarterback question in Tampa matters less than it seems. Jalon Daniels has actually been more efficient with this offense than Mayfield, whose foot has him in doubt. The Bucs still can't throw well and still give up too many sacks, which keeps Detroit the right side of the mismatch. But at 6.5, with FPI around a field goal, there's more room on the Tampa side than the records suggest.",
+      "summary": "On paper this is closer than the spread. Detroit's offense is still better, but Goff has been close to average for three weeks and the Lions' third-down offense has been below average all season. The bigger news is on defense: Aidan Hutchinson tore his ACL in Munich, and Kerby Joseph is only now back at full practice, so Detroit's season pass-rush numbers overstate what Tampa Bay will face. The quarterback question in Tampa matters less than it seems. Jalon Daniels has actually been more efficient with this offense than Mayfield, whose foot has him in doubt. The Bucs still can't throw well and still give up too many sacks, which keeps Detroit the right side of the mismatch. But at 7, with FPI around a field goal, there's more room on the Tampa side than the records suggest.",
       "final_score": null,
       "picker": {
         "winner": null,
@@ -733,16 +762,17 @@
         "why": null
       },
       "details": {
-        "scheme": "The smallest gap on the slate. Tampa Bay runs more than it throws (163.9 rush yds/g vs 141.9 passing) into a Detroit run defense that's average (-0.097). The Bucs' pass offense is bottom-three (-0.154), and their line allows 9.2% sacks. But Detroit lost its pass rush engine (Hutchinson, torn ACL) and S Kerby Joseph is still out, so the 8.2% sack rate and pass D numbers (+0.105) behind it are a ceiling, not a floor. Goff is +0.007/db over Weeks 8-10, and Detroit's third-down offense is -0.082 (below average).",
-        "injuries": "TB: QB Baker Mayfield Q (foot/ankle; walking boot during bye, uphill to play) → Jalon Daniels if out / WR1 Emeka Egbuka ACTIVE; WR McMillan IR · DET: QB Jared Goff ACTIVE / WR1 Amon-Ra St. Brown ACTIVE; DE Hutchinson OUT (ACL, season), S Joseph OUT (knee)",
-        "edges": "Top 3 edges vs season avg: TB protection -0.450; DET 3rd down -0.327; TB 3rd down -0.174. Combined pass+rush gap -0.088 favors DET; biggest lane Protection. TB P/R/3/Pr -0.145/+0.023/-0.174/-0.450; DET -0.035/+0.001/-0.327/+0.152. Total 45.5. $: TB +6.5. Smallest combined gap on the slate (DET +0.088), FPI has Detroit by only 3.0, and Detroit's season pass-rush numbers include Hutchinson (torn ACL, out). Jalon Daniels (-0.087/db with TB) has been more efficient than Mayfield (-0.203), so a Mayfield scratch isn't an EPA downgrade. Risk: Tampa's pass offense is bottom-three and its line allows 9.2% sacks.",
+        "scheme": "The smallest gap on the slate. Tampa Bay runs more than it throws (163.9 rush yds/g vs 141.9 passing) into a Detroit run defense that's average (-0.097). The Bucs' pass offense is bottom-three (-0.154), and their line allows 9.2% sacks. But Detroit lost its pass rush engine (Hutchinson, torn ACL) and S Kerby Joseph is practicing fully but unconfirmed, so the 8.2% sack rate and pass D numbers (+0.105) behind it are a ceiling, not a floor. Goff is +0.007/db over Weeks 8-10, and Detroit's third-down offense is -0.082 (below average).",
+        "injuries": "TB: QB Baker Mayfield Q (foot/right thumb; DNP Wed, decision Fri) → Jalon Daniels if out / WR1 Emeka Egbuka ACTIVE; WR McMillan IR; S Winfield Jr. DNP (ankle), LB Diaby limited (knee) · DET: QB Jared Goff ACTIVE / WR1 Amon-Ra St. Brown ACTIVE; DE Hutchinson OUT (ACL, season); S Kerby Joseph practiced fully (knee), C Mays DNP (ankle)",
+        "edges": "Top 3 edges vs season avg: TB protection -0.450; DET 3rd down -0.327; TB 3rd down -0.174. Combined pass+rush gap -0.088 favors DET; biggest lane Protection. TB P/R/3/Pr -0.145/+0.023/-0.174/-0.450; DET -0.035/+0.001/-0.327/+0.152. Total 45.5. $: TB +7 (line moved from 6.5). Smallest combined gap on the slate (DET +0.088), FPI has Detroit by only 3.0, and Detroit's season pass-rush numbers include Hutchinson (torn ACL, out). Jalon Daniels (-0.087/db with TB) has been more efficient than Mayfield (-0.203), so a Mayfield scratch isn't an EPA downgrade. Risk: Tampa's pass offense is bottom-three and its line allows 9.2% sacks.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–10, through MNF Nov 16)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
           "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
           "ESPN Week 11 odds/FPI article (Nov 16)",
           "eDraft consensus odds (Nov 17 AM)",
-          "CBS Sports Week 11 early odds (cross-check)"
+          "CBS Sports Week 11 early odds (cross-check)",
+          "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)"
         ],
         "tables": {
           "matchup": {
@@ -864,8 +894,8 @@
               [
                 "DET",
                 "Kerby Joseph (S)",
-                "Out",
-                "Knee",
+                "Questionable",
+                "Knee (full practice Wed)",
                 "Qualitative only"
               ]
             ]
@@ -877,12 +907,12 @@
       "away": "ARI",
       "home": "KC",
       "kickoff": "Sun Nov 22 12:00 PM CT",
-      "spread": "KC -16.5",
+      "spread": "KC -15.5",
       "pick": null,
       "why": null,
       "type": "BASE",
       "money_flag": false,
-      "summary": "This is the week's most glaring mismatch. Kansas City's offense is top-five on third down and rarely allows a sack. Arizona's defense is the worst in the league against the pass and on third down. Then flip it over: Arizona's offense is the worst third-down unit in football, and it's now led by Carson Beck after a brutal first start and without its top receiver for the season. Mahomes just threw five touchdowns in Atlanta. The only argument against it is the price. The line has gone from 11.5 to 16.5, and FPI makes it about 12, so the market may already be charging full freight for a mismatch everyone can see.",
+      "summary": "This is the week's most glaring mismatch. Kansas City's offense is top-five on third down and rarely allows a sack. Arizona's defense is the worst in the league against the pass and on third down. Then flip it over: Arizona's offense is the worst third-down unit in football, and it's now led by Carson Beck after a brutal first start and without its top receiver for the season. Mahomes just threw five touchdowns in Atlanta. The only argument against it is the price. The line has gone from 11.5 to 15.5, and FPI makes it about 12, so the market may already be charging full freight for a mismatch everyone can see.",
       "final_score": null,
       "picker": {
         "winner": null,
@@ -891,8 +921,8 @@
       },
       "details": {
         "scheme": "The biggest gap of the week. Kansas City's offense is top-five on third down (+0.167) and in protection (3.7% sacks allowed) and draws the league's worst pass defense (+0.242/db) and third-down defense (+0.282). Arizona's offense is worst on third down (-0.251). Carson Beck was -0.671/db in his first NFL start. Even shrunk heavily toward average, the Arizona pass offense grades below average, and WR1 Michael Wilson is gone for the year.",
-        "injuries": "ARI: QB Carson Beck starts (Minshew IR, elbow UCL) / WR1 Michael Wilson OUT for season (neck) → Fehoko/McBride; C Froholdt Q (concussion), LB Burch OUT (season), S Wingard OUT · KC: QB Patrick Mahomes ACTIVE (5 TD vs ATL) / WR1 Rashee Rice ACTIVE; RB Walker Q (groin), TE Wiley OUT (ankle), G Trey Smith Q (concussion)",
-        "edges": "Top 3 edges vs season avg: KC 3rd down +0.496; KC pass +0.309; ARI 3rd down -0.286. Combined pass+rush gap -0.671 favors KC; biggest lane 3rd down. ARI P/R/3/Pr -0.191/-0.060/-0.286/+0.125; KC +0.309/+0.111/+0.496/+0.268. Total 41.5.",
+        "injuries": "ARI: QB Carson Beck starts (Minshew IR, elbow UCL) / WR1 Michael Wilson OUT for season (neck) → Fehoko/McBride; C Froholdt Q (concussion), LB Burch OUT (season), S Wingard OUT; S Baker, G Seumalo, EDGE Sweat, LB Mack Wilson DNP (vet rest/other) · KC: QB Patrick Mahomes ACTIVE (5 TD vs ATL) / WR1 Rashee Rice ACTIVE; RB Walker Q (groin; DNP Wed), TE Wiley OUT (ankle), G Trey Smith Q (concussion)",
+        "edges": "Top 3 edges vs season avg: KC 3rd down +0.496; KC pass +0.309; ARI 3rd down -0.286. Combined pass+rush gap -0.671 favors KC; biggest lane 3rd down. ARI P/R/3/Pr -0.191/-0.060/-0.286/+0.125; KC +0.309/+0.111/+0.496/+0.268. Total 41.5. Update Thu: line down to KC -15.5.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–10, through MNF Nov 16)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
@@ -900,7 +930,8 @@
           "ESPN Week 11 odds/FPI article (Nov 16)",
           "eDraft consensus odds (Nov 17 AM)",
           "CBS Sports Week 11 early odds (cross-check)",
-          "CBS Sports: Week 11 early odds (KC opened -14)"
+          "CBS Sports: Week 11 early odds (KC opened -14)",
+          "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)"
         ],
         "tables": {
           "matchup": {
@@ -1084,7 +1115,7 @@
       },
       "details": {
         "scheme": "Philadelphia's offense is in rough shape: Milton -0.238/db in his one start, pass O -0.095 season, rush O -0.126 (bottom-eight), and RT Lane Johnson is out. Pittsburgh's lane is the pass rush (7.5% sacks) against an Eagles line allowing 8.5%. Pittsburgh's own offense is below average through the air (-0.073), but the run game (+0.097/play, top-two) gets an average PHI run D. The 38.5 total is the lowest on the board.",
-        "injuries": "PIT: QB Aaron Rodgers ACTIVE / WR1 DK Metcalf ACTIVE; WR Pittman + R. Wilson IR (hopeful to return), G McCormick D (ankle) · PHI: QB Joe Milton starts (Hurts IR, season) / WR1 DeVonta Smith Q (hamstring); Wicks Q (ankle), RT Lane Johnson OUT (personal), RB Shipley IR (practice window opened)",
+        "injuries": "PIT: QB Aaron Rodgers ACTIVE / WR1 DK Metcalf ACTIVE; WR Pittman limited (foot, practicing), CB Ramsey DNP (personal), T.J. Watt/Heyward DNP (rest), G McCormick D (ankle) · PHI: QB Joe Milton starts (Hurts IR, season) / WR1 DeVonta Smith limited (hamstring); Wicks Q (ankle), RT Lane Johnson OUT (personal), RB Shipley IR (practice window opened)",
         "edges": "Top 3 edges vs season avg: PHI protection -0.301; PIT rush +0.227; PHI 3rd down -0.183. Combined pass+rush gap +0.418 favors PIT; biggest lane Protection. PIT P/R/3/Pr -0.039/+0.227/+0.108/+0.075; PHI -0.103/-0.127/-0.183/-0.301. Total 38.5.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–10, through MNF Nov 16)",
@@ -1092,7 +1123,8 @@
           "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
           "ESPN Week 11 odds/FPI article (Nov 16)",
           "eDraft consensus odds (Nov 17 AM)",
-          "CBS Sports Week 11 early odds (cross-check)"
+          "CBS Sports Week 11 early odds (cross-check)",
+          "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)"
         ],
         "tables": {
           "matchup": {
@@ -1412,12 +1444,12 @@
       "away": "NYJ",
       "home": "LAC",
       "kickoff": "Sun Nov 22 3:05 PM CT",
-      "spread": "LAC -3.5",
+      "spread": "LAC -3",
       "pick": null,
       "why": null,
       "type": "BASE",
-      "money_flag": true,
-      "summary": "A 2-8 team against a 1-8 team, and the efficiency numbers make the road team the better one. The Chargers have the worst offense in football by EPA, Herbert has been below average all year, and the line gives up a sack on roughly one of every ten dropbacks. The Jets aren't an elite pass rush, but they don't need to be against that line. If Geno Smith is upright, the Jets' passing game has been close to league average, and that's the better offense here. The catch is Smith's ankle: Klubnik was clearly worse in relief. The line has collapsed from double digits to about a field goal, and FPI agrees with that number, so the market already knows Los Angeles is bad. The data says it may still be underrating how bad.",
+      "money_flag": false,
+      "summary": "A 2-8 team against a 1-8 team, and the efficiency numbers make the road team the better one. The Chargers have the worst offense in football by EPA, Herbert has been below average all year, and the line gives up a sack on roughly one of every ten dropbacks. The Jets aren't an elite pass rush, but they don't need to be against that line. If Geno Smith is upright, the Jets' passing game has been close to league average, and that's the better offense here. The catch is Smith's ankle: Klubnik was clearly worse in relief. The line sits at a field goal, and FPI agrees with that number, so the market already knows Los Angeles is bad. The data says it may still be underrating how bad.",
       "final_score": null,
       "picker": {
         "winner": null,
@@ -1426,8 +1458,8 @@
       },
       "details": {
         "scheme": "Two bad teams, but the efficiency data favors the road team. The Chargers' offense is the league's worst (-0.176 EPA/play, -0.182/db for Herbert), with a line allowing sacks on 10.2% of dropbacks against a Jets rush at 6.9%. That -0.420 protection lane is the second-widest single number on the slate (only TB's -0.450 at DET is wider). The Jets' offense is around average through the air when Geno Smith plays (+0.055/db). Both third-down defenses are below average.",
-        "injuries": "NYJ: QB Geno Smith Q (ankle; imaging clean, expected to start) → Cade Klubnik if not / WR1 Garrett Wilson ACTIVE; WR Omar Cooper Jr. Q (ankle), G Parham Q (knee) · LAC: QB Justin Herbert ACTIVE / WR1 Ladd McConkey Q (back; inactive MNF); WR Thompson Q (hamstring); TE Njoku activated from IR",
-        "edges": "Top 3 edges vs season avg: LAC protection -0.420; NYJ 3rd down -0.201; LAC pass -0.119. Combined pass+rush gap +0.197 favors NYJ; biggest lane Protection. NYJ P/R/3/Pr -0.010/-0.005/-0.201/-0.088; LAC -0.119/-0.093/-0.078/-0.420. Total 40.5. $: NYJ +3.5. The data favors the road team (+0.197 combined): the Chargers have the league's worst offense (-0.176 EPA/play) and the second-widest single lane on the slate (LAC protection -0.420; 10.2% sacks allowed). FPI has LAC by only 3. Conditional: only a $ if Geno Smith starts. Klubnik (-0.183/db, n=26) would erase most of the edge.",
+        "injuries": "NYJ: QB Geno Smith Q (ankle; limited Wed, says plan is to start; coach not committed) → Cade Klubnik if not / WR1 Garrett Wilson ACTIVE; WR Omar Cooper Jr. DNP (ankle/hip), DT Phillips DNP (ankle), G Parham Q (knee) · LAC: QB Justin Herbert ACTIVE / WR1 Ladd McConkey not on Wed report (was Q back); LB Henley DNP (knee), TE Kolar DNP (concussion); WR Thompson Q (hamstring); TE Njoku activated from IR",
+        "edges": "Top 3 edges vs season avg: LAC protection -0.420; NYJ 3rd down -0.201; LAC pass -0.119. Combined pass+rush gap +0.197 favors NYJ; biggest lane Protection. NYJ P/R/3/Pr -0.010/-0.005/-0.201/-0.088; LAC -0.119/-0.093/-0.078/-0.420. Total 40.5. Line now LAC -3 (FPI 3): $ removed; Geno limited, start not confirmed. Prior note: NYJ +3.5. The data favors the road team (+0.197 combined): the Chargers have the league's worst offense (-0.176 EPA/play) and the second-widest single lane on the slate (LAC protection -0.420; 10.2% sacks allowed). FPI has LAC by only 3. Conditional: only a $ if Geno Smith starts. Klubnik (-0.183/db, n=26) would erase most of the edge.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–10, through MNF Nov 16)",
           "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
@@ -1435,7 +1467,8 @@
           "ESPN Week 11 odds/FPI article (Nov 16)",
           "eDraft consensus odds (Nov 17 AM)",
           "CBS Sports Week 11 early odds (cross-check)",
-          "ESPN: Jets QB Geno Smith avoided major ankle injury (Nov 16-17)"
+          "ESPN: Jets QB Geno Smith avoided major ankle injury (Nov 16-17)",
+          "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)"
         ],
         "tables": {
           "matchup": {
@@ -1515,8 +1548,8 @@
               [
                 "NYJ",
                 "Omar Cooper Jr. (WR)",
-                "Questionable",
-                "Ankle",
+                "Doubtful",
+                "Ankle/hip (DNP Wed)",
                 "+0.722/tgt (n=24) vs rest of targets +0.171 = -0.551"
               ],
               [
@@ -1898,7 +1931,7 @@
       },
       "details": {
         "scheme": "Mexico City, neutral site, 7-2 vs 8-1. San Francisco has the league's best offense (+0.195 EPA/play; Purdy +0.316/db, +0.513 over Weeks 8-10). Minnesota's counter is the best pass rush in football (12.0% sack rate) and a top-five third-down D (-0.241). That -0.348 protection lane against SF is the real fight. Minnesota's offense has been below average (-0.100), but Cousins (+0.105/db) is an upgrade on what they had, and SF's run D (-0.116) is strong against a Vikings run game that's -0.167.",
-        "injuries": "MIN: QB Kirk Cousins starts (Murray OUT, hamstring) / WR1 Justin Jefferson ACTIVE; Addison OUT (thumb surgery), TE Hockenson Q (wrist), WR Jennings Q (calf), LB Cashman Q (concussion) · SF: QB Brock Purdy ACTIVE / WR1 Mike Evans Q (Achilles tendinitis; missed 3 straight, hoping to practice); CB Green Q (back)",
+        "injuries": "MIN: QB Kirk Cousins starts (Murray OUT, hamstring) / WR1 Justin Jefferson ACTIVE; Addison OUT (thumb surgery), TE Hockenson Q (wrist), WR Jennings Q (calf), LB Cashman Q (concussion) · SF: QB Brock Purdy ACTIVE / WR1 Mike Evans Q (Achilles tendinitis; DNP Wed, missed 3 straight, hopeful Thu); CB Green Q (back)",
         "edges": "Top 3 edges vs season avg: SF protection -0.348; MIN rush -0.163; SF pass +0.075. Combined pass+rush gap -0.336 favors SF; biggest lane Rush. MIN P/R/3/Pr -0.043/-0.163/+0.037/-0.022; SF +0.075/+0.055/+0.049/-0.348. Total 46.5.",
         "sources": [
           "nflverse play_by_play_2026 (Weeks 1–10, through MNF Nov 16)",
@@ -1906,7 +1939,8 @@
           "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
           "ESPN Week 11 odds/FPI article (Nov 16)",
           "eDraft consensus odds (Nov 17 AM)",
-          "CBS Sports Week 11 early odds (cross-check)"
+          "CBS Sports Week 11 early odds (cross-check)",
+          "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)"
         ],
         "tables": {
           "matchup": {
