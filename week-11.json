@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "generated_at": "2026-11-22T10:04:55-06:00",
+  "generated_at": "2026-11-22T16:42:04-06:00",
   "games": [
     {
       "away": "IND",
@@ -242,7 +242,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Buffalo wins and covers -16.5. Allen's passing game (+0.222 EPA) gets a soft Miami pass defense, and the Dolphins are still starting McCord with Willis on IR. That's a big number, but this matchup is lopsided enough to lay it.",
-      "final_score": null,
+      "final_score": "MIA 9 - BUF 26",
       "picker": {
         "winner": "BUF",
         "ats": "BUF -16.5",
@@ -459,7 +459,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Chicago wins and covers -11.5. The Saints can't run the ball (-0.168 rushing), and a one-dimensional offense going into a solid Bears defense is a long afternoon.",
-      "final_score": null,
+      "final_score": "NO 13 - CHI 21",
       "picker": {
         "winner": "CHI",
         "ats": "CHI -11.5",
@@ -621,7 +621,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Dallas wins and covers -7.5, but it's closer than it looked on Saturday. Dak's passing (+0.183) and a line that barely gives up sacks still outclass Tennessee, and the Titans' third-down offense is bottom-eight. The worry is the Dallas secondary: Bland and Jalen Thompson are on IR, and P.J. Locke and Devin Moore are out, while Carnell Tate is expected to play through his shoulder. Expect points both ways in a 54.5-total game; Dallas should still pull away late.",
-      "final_score": null,
+      "final_score": "TEN 30 - DAL 51",
       "picker": {
         "winner": "DAL",
         "ats": "DAL -7.5",
@@ -839,7 +839,7 @@
       "type": "BASE",
       "money_flag": true,
       "summary": "Detroit wins, but Tampa covers +4.5. The Lions are the better team, but Goff's passing runs into a good Bucs pass defense (-0.101), and Detroit is without Hutchinson and its starting center. Mayfield is playing through a foot strain, so Tampa keeps its starter, and the market moved to -3.5 off the 4.5 locked on Saturday. The Bucs' offense is limited and the line gives up sacks, so Detroit should still win, just not by much.",
-      "final_score": null,
+      "final_score": "TB 21 - DET 31",
       "picker": {
         "winner": "DET",
         "ats": "TB +4.5",
@@ -1039,7 +1039,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Kansas City wins and covers -16.5. Mahomes gets the softest pass defense in the league (+0.273), and Arizona is down to 40-year-old Josh Johnson, its fourth starter in four weeks, after Carson Beck was ruled out with back spasms. The Chiefs are missing Trey Smith and Jaylon Moore on the line plus Kenneth Walker in the backfield, and the market dipped to -15.5. But Arizona's offense is the worst on third down, and an emergency quarterback doesn't fix that.",
-      "final_score": null,
+      "final_score": "ARI 7 - KC 34",
       "picker": {
         "winner": "KC",
         "ats": "KC -16.5",
@@ -1240,7 +1240,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Pittsburgh wins on the road and covers -3.5. The Steelers' run game (+0.081) should push Philly's front around, and the Eagles' offense with Milton (-0.080) still has few answers, even with DeVonta Smith back. Losing Nick Herbig takes some bite off the Pittsburgh pass rush, but Philadelphia's line still has a rookie at right tackle, and the Eagles are without Zack Baun in the middle. In a 37.5-total game, a field goal and a hook is enough.",
-      "final_score": null,
+      "final_score": "PIT 16 - PHI 19",
       "picker": {
         "winner": "PIT",
         "ats": "PIT -3.5",
@@ -1441,7 +1441,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Carolina wins and covers -3. The scheme numbers still say coin flip, but Baltimore has lost five straight, Brissett lost as a home favorite last week, and the Ravens are now without Marlon Humphrey, Jaylinn Hawkins and Nnamdi Madubuike on defense. Bryce Young at home against a short-handed Baltimore defense is the safer side, and the market's drift to 2.5 makes a field-goal win enough.",
-      "final_score": null,
+      "final_score": "BAL 33 - CAR 35",
       "picker": {
         "winner": "CAR",
         "ats": "CAR -3",
@@ -2533,7 +2533,7 @@
       }
     }
   ],
-  "status": "Week 11 Sunday final (~10 AM CT): final injury designations and consensus lines; Saturday lock unchanged (12 BASE, 0 UPSET; TNF IND 3 - HOU 26 final and off the card). $: TB +3.5 (locked +4.5) kept, JAX -5.5/-6 kept. Official inactives post 90 minutes before each kickoff. Week 10 final.",
+  "status": "Week 11 early window provisional vs Saturday lock (12 BASE, 0 UPSET; TNF IND at HOU ungraded): 6-1 SU, 3-4 ATS (Picker card). ATS hits: BUF -16.5, DAL -7.5, KC -16.5. ATS misses: CHI -11.5, TB +4.5, PIT -3.5, CAR -3. $: TB +4.5 miss; JAX -6 still live. Afternoon NYJ at LAC, LV at DEN, JAX at NYG in progress; SNF MIN vs SF and MNF CIN at WSH still ahead.",
   "byes": [
     "ATL",
     "CLE",
