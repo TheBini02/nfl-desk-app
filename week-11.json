@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "generated_at": "2026-11-22T16:42:04-06:00",
+  "generated_at": "2026-11-22T19:40:50-06:00",
   "games": [
     {
       "away": "IND",
@@ -1631,7 +1631,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "New York wins outright. Geno Smith is cleared and starting, and the Chargers still have the league's worst offense (-0.159) behind a line that gives up sacks on 10% of dropbacks. Losing Omar Cooper Jr. stings the Jets' passing game, and McConkey is expected to play for Los Angeles, but a short home favorite with this offense is the one to fade. Take the points; the upset is worth a swing.",
-      "final_score": null,
+      "final_score": "NYJ 27 - LAC 24",
       "picker": {
         "winner": "NYJ",
         "ats": "NYJ +3",
@@ -1853,7 +1853,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Denver wins, but Las Vegas covers +10.5. The Broncos' offense (+0.013) is too ordinary to keep winning by double digits, even with Jaylen Waddle back from his concussion, and the Raiders' offense has been near league average with Mendoza still learning. The catch is Brock Bowers: he's questionable with ankle and quad issues, and Las Vegas called up an extra tight end. If he sits, the cover gets much harder.",
-      "final_score": null,
+      "final_score": "LV 24 - DEN 38",
       "picker": {
         "winner": "DEN",
         "ats": "LV +10.5",
@@ -2003,7 +2003,7 @@
       "type": "BASE",
       "money_flag": true,
       "summary": "Jacksonville wins and covers -6. Lawrence's passing game (+0.251) is one of the best in the league, and the Jaguars' defense (-0.076) should be too much for McCarthy.",
-      "final_score": null,
+      "final_score": "JAX 18 - NYG 23",
       "picker": {
         "winner": "JAX",
         "ats": "JAX -6",
@@ -2533,7 +2533,7 @@
       }
     }
   ],
-  "status": "Week 11 early window provisional vs Saturday lock (12 BASE, 0 UPSET; TNF IND at HOU ungraded): 6-1 SU, 3-4 ATS (Picker card). ATS hits: BUF -16.5, DAL -7.5, KC -16.5. ATS misses: CHI -11.5, TB +4.5, PIT -3.5, CAR -3. $: TB +4.5 miss; JAX -6 still live. Afternoon NYJ at LAC, LV at DEN, JAX at NYG in progress; SNF MIN vs SF and MNF CIN at WSH still ahead.",
+  "status": "Week 11 Sunday afternoon provisional vs Saturday lock (12 BASE, 0 UPSET; TNF IND at HOU ungraded): 7-3 SU, 4-6 ATS (Pool SU, Picker ATS). Afternoon 1-2 SU, 1-2 ATS. ATS hits: BUF -16.5, DAL -7.5, KC -16.5, NYJ +3. ATS misses: CHI -11.5, TB +4.5, PIT -3.5, CAR -3, LV +10.5, JAX -6. $: TB +4.5 miss; JAX -6 miss. SNF MIN vs SF and MNF CIN at WSH still ahead.",
   "byes": [
     "ATL",
     "CLE",
