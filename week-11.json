@@ -1,6 +1,6 @@
 {
   "week": 11,
-  "generated_at": "2026-11-22T19:40:50-06:00",
+  "generated_at": "2026-11-22T23:41:55-06:00",
   "games": [
     {
       "away": "IND",
@@ -2138,7 +2138,7 @@
       "type": "BASE",
       "money_flag": false,
       "summary": "Minnesota wins outright, the boldest call on the board. San Francisco has the best passing offense in the league (+0.298), and Mike Evans is expected back from his Achilles, but he hasn't played in a month and is likely on a pitch count against an elite Vikings pass rush. That rush is the same one that sank Green Bay last week. Cousins has Hockenson and Jennings cleared, the game is in Mexico City, so the Niners don't get a home crowd, and the line drifting to 3.5 adds a hook for the cover. The worry is still Minnesota's offense with Addison out.",
-      "final_score": null,
+      "final_score": "MIN 10 - SF 35",
       "picker": {
         "winner": "MIN",
         "ats": "MIN +3",
@@ -2533,7 +2533,7 @@
       }
     }
   ],
-  "status": "Week 11 Sunday afternoon provisional vs Saturday lock (12 BASE, 0 UPSET; TNF IND at HOU ungraded): 7-3 SU, 4-6 ATS (Pool SU, Picker ATS). Afternoon 1-2 SU, 1-2 ATS. ATS hits: BUF -16.5, DAL -7.5, KC -16.5, NYJ +3. ATS misses: CHI -11.5, TB +4.5, PIT -3.5, CAR -3, LV +10.5, JAX -6. $: TB +4.5 miss; JAX -6 miss. SNF MIN vs SF and MNF CIN at WSH still ahead.",
+  "status": "Week 11 Sunday night provisional vs Saturday lock (12 BASE, 0 UPSET; TNF IND at HOU ungraded): 8-3 SU, 4-7 ATS (Pool SU, Picker ATS). SNF 1-0 SU, 0-1 ATS. ATS hits: BUF -16.5, DAL -7.5, KC -16.5, NYJ +3. ATS misses: CHI -11.5, TB +4.5, PIT -3.5, CAR -3, LV +10.5, JAX -6, MIN +3. $: TB +4.5 miss; JAX -6 miss. MNF CIN at WSH still ahead.",
   "byes": [
     "ATL",
     "CLE",
