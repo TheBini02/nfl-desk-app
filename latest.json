@@ -1,2545 +1,2625 @@
 {
- "week": 11,
- "generated_at": "2026-11-22T23:41:55-06:00",
- "games": [
-  {
-   "away": "IND",
-   "home": "HOU",
-   "kickoff": "Thu Nov 19 7:15 PM CT",
-   "spread": "HOU -12.5",
-   "pick": null,
-   "why": null,
-   "type": null,
-   "money_flag": false,
-   "summary": "Thursday's opener is a protection story. Houston gets home after the pass rush to the tune of a sack on more than 9% of dropbacks, and Indianapolis will start backups at both tackle spots on a short week. That's a bad mix for Daniel Jones, who has been the least efficient passer in football over the last three weeks and just watched the front office trade away Josh Downs and Keenan Allen. Stroud has been rolling, and Nico Collins is the best player in either receiver room. The one thing that keeps this from being a walkover on paper is the number: the market has run Houston from about 10 to 12.5, while ESPN's FPI makes it closer to a touchdown. The mismatch is real; whether it's two touchdowns' worth is a different question.",
-   "final_score": "IND 3 - HOU 26",
-   "picker": {
-    "winner": null,
-    "ats": null,
-    "why": null
-   },
-   "details": {
-    "scheme": "Houston's pass rush (9.2% sack rate, second-best) meets an Indianapolis line that allows 7.1% and is without both starting tackles (Raimann, Travis OUT). Jones has been the league's coldest passer over Weeks 8-10 (-0.360/db), and the deadline sell-off (Downs, Allen) left Tyler Warren as the only proven target. Stroud is +0.218/db over the same stretch; Nico Collins (+0.436/tgt) is the best receiver on the field.",
-    "injuries": "IND: QB Daniel Jones ACTIVE / WR1 none established (Downs + Allen traded); OT Raimann OUT (concussion), OT Travis OUT (knee), TE Mallory OUT (hamstring), DT Tillery OUT (calf), CB Ward OUT (knee); CB Gardner Q (calf), WR Gould Q (toe) \u00b7 HOU: QB Stroud ACTIVE / WR1 Nico Collins ACTIVE; WR Harrison Jr. OUT (hamstring), DE Hunter OUT (hamstring), RB Marks OUT (concussion), TE Jordan OUT (foot/illness); G Teller Q (back), LB Hummel Q (groin), CB J. Smith Q (hamstring)",
-    "edges": "Top 3 edges vs season avg: IND protection -0.337; IND pass -0.252; HOU protection +0.149. Combined pass+rush gap -0.280 favors HOU; biggest lane Protection. IND P/R/3/Pr -0.252/+0.089/-0.028/-0.337; HOU +0.108/+0.009/+0.052/+0.149. Total 44.5. Update Thu: Houston also without Hunter and Harrison Jr.; line still HOU -12.5.",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "Houston Texans official site, Week 11 practice report (Nov 16)",
-     "NBC Sports / ESPN: Colts sticking with Daniel Jones (Nov 16)",
-     "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "IND pass O vs HOU pass D",
-        "-0.194",
-        "+0.038",
-        "-0.252"
-       ],
-       [
-        "IND rush O vs HOU rush D",
-        "+0.018",
-        "-0.049",
-        "+0.089"
-       ],
-       [
-        "IND 3rd down vs HOU",
-        "-0.108",
-        "+0.034",
-        "-0.028"
-       ],
-       [
-        "IND sacks allowed vs HOU sack rate",
-        "7.1%",
-        "9.2%",
-        "-0.337"
-       ],
-       [
-        "HOU pass O vs IND pass D",
-        "+0.144",
-        "+0.061",
-        "+0.108"
-       ],
-       [
-        "HOU rush O vs IND rush D",
-        "-0.118",
-        "+0.007",
-        "+0.009"
-       ],
-       [
-        "HOU 3rd down vs IND",
-        "+0.050",
-        "-0.045",
-        "+0.052"
-       ],
-       [
-        "HOU sacks allowed vs IND sack rate",
-        "4.8%",
-        "6.6%",
-        "+0.149"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "IND",
-        "Anthony Gould (WR)",
-        "Questionable",
-        "Toe",
-        "Qualitative only"
-       ],
-       [
-        "IND",
-        "Will Mallory (TE)",
-        "Out",
-        "Hamstring",
-        "Qualitative only"
-       ],
-       [
-        "IND",
-        "Mo Alie-Cox (TE)",
-        "Out (IR)",
-        "Groin",
-        "Qualitative only"
-       ],
-       [
-        "IND",
-        "Jalen Travis (OT)",
-        "Out",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "IND",
-        "Bernhard Raimann (OT)",
-        "Out",
-        "Concussion",
-        "Qualitative only"
-       ],
-       [
-        "IND",
-        "Jerry Tillery (DT)",
-        "Out",
-        "Calf",
-        "Qualitative only"
-       ],
-       [
-        "HOU",
-        "Marvin Harrison Jr. (WR)",
-        "Out",
-        "Hamstring",
-        "Qualitative only"
-       ],
-       [
-        "HOU",
-        "Brevin Jordan (TE)",
-        "Out",
-        "Foot/illness",
-        "Qualitative only"
-       ],
-       [
-        "HOU",
-        "Woody Marks (RB)",
-        "Out",
-        "Concussion",
-        "-0.107/car (n=107) vs other carries -0.131 = -0.024"
-       ],
-       [
-        "HOU",
-        "Danielle Hunter (DE)",
-        "Out",
-        "Hamstring",
-        "Qualitative only"
-       ],
-       [
-        "HOU",
-        "Azeez Al-Shaair (LB)",
-        "Questionable",
-        "Groin",
-        "Qualitative only"
-       ],
-       [
-        "HOU",
-        "Jake Hummel (LB)",
-        "Questionable",
-        "Groin",
-        "Qualitative only"
-       ],
-       [
-        "IND",
-        "Josh Downs (WR)",
-        "Traded",
-        "To KC at deadline",
-        "+0.232/tgt (n=57) with IND; targets now spread to Warren/Treadwell \u2014 qualitative"
-       ],
-       [
-        "IND",
-        "Keenan Allen (WR)",
-        "Traded",
-        "At deadline",
-        "+0.097/tgt (n=58) with IND \u2014 qualitative"
-       ],
-       [
-        "IND",
-        "Ward",
-        "Out",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "IND",
-        "Gardner",
-        "Questionable",
-        "Calf",
-        "Qualitative only"
-       ],
-       [
-        "HOU",
-        "Teller",
-        "Questionable",
-        "Back",
-        "Qualitative only"
-       ],
-       [
-        "HOU",
-        "Jaylin Smith",
-        "Questionable",
-        "Hamstring",
-        "Qualitative only"
-       ]
-      ]
-     }
+  "week": 12,
+  "generated_at": "2026-11-24T09:10:02-06:00",
+  "games": [
+    {
+      "away": "GB",
+      "home": "LAR",
+      "kickoff": "Wed Nov 25 7:00 PM CT",
+      "spread": "LAR -2.5",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "This is a defense-versus-offense-in-flux game, and the Rams' side of it is sturdier. Los Angeles has a top-two defense against both the pass and the run and keeps Stafford clean, while Green Bay's rushing attack has been the worst in the league by EPA and its third-down offense has been brutal. The wrinkle is the Rams' receiver room: with Nacua and Adams both on injured reserve, Konata Mumpfield is the nominal WR1 on a small sample, and Stafford will lean on tight ends and the run game. Green Bay's best path is a pass rush that finishes plays, especially if Micah Parsons is cleared. The structure still tilts to Los Angeles, mainly in the trenches and on third down.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "Los Angeles pairs the league's second-best pass defense (-0.085) and run defense (-0.114) with a line that allows only 3.8% sacks. Green Bay's run game is the worst in football (-0.174/play) and its third-down offense is -0.359 per play, the widest single gap on this game's board. The Rams' own receiver room is depleted (Nacua and Adams on IR), so the Packers' best chance is a pass rush that gets home (7.1% sack rate) and Parsons' return.",
+        "injuries": "GB: QB Jordan Love ACTIVE / WR1 Christian Watson ACTIVE (+0.489/tgt); Skyy Moore Q (ankle), Bo Melton Q (thigh), RB Jacobs Q (finger), Parsons DE listed Out on ESPN but practicing (Covers expects a debut) · LAR: QB Matthew Stafford ACTIVE / WR1 Puka Nacua IR (MCL, 4-5 months), Davante Adams IR (outside chance for Week 13) so Konata Mumpfield leads; C Shelton OUT, G Avila OUT, DE Garrett Q (knee)",
+        "edges": "Top 3 edges vs season avg: GB 3rd down -0.359; GB rush -0.213; LAR protection +0.207. Combined pass+rush gap -0.353 favors LAR; biggest lane 3rd down. GB P/R/3/Pr -0.057/-0.213/-0.359/+0.078; LAR -0.015/+0.098/+0.165/+0.207. Total 43.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "GB pass O vs LAR pass D",
+                "+0.112",
+                "-0.085",
+                "-0.057"
+              ],
+              [
+                "GB rush O vs LAR rush D",
+                "-0.174",
+                "-0.114",
+                "-0.213"
+              ],
+              [
+                "GB 3rd down vs LAR",
+                "-0.001",
+                "-0.405",
+                "-0.359"
+              ],
+              [
+                "GB sacks allowed vs LAR sack rate",
+                "6.3%",
+                "5.9%",
+                "+0.078"
+              ],
+              [
+                "LAR pass O vs GB pass D",
+                "+0.100",
+                "-0.031",
+                "-0.015"
+              ],
+              [
+                "LAR rush O vs GB rush D",
+                "+0.058",
+                "-0.035",
+                "+0.098"
+              ],
+              [
+                "LAR 3rd down vs GB",
+                "-0.018",
+                "+0.136",
+                "+0.165"
+              ],
+              [
+                "LAR sacks allowed vs GB sack rate",
+                "3.8%",
+                "7.1%",
+                "+0.207"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "GB",
+                "Micah Parsons (DE)",
+                "Out",
+                "Knee - ACL (returning; limited practice Mon)",
+                "Qualitative only - 0 plays in nflverse 2026; Covers expects a debut"
+              ],
+              [
+                "GB",
+                "Skyy Moore (WR)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "GB",
+                "Bo Melton (WR)",
+                "Questionable",
+                "Thigh",
+                "Qualitative only"
+              ],
+              [
+                "GB",
+                "Luke Musgrave (TE)",
+                "Out",
+                "Neck",
+                "Qualitative only"
+              ],
+              [
+                "GB",
+                "Josh Jacobs (RB)",
+                "Questionable",
+                "Finger",
+                "-0.130/car (n=36) vs other carries -0.183 = -0.053"
+              ],
+              [
+                "GB",
+                "Kevin Zeitler (G)",
+                "Questionable",
+                "Triceps",
+                "Qualitative only"
+              ],
+              [
+                "GB",
+                "Sean Rhyan (G)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "LAR",
+                "Davante Adams (WR)",
+                "Out (IR)",
+                "Hamstring",
+                "+0.352/tgt (n=49) vs rest of targets +0.143 = -0.209"
+              ],
+              [
+                "LAR",
+                "Puka Nacua (WR)",
+                "Out (IR)",
+                "Knee - MCL",
+                "+0.210/tgt (n=93) vs rest of targets +0.158 = -0.052"
+              ],
+              [
+                "LAR",
+                "Terrance Ferguson (TE)",
+                "Out (IR)",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "LAR",
+                "Coleman Shelton (C)",
+                "Out",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "LAR",
+                "Steve Avila (G)",
+                "Out",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "LAR",
+                "Myles Garrett (DE)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "CHI",
+      "home": "DET",
+      "kickoff": "Thu Nov 26 12:00 PM CT",
+      "spread": "CHI -2.5",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "Both teams are 8-2 and this is really two different games: Detroit's offense against Chicago's pass rush, and Chicago's passing game against a defense that has lost its best rusher. The Lions' offense is among the best in the league, but the Bears get to the quarterback about as often as anyone, and that will test a Detroit line allowing 6.1% sacks. Chicago's offense is closer to average, but Detroit's pass defense has been bottom-eight without Aidan Hutchinson, and Caleb Williams has had stretches of real efficiency. The combined numbers are close, with a slight tilt to Detroit's rushing attack and home field. If anything is glaring here, it's how even this is.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "Detroit's offense is top-four (+0.136/play, pass +0.203) against a Chicago defense that rates seventh and brings one of the league's best sack rates (9.0%). That makes Detroit's protection the key lane (-0.212). On the other side, Detroit's pass defense has slipped to 25th (+0.103) with Hutchinson on IR, which lets Caleb Williams (+0.133/db) get open looks.",
+        "injuries": "CHI: QB Caleb Williams ACTIVE / WR1 Luther Burden III ACTIVE; RB Roschon Johnson Q (ankle), CB Kyler Gordon Q (shoulder), OT Benedet Q (quad) · DET: QB Jared Goff ACTIVE / WR1 Amon-Ra St. Brown ACTIVE; TE LaPorta Q (ankle, limited), DE Hutchinson IR (ACL, season), C Cade Mays IR (ankle), S Clark Q, CB Rakestraw Q",
+        "edges": "Top 3 edges vs season avg: DET 3rd down -0.274; DET protection -0.212; CHI 3rd down +0.174. Combined pass+rush gap -0.084 favors DET; biggest lane Rush. CHI P/R/3/Pr +0.085/-0.011/+0.174/-0.111; DET +0.080/+0.078/-0.274/-0.212. Total 55.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "CHI pass O vs DET pass D",
+                "+0.067",
+                "+0.103",
+                "+0.085"
+              ],
+              [
+                "CHI rush O vs DET rush D",
+                "-0.025",
+                "-0.061",
+                "-0.011"
+              ],
+              [
+                "CHI 3rd down vs DET",
+                "+0.135",
+                "-0.009",
+                "+0.174"
+              ],
+              [
+                "CHI sacks allowed vs DET sack rate",
+                "5.8%",
+                "8.3%",
+                "-0.111"
+              ],
+              [
+                "DET pass O vs CHI pass D",
+                "+0.203",
+                "-0.039",
+                "+0.080"
+              ],
+              [
+                "DET rush O vs CHI rush D",
+                "+0.047",
+                "-0.045",
+                "+0.078"
+              ],
+              [
+                "DET 3rd down vs CHI",
+                "-0.032",
+                "-0.289",
+                "-0.274"
+              ],
+              [
+                "DET sacks allowed vs CHI sack rate",
+                "6.1%",
+                "9.0%",
+                "-0.212"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "CHI",
+                "Roschon Johnson (RB)",
+                "Questionable",
+                "Ankle",
+                "-0.103/car (n=29) vs other carries -0.017 = +0.086"
+              ],
+              [
+                "CHI",
+                "Theo Benedet (OT)",
+                "Questionable",
+                "Quadriceps",
+                "Qualitative only"
+              ],
+              [
+                "CHI",
+                "Kyler Gordon (CB)",
+                "Questionable",
+                "Shoulder",
+                "Qualitative only"
+              ],
+              [
+                "DET",
+                "Sam LaPorta (TE)",
+                "Questionable",
+                "Ankle",
+                "+0.411/tgt (n=59) vs rest of targets +0.284 = -0.127"
+              ],
+              [
+                "DET",
+                "Ennis Rakestraw Jr. (CB)",
+                "Questionable",
+                "Shoulder",
+                "Qualitative only"
+              ],
+              [
+                "DET",
+                "DJ Wonnum (LB)",
+                "Questionable",
+                "Back",
+                "Qualitative only"
+              ],
+              [
+                "DET",
+                "Chuck Clark (S)",
+                "Questionable",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "DET",
+                "Skyler Gill-Howard (DT)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "DET",
+                "Aidan Hutchinson (DE)",
+                "Out (IR)",
+                "Knee - ACL (season)",
+                "Qualitative only (7 sacks in 6 games played; pass-rush loss)"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "PHI",
+      "home": "DAL",
+      "kickoff": "Thu Nov 26 3:30 PM CT",
+      "spread": "DAL -8.5",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "Dallas can't stop anybody, but Philadelphia may not be able to take advantage. The Cowboys' defense is dead last against the run and 30th against the pass, yet the Eagles' offense is bottom-three, built around Joe Milton and a line that allows nearly nine percent sacks. Dallas goes the other way with Prescott and Lamb on a heater and a protection edge that's the biggest single lane on this card. The risk is Barkley: if he's healthy and the Eagles keep the ball on the ground, they can keep this closer than the passing numbers suggest. The structure still leans Cowboys by a wide margin.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "Dallas has the league's worst run defense (+0.040) and 30th-ranked pass defense, but it faces an Eagles offense that ranks 30th (-0.108/play). Philadelphia's line allows 8.7% sacks and Joe Milton is the likely starter (McKee Q), while Dallas allows 3.2%. The largest single lane is Dallas' protection (+0.433). Prescott was 28-of-33 for 325 and four scores last week.",
+        "injuries": "PHI: QB Joe Milton starts (Hurts IR; McKee Q, ribs) / WR1 DeVonta Smith ACTIVE (hamstring, played); WR Wicks IR (ankle), TE Goedert Q (shin), RB Barkley Q (neck/illness), RB Shipley Q, LB Mondon Q · DAL: QB Dak Prescott ACTIVE / WR1 CeeDee Lamb ACTIVE (+0.252/tgt); TE Ferguson Q (knee), WR Mingo Q (ankle), G Tyler Booker OUT (ankle), S Locke Q (concussion), LB Winters Q (knee, DNP Mon)",
+        "edges": "Top 3 edges vs season avg: DAL protection +0.433; PHI protection -0.244; DAL 3rd down +0.229. Combined pass+rush gap -0.290 favors DAL; biggest lane Protection. PHI P/R/3/Pr +0.013/+0.013/+0.147/-0.244; DAL +0.176/+0.140/+0.229/+0.433. Total 47.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "PHI pass O vs DAL pass D",
+                "-0.069",
+                "+0.167",
+                "+0.013"
+              ],
+              [
+                "PHI rush O vs DAL rush D",
+                "-0.103",
+                "+0.040",
+                "+0.013"
+              ],
+              [
+                "PHI 3rd down vs DAL",
+                "-0.087",
+                "+0.187",
+                "+0.147"
+              ],
+              [
+                "PHI sacks allowed vs DAL sack rate",
+                "8.7%",
+                "6.7%",
+                "-0.244"
+              ],
+              [
+                "DAL pass O vs PHI pass D",
+                "+0.171",
+                "+0.089",
+                "+0.176"
+              ],
+              [
+                "DAL rush O vs PHI rush D",
+                "+0.049",
+                "+0.015",
+                "+0.140"
+              ],
+              [
+                "DAL 3rd down vs PHI",
+                "+0.053",
+                "+0.129",
+                "+0.229"
+              ],
+              [
+                "DAL sacks allowed vs PHI sack rate",
+                "3.2%",
+                "5.4%",
+                "+0.433"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "PHI",
+                "Tanner McKee (QB)",
+                "Questionable",
+                "Ribs",
+                "McKee -0.140/db (n=129) vs Milton -0.226 (n=70) = +0.086 if McKee is the one who sits (Milton starts)"
+              ],
+              [
+                "PHI",
+                "Dontayvion Wicks (WR)",
+                "Out (IR)",
+                "Ankle",
+                "+0.397/tgt (n=32) vs rest of targets -0.054 = -0.451"
+              ],
+              [
+                "PHI",
+                "Dallas Goedert (TE)",
+                "Questionable",
+                "Shin",
+                "+0.260/tgt (n=42) vs rest of targets -0.050 = -0.309"
+              ],
+              [
+                "PHI",
+                "Will Shipley (RB)",
+                "Questionable",
+                "Illness",
+                "-0.226/car (n=24) vs other carries -0.087 = +0.139"
+              ],
+              [
+                "PHI",
+                "Saquon Barkley (RB)",
+                "Questionable",
+                "Neck",
+                "-0.032/car (n=86) vs other carries -0.151 = -0.118"
+              ],
+              [
+                "PHI",
+                "Smael Mondon Jr. (LB)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "DAL",
+                "Jonathan Mingo (WR)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "DAL",
+                "Jake Ferguson (TE)",
+                "Questionable",
+                "Knee",
+                "-0.030/tgt (n=27) vs rest of targets +0.247 = +0.276"
+              ],
+              [
+                "DAL",
+                "Tyler Booker (G)",
+                "Out",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "DAL",
+                "P.J. Locke (S)",
+                "Questionable",
+                "Concussion",
+                "Qualitative only"
+              ],
+              [
+                "DAL",
+                "Jaishawn Barham (LB)",
+                "Questionable",
+                "Hip",
+                "Qualitative only"
+              ],
+              [
+                "DAL",
+                "Dee Winters (LB)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "KC",
+      "home": "BUF",
+      "kickoff": "Thu Nov 26 7:20 PM CT",
+      "spread": "BUF -3",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": true,
+      "summary": "This is the best game on the slate and the data says it's closer than the records. Buffalo's 9-1 mark and home field are real, but Kansas City is just as efficient on offense and has the better defense, especially against the run, and it protects Mahomes better than almost anyone. Josh Allen has been slightly less efficient through the air this season, and Buffalo's offense leans on the ground game. The health picture is thin on both sides, with Kenneth Walker, Trey Smith, Kincaid and Spencer Brown all questionable. If the wind and rain show up, the team with the cleaner pocket and run defense benefits. Season numbers give Kansas City a small edge.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "The two best offenses in the AFC meet: KC +0.140/play (#3), BUF +0.130 (#5). Kansas City's defense is the better unit (-0.082, #3; run D -0.101) and its line allows only 3.5% sacks, so the protection lane (KC +0.388) is the biggest edge. Buffalo's key advantage is its rush offense (+0.068, #2) and home field, with some weather risk (rain/wind forecast).",
+        "injuries": "KC: QB Patrick Mahomes ACTIVE (+0.194/db) / WR1 Rashee Rice ACTIVE (+0.297/tgt); RB Kenneth Walker III Q (groin, DNP Mon), TE Noah Gray Q (ribs), G Trey Smith Q (concussion), OT Jaylon Moore Q (ankle) · BUF: QB Josh Allen ACTIVE (+0.171/db) / WR1 DJ Moore ACTIVE; TE Dalton Kincaid Q (thumb), OT Spencer Brown Q (back), G Torrence Q (ankle), CB Benford Q (groin, non-participant Mon), DE Rousseau Q (back)",
+        "edges": "Top 3 edges vs season avg: KC protection +0.388; BUF protection +0.181; KC rush +0.098. Combined pass+rush gap +0.112 favors KC; biggest lane Protection. KC P/R/3/Pr +0.082/+0.098/-0.005/+0.388; BUF +0.025/+0.043/+0.076/+0.181. Total 47.5. $: KC +3. Small but real: KC leads on the combined gap (+0.112), has the better defense (-0.082 vs -0.030), and its line allows 3.5% sacks vs 6.0% for BUF. Mahomes (+0.194/db) is as efficient as Allen (+0.171). Risk: Walker (groin), Trey Smith (concussion) and Moore are all Q, and home field plus wind/rain could favor Buffalo's run game.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "KC pass O vs BUF pass D",
+                "+0.190",
+                "-0.024",
+                "+0.082"
+              ],
+              [
+                "KC rush O vs BUF rush D",
+                "+0.065",
+                "-0.043",
+                "+0.098"
+              ],
+              [
+                "KC 3rd down vs BUF",
+                "+0.201",
+                "-0.253",
+                "-0.005"
+              ],
+              [
+                "KC sacks allowed vs BUF sack rate",
+                "3.5%",
+                "5.6%",
+                "+0.388"
+              ],
+              [
+                "BUF pass O vs KC pass D",
+                "+0.180",
+                "-0.070",
+                "+0.025"
+              ],
+              [
+                "BUF rush O vs KC rush D",
+                "+0.068",
+                "-0.101",
+                "+0.043"
+              ],
+              [
+                "BUF 3rd down vs KC",
+                "+0.097",
+                "-0.067",
+                "+0.076"
+              ],
+              [
+                "BUF sacks allowed vs KC sack rate",
+                "6.0%",
+                "5.1%",
+                "+0.181"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "KC",
+                "Noah Gray (TE)",
+                "Questionable",
+                "Ribs",
+                "+0.286/tgt (n=25) vs rest of targets +0.305 = +0.020"
+              ],
+              [
+                "KC",
+                "Jared Wiley (TE)",
+                "Out (IR)",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "KC",
+                "Kenneth Walker III (RB)",
+                "Questionable",
+                "Groin",
+                "+0.088/car (n=159) vs other carries +0.025 = -0.063"
+              ],
+              [
+                "KC",
+                "Trey Smith (G)",
+                "Questionable",
+                "Concussion",
+                "Qualitative only"
+              ],
+              [
+                "KC",
+                "Jaylon Moore (OT)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "KC",
+                "Ben VanSumeren (FB)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "BUF",
+                "Dalton Kincaid (TE)",
+                "Questionable",
+                "Thumb",
+                "+0.447/tgt (n=42) vs rest of targets +0.245 = -0.202"
+              ],
+              [
+                "BUF",
+                "Spencer Brown (OT)",
+                "Questionable",
+                "Back",
+                "Qualitative only"
+              ],
+              [
+                "BUF",
+                "O'Cyrus Torrence (G)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "BUF",
+                "T.J. Sanders (DT)",
+                "Questionable",
+                "Shoulder",
+                "Qualitative only"
+              ],
+              [
+                "BUF",
+                "Dorian Williams (LB)",
+                "Questionable",
+                "Calf",
+                "Qualitative only"
+              ],
+              [
+                "BUF",
+                "Greg Rousseau (LB)",
+                "Questionable",
+                "Back",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "DEN",
+      "home": "PIT",
+      "kickoff": "Fri Nov 27 2:00 PM CT",
+      "spread": "DEN -3",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "Strip away the 8-2 record and this is a close, low-scoring game. Denver has been good at winning but its underlying numbers are about average, while Pittsburgh's running game is the best in the league by EPA and its run defense is a top-five unit. Denver's pass rush against a Steelers line that gives up sacks is the counterpunch, and Alex Highsmith likely being out hurts Pittsburgh's own rush. Rodgers hasn't been efficient (-0.057/db), and Bo Nix isn't much better. This is a game where the team with the better run game and a defensive floor has a small structural edge, and that's Pittsburgh, by a hair.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "Pittsburgh has the league's best rushing offense (+0.081/play) and a top-four run defense (-0.101) against a Denver run defense ranked 27th. Denver's best asset is a pass rush that sacks at 7.3% against a Pittsburgh line allowing 7.7%, so the Steelers' protection (-0.195) is the weak link. Both offenses sit near the bottom half; the 38.5 total is the lowest on the board.",
+        "injuries": "DEN: QB Bo Nix ACTIVE / WR1 Jaylen Waddle ACTIVE (+0.097/tgt); TE Lohner IR (foot), S Brandon Jones Q (hamstring); RB Jonah Coleman (24 carries, 111 yards, 3 TDs last week) · PIT: QB Aaron Rodgers ACTIVE / WR1 DK Metcalf ACTIVE (ejected last week, no suspension but discipline under review); WR Michael Pittman Jr. IR (McCarthy 'very confident' he plays), LB Highsmith DOUBTFUL (ankle), LB Herbig Q (hip)",
+        "edges": "Top 3 edges vs season avg: DEN 3rd down -0.333; PIT protection -0.195; DEN protection +0.175. Combined pass+rush gap -0.092 favors PIT; biggest lane Rush. DEN P/R/3/Pr -0.040/-0.046/-0.333/+0.175; PIT -0.149/+0.155/-0.147/-0.195. Total 38.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "DEN pass O vs PIT pass D",
+                "+0.027",
+                "+0.017",
+                "-0.040"
+              ],
+              [
+                "DEN rush O vs PIT rush D",
+                "-0.020",
+                "-0.101",
+                "-0.046"
+              ],
+              [
+                "DEN 3rd down vs PIT",
+                "-0.191",
+                "-0.188",
+                "-0.333"
+              ],
+              [
+                "DEN sacks allowed vs PIT sack rate",
+                "3.5%",
+                "7.8%",
+                "+0.175"
+              ],
+              [
+                "PIT pass O vs DEN pass D",
+                "-0.071",
+                "+0.007",
+                "-0.149"
+              ],
+              [
+                "PIT rush O vs DEN rush D",
+                "+0.081",
+                "-0.002",
+                "+0.155"
+              ],
+              [
+                "PIT 3rd down vs DEN",
+                "-0.114",
+                "-0.080",
+                "-0.147"
+              ],
+              [
+                "PIT sacks allowed vs DEN sack rate",
+                "7.7%",
+                "7.3%",
+                "-0.195"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "PIT",
+                "Michael Pittman Jr. (WR)",
+                "Out (IR)",
+                "Foot (McCarthy 'very confident' he plays Fri)",
+                "Qualitative only - small PIT sample"
+              ],
+              [
+                "DEN",
+                "Caleb Lohner (TE)",
+                "Out (IR)",
+                "Foot",
+                "Qualitative only"
+              ],
+              [
+                "DEN",
+                "Brandon Jones (S)",
+                "Questionable",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "PIT",
+                "Michael Pittman Jr. (WR)",
+                "Out (IR)",
+                "Foot",
+                "Qualitative only"
+              ],
+              [
+                "PIT",
+                "Nick Herbig (LB)",
+                "Questionable",
+                "Hip",
+                "Qualitative only"
+              ],
+              [
+                "PIT",
+                "Alex Highsmith (LB)",
+                "Doubtful",
+                "Ankle",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "NO",
+      "home": "CIN",
+      "kickoff": "Sun Nov 29 12:00 PM CT",
+      "spread": "CIN -10",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "Cincinnati has the clearer advantage in the air. Joe Burrow and Ja'Marr Chase are one of the most efficient pairings in football, and they face a Saints defense that doesn't pressure or cover well. New Orleans' offense can generate pass yardage through Olave, but its run game is bottom-five and its offensive line is banged up (Richards doubtful, Fuaga and McCoy questionable). Cincinnati is coming off a two-point Monday-night loss in Washington, and its defense is only average, so the Saints can score some. Overall the passing and third-down gaps are well past average, which is why this reads as one of the larger mismatches.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "Cincinnati's pass offense is second in the league (+0.246/db, Burrow) and runs into a Saints pass defense ranked 19th with a protection problem of its own (6.7% sacks allowed). The run game is the opposite: CIN rush O is -0.057 and NO's rush D is 26th (-0.002), so there is little to attack on the ground. Third-down offense (+0.263 vs average) is the cleanest edge for Cincinnati.",
+        "injuries": "NO: QB Tyler Shough ACTIVE / WR1 Chris Olave ACTIVE (+0.328/tgt); TE Juwan Johnson Q (hamstring), OT Asim Richards DOUBTFUL (knee), OT Fuaga Q (knee), C McCoy Q (biceps), CB Emerson Q (concussion) · CIN: QB Joe Burrow ACTIVE (28/40, 300 yards Monday) / WR1 Ja'Marr Chase ACTIVE (+0.473/tgt); WR Iosivas IR (thumb), G Risner Q (knee), S Dugger Q (quad)",
+        "edges": "Top 3 edges vs season avg: CIN 3rd down +0.263; CIN pass +0.219; NO protection -0.105. Combined pass+rush gap -0.343 favors CIN; biggest lane Pass. NO P/R/3/Pr -0.054/-0.053/+0.083/-0.105; CIN +0.219/+0.017/+0.263/+0.066. Total 50.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "NO pass O vs CIN pass D",
+                "+0.004",
+                "+0.025",
+                "-0.054"
+              ],
+              [
+                "NO rush O vs CIN rush D",
+                "-0.127",
+                "-0.001",
+                "-0.053"
+              ],
+              [
+                "NO 3rd down vs CIN",
+                "-0.055",
+                "+0.091",
+                "+0.083"
+              ],
+              [
+                "NO sacks allowed vs CIN sack rate",
+                "6.7%",
+                "7.4%",
+                "-0.105"
+              ],
+              [
+                "CIN pass O vs NO pass D",
+                "+0.246",
+                "+0.057",
+                "+0.219"
+              ],
+              [
+                "CIN rush O vs NO rush D",
+                "-0.057",
+                "-0.002",
+                "+0.017"
+              ],
+              [
+                "CIN 3rd down vs NO",
+                "+0.206",
+                "+0.010",
+                "+0.263"
+              ],
+              [
+                "CIN sacks allowed vs NO sack rate",
+                "4.6%",
+                "7.7%",
+                "+0.066"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "NO",
+                "Juwan Johnson (TE)",
+                "Questionable",
+                "Hamstring",
+                "+0.242/tgt (n=43) vs rest of targets +0.109 = -0.133"
+              ],
+              [
+                "NO",
+                "Asim Richards (OT)",
+                "Doubtful",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "NO",
+                "Erik McCoy (C)",
+                "Questionable",
+                "Biceps",
+                "Qualitative only"
+              ],
+              [
+                "NO",
+                "Taliese Fuaga (OT)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "NO",
+                "Pete Werner (LB)",
+                "Questionable",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "NO",
+                "Martin Emerson Jr. (CB)",
+                "Questionable",
+                "Concussion",
+                "Qualitative only"
+              ],
+              [
+                "CIN",
+                "Andrei Iosivas (WR)",
+                "Out (IR)",
+                "Thumb",
+                "Qualitative only"
+              ],
+              [
+                "CIN",
+                "Dalton Risner (G)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "CIN",
+                "Kyle Dugger (S)",
+                "Questionable",
+                "Quadriceps",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "NYG",
+      "home": "IND",
+      "kickoff": "Sun Nov 29 12:00 PM CT",
+      "spread": "NYG -6.5",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "Indianapolis is in a quarterback transition with Richardson replacing the waived Daniel Jones, and the offense around him has been the league's worst through the air. The Giants are an average team on paper, but average is a big step up here: their pass defense and third-down numbers are better than Indianapolis' offense, and the Colts' receiver room has no clear lead after the deadline moves and Pierce's injury. New York's own weakness is protection, and that matters if McCarthy has to throw against pressure. Richardson's tiny sample (six dropbacks) is the wildcard, but the gap points to the Giants.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "Indianapolis now has Anthony Richardson Sr. as the named starter after waiving Daniel Jones, and the Colts' pass offense is dead last (-0.207). New York's defense is middling (-0.014 EPA/play, #13), but its pass rush is not a strength (5.3% sacks). The Giants' own protection is the soft spot: 7.5% sacks allowed vs a Colts front generating 6.3%.",
+        "injuries": "NYG: QB J.J. McCarthy ACTIVE / WR1 Malik Nabers ACTIVE; CB Greg Newsome II OUT (ankle), RB Tracy IR (eligible Week 13) · IND: QB Anthony Richardson Sr. named starter (Jones waived; 6 dropbacks this season) / no established WR1 (Alec Pierce IR heel; Treadwell leads on +0.067/tgt); TE Mallory Q, OT Raimann Q (concussion) and Travis Q (knee), RB McGowan OUT (hamstring), CBs Charvarius Ward and Sauce Gardner Q",
+        "edges": "Top 3 edges vs season avg: IND 3rd down -0.177; IND pass -0.176; NYG protection -0.080. Combined pass+rush gap +0.174 favors NYG; biggest lane 3rd down. NYG P/R/3/Pr +0.048/-0.003/+0.055/-0.080; IND -0.176/+0.047/-0.177/+0.068. Total 41.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "NYG pass O vs IND pass D",
+                "+0.058",
+                "+0.074",
+                "+0.048"
+              ],
+              [
+                "NYG rush O vs IND rush D",
+                "-0.091",
+                "+0.013",
+                "-0.003"
+              ],
+              [
+                "NYG 3rd down vs IND",
+                "+0.017",
+                "-0.009",
+                "+0.055"
+              ],
+              [
+                "NYG sacks allowed vs IND sack rate",
+                "7.5%",
+                "6.3%",
+                "-0.080"
+              ],
+              [
+                "IND pass O vs NYG pass D",
+                "-0.098",
+                "+0.006",
+                "-0.176"
+              ],
+              [
+                "IND rush O vs NYG rush D",
+                "+0.019",
+                "-0.047",
+                "+0.047"
+              ],
+              [
+                "IND 3rd down vs NYG",
+                "-0.190",
+                "-0.034",
+                "-0.177"
+              ],
+              [
+                "IND sacks allowed vs NYG sack rate",
+                "7.0%",
+                "5.3%",
+                "+0.068"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "NYG",
+                "Tyrone Tracy Jr. (RB)",
+                "Out (IR)",
+                "Hamstring",
+                "-0.181/car (n=19) vs other carries -0.084 = +0.096"
+              ],
+              [
+                "NYG",
+                "Greg Newsome II (CB)",
+                "Out",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "IND",
+                "Alec Pierce (WR)",
+                "Out (IR)",
+                "Heel",
+                "Qualitative only"
+              ],
+              [
+                "IND",
+                "Will Mallory (TE)",
+                "Questionable",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "IND",
+                "Seth McGowan (RB)",
+                "Out",
+                "Hamstring",
+                "+0.089/car (n=58) vs other carries +0.000 = -0.088"
+              ],
+              [
+                "IND",
+                "Bernhard Raimann (OT)",
+                "Questionable",
+                "Concussion",
+                "Qualitative only"
+              ],
+              [
+                "IND",
+                "Jalen Travis (OT)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "IND",
+                "Jerry Tillery (DT)",
+                "Questionable",
+                "Calf",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "NYJ",
+      "home": "MIA",
+      "kickoff": "Sun Nov 29 12:00 PM CT",
+      "spread": "NYJ -3.5",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "Neither team's defense is anything to fear, so this comes down to who has an offense that can function. The Jets do: Geno Smith has been steady, Garrett Wilson is the reliable top target, and the Jets were 17-of-21 against the Chargers. Miami's offense is last-tier, with Kyle McCord behind a line giving up almost nine percent sacks and a lineup that managed 102 passing yards in a 26-9 loss to Buffalo. Both teams struggle to stop the pass, so volume will be there; the question is who can turn it into points. The numbers give the Jets a clear but not overwhelming edge.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "Two of the league's worst pass defenses (NYJ 27th at +0.136, MIA 28th at +0.142) meet, so the key difference is the quarterback and protection. Miami's line allows 8.7% sacks against a Jets rush generating 7.9%, a -0.368 protection lane for the Dolphins. Kyle McCord (two starts, -0.364/db) is the weakest QB on the slate; Geno Smith (+0.070) was 17-of-21 with three scores last week.",
+        "injuries": "NYJ: QB Geno Smith ACTIVE / WR1 Garrett Wilson ACTIVE (+0.149/tgt); WR Isaiah Williams Q (ribs), WR Omar Cooper Jr. Q (ankle; +0.670/tgt), LB Wallace Q · MIA: QB Kyle McCord starts (Willis IR, core) / WR1 Malik Washington ACTIVE; WR Wayne Q (quad), CB Brents Q (shoulder), S Simpson Q and Trader Q",
+        "edges": "Top 3 edges vs season avg: MIA protection -0.368; MIA 3rd down +0.154; NYJ pass +0.109. Combined pass+rush gap +0.161 favors NYJ; biggest lane Protection. NYJ P/R/3/Pr +0.109/+0.020/+0.105/-0.060; MIA -0.018/-0.014/+0.154/-0.368. Total 40.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "NYJ pass O vs MIA pass D",
+                "+0.051",
+                "+0.142",
+                "+0.109"
+              ],
+              [
+                "NYJ rush O vs MIA rush D",
+                "-0.036",
+                "-0.019",
+                "+0.020"
+              ],
+              [
+                "NYJ 3rd down vs MIA",
+                "-0.089",
+                "+0.148",
+                "+0.105"
+              ],
+              [
+                "NYJ sacks allowed vs MIA sack rate",
+                "8.6%",
+                "5.0%",
+                "-0.060"
+              ],
+              [
+                "MIA pass O vs NYJ pass D",
+                "-0.071",
+                "+0.136",
+                "-0.018"
+              ],
+              [
+                "MIA rush O vs NYJ rush D",
+                "-0.087",
+                "-0.002",
+                "-0.014"
+              ],
+              [
+                "MIA 3rd down vs NYJ",
+                "+0.032",
+                "+0.076",
+                "+0.154"
+              ],
+              [
+                "MIA sacks allowed vs NYJ sack rate",
+                "8.7%",
+                "7.9%",
+                "-0.368"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "NYJ",
+                "Isaiah Williams (WR)",
+                "Questionable",
+                "Ribs",
+                "+0.277/tgt (n=22) vs rest of targets +0.217 = -0.061"
+              ],
+              [
+                "NYJ",
+                "Omar Cooper Jr. (WR)",
+                "Questionable",
+                "Ankle",
+                "+0.670/tgt (n=24) vs rest of targets +0.184 = -0.485"
+              ],
+              [
+                "NYJ",
+                "Trevin Wallace (LB)",
+                "Questionable",
+                "Groin",
+                "Qualitative only"
+              ],
+              [
+                "MIA",
+                "Malik Willis (QB)",
+                "Out (IR)",
+                "Abdomen",
+                "McCord -0.364/db (n=74, two starts) vs Willis -0.018 (n=256) = -0.346"
+              ],
+              [
+                "MIA",
+                "Jared Wayne (WR)",
+                "Questionable",
+                "Quadriceps",
+                "Qualitative only"
+              ],
+              [
+                "MIA",
+                "Jaylin Simpson (S)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "MIA",
+                "Dante Trader Jr. (S)",
+                "Questionable",
+                "Shoulder",
+                "Qualitative only"
+              ],
+              [
+                "MIA",
+                "JuJu Brents (CB)",
+                "Questionable",
+                "Shoulder",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "ATL",
+      "home": "MIN",
+      "kickoff": "Sun Nov 29 12:00 PM CT",
+      "spread": "MIN -7",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "Minnesota's defense is the reason to lean this way. The Vikings sack opposing quarterbacks more than anyone and cover the pass well, and Atlanta's offense is bottom-five through the air with a line that struggles to hold up on third down. Minnesota's offense, on the other hand, has been poor all season and just got beaten 35-10 by San Francisco, so the Falcons can hang around if Drake London gets room. Cousins is probably the starter, and whether Murray plays barely changes the efficiency numbers. This is a defensive-structure edge more than a glaring gap.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "Minnesota's defense is sixth-best in the league (-0.077; pass D #3) and generates the league's highest sack rate (11.3%), which puts Atlanta's protection (-0.402) and third-down offense (-0.267) in jeopardy. The Vikings' offense is the problem: -0.090 EPA/play (#29) after a 35-10 loss to San Francisco, and Cousins, not Murray (Q hamstring), is the expected starter.",
+        "injuries": "ATL: QB Michael Penix Jr. ACTIVE / WR1 Drake London ACTIVE (+0.296/tgt); WR Zachariah Branch Q (hamstring), LB Deablo Q (forearm) · MIN: QB Kirk Cousins expected (Kyler Murray Q, hamstring) / WR1 Justin Jefferson ACTIVE (+0.107/tgt); WR Jordan Addison DOUBTFUL (thumb surgery), CB Isaiah Rodgers Q, S Jay Ward Q",
+        "edges": "Top 3 edges vs season avg: ATL protection -0.402; ATL 3rd down -0.267; ATL pass -0.238. Combined pass+rush gap -0.147 favors MIN; biggest lane Protection. ATL P/R/3/Pr -0.238/+0.019/-0.267/-0.402; MIN -0.013/-0.059/-0.003/-0.031. Total 42.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "ATL pass O vs MIN pass D",
+                "-0.074",
+                "-0.081",
+                "-0.238"
+              ],
+              [
+                "ATL rush O vs MIN rush D",
+                "+0.015",
+                "-0.071",
+                "+0.019"
+              ],
+              [
+                "ATL 3rd down vs MIN",
+                "-0.105",
+                "-0.208",
+                "-0.267"
+              ],
+              [
+                "ATL sacks allowed vs MIN sack rate",
+                "5.7%",
+                "11.3%",
+                "-0.402"
+              ],
+              [
+                "MIN pass O vs ATL pass D",
+                "-0.004",
+                "+0.076",
+                "-0.013"
+              ],
+              [
+                "MIN rush O vs ATL rush D",
+                "-0.114",
+                "-0.021",
+                "-0.059"
+              ],
+              [
+                "MIN 3rd down vs ATL",
+                "-0.078",
+                "+0.028",
+                "-0.003"
+              ],
+              [
+                "MIN sacks allowed vs ATL sack rate",
+                "7.8%",
+                "5.5%",
+                "-0.031"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "ATL",
+                "Zachariah Branch (WR)",
+                "Questionable",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "ATL",
+                "Divine Deablo (LB)",
+                "Questionable",
+                "Forearm",
+                "Qualitative only"
+              ],
+              [
+                "MIN",
+                "Kyler Murray (QB)",
+                "Questionable",
+                "Hamstring",
+                "Cousins +0.078/db (n=408, LV+MIN) vs Murray -0.031 (n=185) = +0.109 (upgrade if Murray sits)"
+              ],
+              [
+                "MIN",
+                "Jordan Addison (WR)",
+                "Doubtful",
+                "Thumb",
+                "-0.148/tgt (n=37) vs rest of targets +0.036 = +0.184"
+              ],
+              [
+                "MIN",
+                "Isaiah Rodgers (CB)",
+                "Questionable",
+                "Quadriceps",
+                "Qualitative only"
+              ],
+              [
+                "MIN",
+                "Jay Ward (S)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "TEN",
+      "home": "JAX",
+      "kickoff": "Sun Nov 29 12:00 PM CT",
+      "spread": "JAX -14.5",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "Jacksonville has the best defense in football and Tennessee has the worst, and that's the whole story. The Titans' secondary has been torched all season, Lawrence has been efficient, and Jacksonville's third-down offense should keep drives alive against a unit that can't get off the field. Tennessee just scored 30 against Dallas in a loss, and the Cowboys put up 51, so the defense is the more serious issue. The Jaguars' injury list is long (Tuten, Hainsey, Little, two ends and a corner), but the depth chart can absorb it. This is the biggest mismatch on the slate by a wide margin.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "The largest combined gap on the slate. Jacksonville's defense is the league's best (-0.099 EPA/play; run D -0.143, #1) and Tennessee's defense is the worst (+0.121, #32; pass D +0.227, #31). Lawrence is +0.207/db, JAX's third-down offense is +0.376 vs average, and TEN's own third-down offense is -0.291 against that stout defense.",
+        "injuries": "TEN: QB Cam Ward ACTIVE / WR1 Carnell Tate ACTIVE (+0.186/tgt); RB Tyjae Spears IR (knee), OT Dan Moore Jr. Q, CB Flott Q (neck), S Burgess Q (knee), S Adams Q (illness) · JAX: QB Trevor Lawrence ACTIVE (301 yards, 2 INT last week) / WR1 Parker Washington ACTIVE (+0.346/tgt); RB Bhayshul Tuten Q (ankle), C Hainsey Q (knee), OT Little Q (knee), DE Striggow Q (concussion), DE Dickerson Q (neck), CB Jarrian Jones Q (chest)",
+        "edges": "Top 3 edges vs season avg: JAX 3rd down +0.376; JAX pass +0.345; TEN 3rd down -0.291. Combined pass+rush gap -0.719 favors JAX; biggest lane 3rd down. TEN P/R/3/Pr -0.223/-0.092/-0.291/+0.290; JAX +0.345/+0.059/+0.376/+0.240. Total 47.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "TEN pass O vs JAX pass D",
+                "-0.065",
+                "-0.074",
+                "-0.223"
+              ],
+              [
+                "TEN rush O vs JAX rush D",
+                "-0.025",
+                "-0.143",
+                "-0.092"
+              ],
+              [
+                "TEN 3rd down vs JAX",
+                "-0.142",
+                "-0.196",
+                "-0.291"
+              ],
+              [
+                "TEN sacks allowed vs JAX sack rate",
+                "5.3%",
+                "4.8%",
+                "+0.290"
+              ],
+              [
+                "JAX pass O vs TEN pass D",
+                "+0.202",
+                "+0.227",
+                "+0.345"
+              ],
+              [
+                "JAX rush O vs TEN rush D",
+                "+0.006",
+                "-0.023",
+                "+0.059"
+              ],
+              [
+                "JAX 3rd down vs TEN",
+                "+0.177",
+                "+0.152",
+                "+0.376"
+              ],
+              [
+                "JAX sacks allowed vs TEN sack rate",
+                "5.0%",
+                "5.5%",
+                "+0.240"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "TEN",
+                "Tyjae Spears (RB)",
+                "Out (IR)",
+                "Knee",
+                "-0.206/car (n=22) vs other carries -0.004 = +0.202"
+              ],
+              [
+                "TEN",
+                "Dan Moore Jr. (OT)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "TEN",
+                "Terrell Burgess (S)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "TEN",
+                "Cor'Dale Flott (CB)",
+                "Questionable",
+                "Neck",
+                "Qualitative only"
+              ],
+              [
+                "TEN",
+                "Tony Adams (S)",
+                "Questionable",
+                "Illness",
+                "Qualitative only"
+              ],
+              [
+                "JAX",
+                "Bhayshul Tuten (RB)",
+                "Questionable",
+                "Ankle",
+                "-0.033/car (n=158) vs other carries +0.062 = +0.095"
+              ],
+              [
+                "JAX",
+                "Robert Hainsey (C)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "JAX",
+                "Walker Little (OT)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "JAX",
+                "Danny Striggow (DE)",
+                "Questionable",
+                "Concussion",
+                "Qualitative only"
+              ],
+              [
+                "JAX",
+                "Matt Dickerson (DE)",
+                "Questionable",
+                "Neck",
+                "Qualitative only"
+              ],
+              [
+                "JAX",
+                "Jarrian Jones (CB)",
+                "Questionable",
+                "Chest",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "BAL",
+      "home": "HOU",
+      "kickoff": "Sun Nov 29 12:00 PM CT",
+      "spread": "HOU -6.5",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "Houston has the cleaner roster and the better quarterback situation. Stroud is efficient behind one of the league's best pass-blocking lines, Nico Collins is a legitimate No. 1, and Houston's pass rush gets home against a Baltimore line that has let Brissett get hit. The Ravens are without Lamar Jackson, though their offense scored 33 against Carolina last week. Baltimore's defense is average, which is enough to keep this competitive, but Houston's protection and pass efficiency are clear edges. The Texans' health list (Harrison, Boutte, Marks, Hunter) is the only reason to hold back.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "Houston's front generates 8.9% sacks, against a Baltimore line allowing 7.1%, a -0.307 protection lane for the Ravens. Houston's own protection is excellent (4.7% allowed, +0.261) and its pass game (+0.144, #8) outclasses Baltimore's (+0.021, Brissett). Baltimore's offense is one that can keep scoring (33 points last week), so the pressure matters.",
+        "injuries": "BAL: QB Jacoby Brissett ACTIVE (Lamar Jackson IR, thumb; 'a chance' to return Week 16) / WR1 Zay Flowers ACTIVE (+0.196/tgt); RB Derrick Henry cleared concussion protocol, DT Madubuike Q (hamstring), CB Humphrey Q (coach's decision), S Hawkins Q (knee) · HOU: QB C.J. Stroud ACTIVE / WR1 Nico Collins ACTIVE (+0.419/tgt); WR Marvin Harrison Jr. Q (hamstring), WR Boutte Q (hip), RB Woody Marks Q (concussion), DE Danielle Hunter Q (hamstring), G Teller Q (back), G Rutledge Q",
+        "edges": "Top 3 edges vs season avg: BAL protection -0.307; HOU protection +0.261; HOU pass +0.115. Combined pass+rush gap -0.154 favors HOU; biggest lane Protection. BAL P/R/3/Pr -0.079/+0.007/-0.098/-0.307; HOU +0.115/-0.033/+0.106/+0.261. Total 46.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "BAL pass O vs HOU pass D",
+                "+0.003",
+                "+0.001",
+                "-0.079"
+              ],
+              [
+                "BAL rush O vs HOU rush D",
+                "-0.026",
+                "-0.043",
+                "+0.007"
+              ],
+              [
+                "BAL 3rd down vs HOU",
+                "-0.073",
+                "-0.072",
+                "-0.098"
+              ],
+              [
+                "BAL sacks allowed vs HOU sack rate",
+                "7.1%",
+                "8.9%",
+                "-0.307"
+              ],
+              [
+                "HOU pass O vs BAL pass D",
+                "+0.144",
+                "+0.055",
+                "+0.115"
+              ],
+              [
+                "HOU rush O vs BAL rush D",
+                "-0.098",
+                "-0.011",
+                "-0.033"
+              ],
+              [
+                "HOU 3rd down vs BAL",
+                "+0.070",
+                "-0.011",
+                "+0.106"
+              ],
+              [
+                "HOU sacks allowed vs BAL sack rate",
+                "4.7%",
+                "5.7%",
+                "+0.261"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "BAL",
+                "Lamar Jackson (QB)",
+                "Out (IR)",
+                "Thumb",
+                "Brissett -0.042/db (n=420, ARI+BAL) vs Jackson +0.316 (n=112) = -0.358"
+              ],
+              [
+                "BAL",
+                "Nnamdi Madubuike (DT)",
+                "Questionable",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "BAL",
+                "Jaylinn Hawkins (S)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "HOU",
+                "Marvin Harrison Jr. (WR)",
+                "Questionable",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "HOU",
+                "Kayshon Boutte (WR)",
+                "Questionable",
+                "Hip",
+                "+0.525/tgt (n=31) vs rest of targets +0.227 = -0.298"
+              ],
+              [
+                "HOU",
+                "Brevin Jordan (TE)",
+                "Questionable",
+                "Foot",
+                "Qualitative only"
+              ],
+              [
+                "HOU",
+                "Woody Marks (RB)",
+                "Questionable",
+                "Concussion",
+                "-0.082/car (n=107) vs other carries -0.111 = -0.029"
+              ],
+              [
+                "HOU",
+                "Wyatt Teller (G)",
+                "Questionable",
+                "Back",
+                "Qualitative only"
+              ],
+              [
+                "HOU",
+                "Keylan Rutledge (G)",
+                "Questionable",
+                "Undisclosed",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "NE",
+      "home": "LAC",
+      "kickoff": "Sun Nov 29 3:05 PM CT",
+      "spread": "LAC -1.5",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": true,
+      "summary": "This game is about two quarterbacks nobody can fully trust: Tommy DeVito for New England, with Drake Maye out, and Justin Herbert, who is in the concussion protocol. Even with that uncertainty, the season data points one way. The Chargers' offense is the league's worst, and their offensive line has allowed 11 percent sacks, which is the single widest lane in this matchup. New England's offense isn't good either, and with A.J. Brown doubtful and DeVito's small sample, it's likely a low-scoring game where one big mistake decides it. The Patriots' pass rush against the Chargers' line is the one structural edge.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "The league's worst offense (LAC -0.135/play, #32; pass O -0.154) and the worst-protecting line (11.0% sacks allowed) host a Patriots team that gets to the passer (7.6%). Both quarterbacks are in flux: DeVito (-0.314/db, n=41) starts for New England with Maye out (fibula), and Herbert is in the concussion protocol. The 35.5 total is the lowest of the week.",
+        "injuries": "NE: QB Tommy DeVito starts (Maye OUT, fibula) / WR1 A.J. Brown DOUBTFUL (hamstring, off field Monday); WR Doubs IR (shoulder), C Ben Brown Q, CB Carlton Davis III Q, OL Walter Rouse Q (concussion) · LAC: QB Justin Herbert Q (concussion protocol; DJ Uiagalelei backup, 7 dropbacks) / WR1 Ladd McConkey ACTIVE (+0.379/tgt, n=32); WR Brenen Thompson Q (hamstring), RB Keaton Mitchell Q (knee), CB Tarheeb Still Q, LB Henley Q",
+        "edges": "Top 3 edges vs season avg: LAC protection -0.557; NE protection +0.127; NE 3rd down -0.097. Combined pass+rush gap +0.172 favors NE; biggest lane Protection. NE P/R/3/Pr +0.034/-0.011/-0.097/+0.127; LAC -0.088/-0.061/-0.013/-0.557. Total 35.5. $: NE +1.5. The data favors the road team (+0.172): LAC has the league's worst offense (-0.135) and 11.0% sacks allowed, and Herbert is in the concussion protocol. Conditional: DeVito is only -0.314/db on 41 dropbacks and A.J. Brown is doubtful. If Herbert sits, expect the market to move.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "NE pass O vs LAC pass D",
+                "+0.033",
+                "+0.085",
+                "+0.034"
+              ],
+              [
+                "NE rush O vs LAC rush D",
+                "-0.083",
+                "-0.004",
+                "-0.011"
+              ],
+              [
+                "NE 3rd down vs LAC",
+                "-0.080",
+                "-0.064",
+                "-0.097"
+              ],
+              [
+                "NE sacks allowed vs LAC sack rate",
+                "6.8%",
+                "4.9%",
+                "+0.127"
+              ],
+              [
+                "LAC pass O vs NE pass D",
+                "-0.120",
+                "+0.116",
+                "-0.088"
+              ],
+              [
+                "LAC rush O vs NE rush D",
+                "-0.108",
+                "-0.029",
+                "-0.061"
+              ],
+              [
+                "LAC 3rd down vs NE",
+                "-0.089",
+                "+0.029",
+                "-0.013"
+              ],
+              [
+                "LAC sacks allowed vs NE sack rate",
+                "11.0%",
+                "7.6%",
+                "-0.557"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "NE",
+                "Drake Maye (QB)",
+                "Out",
+                "Lower Leg",
+                "DeVito -0.314/db (n=41) vs Maye +0.133 (n=324) = -0.447 (tiny DeVito sample)"
+              ],
+              [
+                "NE",
+                "A.J. Brown (WR)",
+                "Doubtful",
+                "Hamstring",
+                "-0.165/tgt (n=26) vs rest of targets +0.245 = +0.410"
+              ],
+              [
+                "NE",
+                "Romeo Doubs (WR)",
+                "Out (IR)",
+                "Shoulder",
+                "+0.352/tgt (n=24) vs rest of targets +0.195 = -0.156"
+              ],
+              [
+                "NE",
+                "Ben Brown (C)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "NE",
+                "Brenden Schooler (S)",
+                "Questionable",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "NE",
+                "Carlton Davis III (CB)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "LAC",
+                "Justin Herbert (QB)",
+                "Questionable",
+                "Concussion",
+                "Uiagalelei +0.113/db (n=7) vs Herbert -0.159 (n=347) = tiny sample, qualitative"
+              ],
+              [
+                "LAC",
+                "Brenen Thompson (WR)",
+                "Questionable",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "LAC",
+                "Keaton Mitchell (RB)",
+                "Questionable",
+                "Knee",
+                "-0.193/car (n=49) vs other carries -0.087 = +0.106"
+              ],
+              [
+                "LAC",
+                "Kendall Williamson (S)",
+                "Questionable",
+                "Calf",
+                "Qualitative only"
+              ],
+              [
+                "LAC",
+                "Tarheeb Still (CB)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "LAC",
+                "Daiyan Henley (LB)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "WSH",
+      "home": "ARI",
+      "kickoff": "Sun Nov 29 3:25 PM CT",
+      "spread": "WSH -7.5",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "Arizona's pass defense is the worst in the league, and Washington has a quarterback in Jayden Daniels who can exploit it. The Commanders' offense is average, but against this Cardinals secondary that's enough to move the ball. Arizona is down a quarterback (Beck's back is a question, and Josh Johnson played last week), has lost its top receiver and running back, and was beaten 34-7 by Kansas City. The only reasons for caution are Washington's shortened week after Monday night and the travel. The pass and third-down numbers still lean clearly to Washington.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "Arizona's defense is 31st (+0.116) and last against the pass (+0.261), while Washington's offense is average (-0.004) with Jayden Daniels (+0.055/db; 289 yards Monday night). Arizona's offense is -0.052 (#25), with Carson Beck (Q, back) or Josh Johnson at QB, WR Michael Wilson on IR and RB Love on IR. Washington is on a shortened week after Monday night's game and has to travel.",
+        "injuries": "WSH: QB Jayden Daniels ACTIVE / WR1 Stefon Diggs ACTIVE (+0.125/tgt); CB Amik Robertson Q (ankle) · ARI: QB Carson Beck Q (back; Josh Johnson played last week) / WR1 Simi Fehoko ACTIVE (small sample), WR Michael Wilson IR (season); RB Jeremiyah Love IR (ankle), G Gaines Q (ankle), LB Cody Simon Q (calf)",
+        "edges": "Top 3 edges vs season avg: WSH pass +0.205; WSH 3rd down +0.142; ARI 3rd down -0.141. Combined pass+rush gap +0.235 favors WSH; biggest lane 3rd down. WSH P/R/3/Pr +0.205/-0.035/+0.142/+0.076; ARI -0.051/-0.014/-0.141/+0.098. Total 42.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "WSH pass O vs ARI pass D",
+                "+0.028",
+                "+0.261",
+                "+0.205"
+              ],
+              [
+                "WSH rush O vs ARI rush D",
+                "-0.060",
+                "-0.050",
+                "-0.035"
+              ],
+              [
+                "WSH 3rd down vs ARI",
+                "-0.206",
+                "+0.300",
+                "+0.142"
+              ],
+              [
+                "WSH sacks allowed vs ARI sack rate",
+                "6.1%",
+                "6.1%",
+                "+0.076"
+              ],
+              [
+                "ARI pass O vs WSH pass D",
+                "-0.047",
+                "+0.080",
+                "-0.051"
+              ],
+              [
+                "ARI rush O vs WSH rush D",
+                "-0.038",
+                "-0.051",
+                "-0.014"
+              ],
+              [
+                "ARI 3rd down vs WSH",
+                "-0.209",
+                "+0.021",
+                "-0.141"
+              ],
+              [
+                "ARI sacks allowed vs WSH sack rate",
+                "7.0%",
+                "5.0%",
+                "+0.098"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "WSH",
+                "Amik Robertson (CB)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "ARI",
+                "Carson Beck (QB)",
+                "Questionable",
+                "Back",
+                "J. Johnson -0.121/db (n=35) vs Beck -0.668 (n=24) = +0.547 (tiny samples either way)"
+              ],
+              [
+                "ARI",
+                "Jeremiyah Love (RB)",
+                "Out (IR)",
+                "Ankle",
+                "-0.088/car (n=76) vs other carries -0.016 = +0.073"
+              ],
+              [
+                "ARI",
+                "Jon Gaines II (G)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "ARI",
+                "Cody Simon (LB)",
+                "Questionable",
+                "Calf",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "SEA",
+      "home": "SF",
+      "kickoff": "Sun Nov 29 3:25 PM CT",
+      "spread": "SF -3",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": true,
+      "summary": "San Francisco has the league's best offense and a quarterback playing at an elite level, and it just beat Minnesota 35-10. Seattle's strength is a top-five pass defense, and Jaxon Smith-Njigba is the most productive receiver on that side, but the Seahawks' run game ranks near the bottom and their offensive line is thin (Nelson doubtful, Cross and Lucas questionable). If Darnold can't go, Drew Lock has been more efficient than Darnold, which narrows the gap. San Francisco's loss of McKivitz at right tackle is the one real structural concern. The matchup still leans San Francisco by one of the bigger margins this week.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "San Francisco's offense is the league's best (+0.209/play; pass +0.333, Purdy +0.336/db), with 4.3% sacks allowed. Seattle's offense is bottom-three on the ground (-0.132) and Drew Lock (+0.320/db, n=102) has been more efficient than Darnold (Q), so QB health matters. SF's own risks: RT McKivitz is out (fractured ankle), and Seattle's pass defense is fourth-best (-0.079).",
+        "injuries": "SEA: QB Sam Darnold Q (quad/ribs; practiced Monday; Lock +0.320/db fallback) / WR1 Jaxon Smith-Njigba ACTIVE (+0.555/tgt); RB Holani IR (MCL), G Quenton Nelson DOUBTFUL (knee), OT Charles Cross Q (ankle), OT Abraham Lucas Q (ankle), DT Leonard Williams Q (shoulder) · SF: QB Brock Purdy ACTIVE / WR1 Mike Evans (no injury designation; +0.893/tgt, n=47); OT Colton McKivitz OUT (ankle), CB Lenoir Q (foot), LB Greenlaw Q (neck), DE Kareem Q (ankle)",
+        "edges": "Top 3 edges vs season avg: SEA 3rd down +0.288; SEA protection +0.225; SF pass +0.170. Combined pass+rush gap -0.397 favors SF; biggest lane Pass. SEA P/R/3/Pr -0.037/-0.141/+0.288/+0.225; SF +0.170/+0.049/-0.006/+0.114. Total 46.5. $: SF -3. Second-largest combined gap on the slate (+0.397) for a game priced at a field goal. Purdy is +0.336/db with the #1 pass offense (+0.333), and Seattle's rush offense is -0.132 (#30). Risk: RT McKivitz is out, Seattle's pass defense is top-five, and a Lock start (+0.320/db) would narrow it.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "SEA pass O vs SF pass D",
+                "+0.044",
+                "+0.003",
+                "-0.037"
+              ],
+              [
+                "SEA rush O vs SF rush D",
+                "-0.132",
+                "-0.085",
+                "-0.141"
+              ],
+              [
+                "SEA 3rd down vs SF",
+                "+0.102",
+                "+0.139",
+                "+0.288"
+              ],
+              [
+                "SEA sacks allowed vs SF sack rate",
+                "6.5%",
+                "4.3%",
+                "+0.225"
+              ],
+              [
+                "SF pass O vs SEA pass D",
+                "+0.333",
+                "-0.079",
+                "+0.170"
+              ],
+              [
+                "SF rush O vs SEA rush D",
+                "+0.050",
+                "-0.077",
+                "+0.049"
+              ],
+              [
+                "SF 3rd down vs SEA",
+                "+0.221",
+                "-0.274",
+                "-0.006"
+              ],
+              [
+                "SF sacks allowed vs SEA sack rate",
+                "4.3%",
+                "7.5%",
+                "+0.114"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "SEA",
+                "Sam Darnold (QB)",
+                "Questionable",
+                "Quadriceps",
+                "Lock +0.320/db (n=102) vs Darnold -0.024 (n=237) = +0.344 (upgrade if Darnold sits)"
+              ],
+              [
+                "SEA",
+                "George Holani (RB)",
+                "Out (IR)",
+                "Knee - MCL",
+                "-0.258/car (n=37) vs other carries -0.112 = +0.146"
+              ],
+              [
+                "SEA",
+                "Quenton Nelson (G)",
+                "Doubtful",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "SEA",
+                "Charles Cross (OT)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "SEA",
+                "Abraham Lucas (OT)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "SEA",
+                "Leonard Williams (DT)",
+                "Questionable",
+                "Shoulder",
+                "Qualitative only"
+              ],
+              [
+                "SF",
+                "Colton McKivitz (OT)",
+                "Out",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "SF",
+                "Khalid Kareem (DE)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "SF",
+                "Dre Greenlaw (LB)",
+                "Questionable",
+                "Neck",
+                "Qualitative only"
+              ],
+              [
+                "SF",
+                "Deommodore Lenoir (CB)",
+                "Questionable",
+                "Foot",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "LV",
+      "home": "CLE",
+      "kickoff": "Sun Nov 29 7:20 PM CT",
+      "spread": "CLE -4.5",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "Neither team is efficient on offense, so this is a game of who gives it away less. Cleveland's offense is below average and its line allows a lot of sacks, but Las Vegas' defense is one of the league's worst against both pass and run and doesn't rush the passer well enough to take advantage. Mendoza has produced some big games as a rookie, but his season numbers are below average, and the Raiders' offense will depend on whether Brock Bowers is healthy. The Browns have the better defense and a small structural edge, but it's close.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "Cleveland's offense is inefficient (-0.051/play; run -0.135, #31) and its line allows 10.5% sacks, but Las Vegas' defense is 29th (+0.096; pass D +0.163, rush D +0.013) and has little pass rush (6.1%). The key lane is the Browns' protection (-0.368), which a middling Raiders front may not exploit. Mendoza (rookie) is below average so far (-0.091/db), and Bowers is questionable.",
+        "injuries": "LV: QB Fernando Mendoza ACTIVE (18-of-37, 267, 3 TD last week) / WR1 Tre Tucker ACTIVE (2 of 10 targets last week); TE Brock Bowers Q (ankle; +0.468/tgt), WR Dareke Young Q (neck), DTs Butler and Keenan hurt in Week 11 · CLE: QB Deshaun Watson ACTIVE / WR1 Denzel Boston ACTIVE (+0.116/tgt); S Ronnie Hickman Q (concussion)",
+        "edges": "Top 3 edges vs season avg: CLE protection -0.368; LV 3rd down +0.156; CLE 3rd down +0.108. Combined pass+rush gap -0.162 favors CLE; biggest lane Pass. LV P/R/3/Pr -0.057/-0.078/+0.156/+0.067; CLE +0.073/-0.046/+0.108/-0.368. Total 41.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "LV pass O vs CLE pass D",
+                "+0.034",
+                "-0.007",
+                "-0.057"
+              ],
+              [
+                "LV rush O vs CLE rush D",
+                "-0.132",
+                "-0.022",
+                "-0.078"
+              ],
+              [
+                "LV 3rd down vs CLE",
+                "+0.203",
+                "-0.094",
+                "+0.156"
+              ],
+              [
+                "LV sacks allowed vs CLE sack rate",
+                "5.2%",
+                "7.1%",
+                "+0.067"
+              ],
+              [
+                "CLE pass O vs LV pass D",
+                "-0.006",
+                "+0.163",
+                "+0.073"
+              ],
+              [
+                "CLE rush O vs LV rush D",
+                "-0.135",
+                "+0.013",
+                "-0.046"
+              ],
+              [
+                "CLE 3rd down vs LV",
+                "-0.080",
+                "+0.141",
+                "+0.108"
+              ],
+              [
+                "CLE sacks allowed vs LV sack rate",
+                "10.5%",
+                "6.1%",
+                "-0.368"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "LV",
+                "Dareke Young (WR)",
+                "Questionable",
+                "Neck",
+                "Qualitative only"
+              ],
+              [
+                "LV",
+                "Brock Bowers (TE)",
+                "Questionable",
+                "Ankle",
+                "+0.468/tgt (n=72) vs rest of targets +0.086 = -0.382"
+              ],
+              [
+                "LV",
+                "Tonka Hemingway (DT)",
+                "Questionable",
+                "Upper Body",
+                "Qualitative only"
+              ],
+              [
+                "LV",
+                "JJ Pegues (DT)",
+                "Questionable",
+                "Forearm",
+                "Qualitative only"
+              ],
+              [
+                "LV",
+                "Tim Keenan III (DT)",
+                "Questionable",
+                "Knee",
+                "Qualitative only"
+              ],
+              [
+                "LV",
+                "Adam Butler (DT)",
+                "Questionable",
+                "Concussion",
+                "Qualitative only"
+              ],
+              [
+                "CLE",
+                "Ronnie Hickman (S)",
+                "Questionable",
+                "Concussion",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "away": "CAR",
+      "home": "TB",
+      "kickoff": "Mon Nov 30 7:15 PM CT",
+      "spread": "TB -3",
+      "pick": null,
+      "why": null,
+      "type": "BASE",
+      "money_flag": false,
+      "summary": "This is the most even game on the slate. Tampa Bay has the best pass defense in the league, but its offense has been poor, and a line that allows nine percent sacks is a problem against any pass rush. Carolina has the stronger offense on paper, with Bryce Young and Tetairoa McMillan playing well, but the Panthers don't get to the quarterback much and their third-down offense is poor against this kind of defense. Tampa Bay's secondary is banged up (Winfield, Morrison and Parrish all questionable), which could swing it. It's a game that comes down to a few plays.",
+      "final_score": null,
+      "picker": {
+        "winner": null,
+        "ats": null,
+        "why": null
+      },
+      "details": {
+        "scheme": "The closest game on the board (TB +0.022 combined). Tampa Bay's pass defense is the league's best (-0.093) but its offense is 26th, with Mayfield at -0.137/db blended and a line allowing 9.3% sacks. Carolina's offense is above average (+0.034, #10), but its third-down offense is -0.363 against Tampa's defense, and its pass rush is 4.4%, the lowest on the board.",
+        "injuries": "CAR: QB Bryce Young ACTIVE (22-of-30, 254, 2 TD last week) / WR1 Tetairoa McMillan ACTIVE (+0.232/tgt); RB Jonathon Brooks IR (groin), LB Bobby Okereke Q (foot) · TB: QB Baker Mayfield ACTIVE (foot/thumb, played last week) / WR1 Emeka Egbuka ACTIVE (-0.180/tgt); S Antoine Winfield Jr. Q (ankle), DT Simmons Q (concussion), CB Morrison Q (hamstring, MRI), CB Parrish Q (back, MRI)",
+        "edges": "Top 3 edges vs season avg: CAR 3rd down -0.363; TB pass -0.127; CAR pass -0.125. Combined pass+rush gap -0.022 favors TB; biggest lane 3rd down. CAR P/R/3/Pr -0.125/+0.021/-0.363/+0.034; TB -0.127/+0.045/-0.052/-0.063. Total 43.5.",
+        "sources": [
+          "nflverse play_by_play_2026 (Weeks 1–11, through MNF Nov 23)",
+          "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 24, 2026 AM CT)",
+          "ESPN injuries API + team depth charts (Tue Nov 24 AM CT)",
+          "Cross-check: bet365 via FOX Sports (Nov 23), BetMGM via azcentral (Nov 24), SportsJaw consensus (Nov 24), Covers (Nov 24)",
+          "CBS Sports odds page (free)",
+          "PFF / Next Gen position grades: not freely available (UNKNOWN)"
+        ],
+        "tables": {
+          "matchup": {
+            "columns": [
+              "Matchup",
+              "Offense",
+              "Defense allowed",
+              "Edge vs avg"
+            ],
+            "rows": [
+              [
+                "CAR pass O vs TB pass D",
+                "+0.052",
+                "-0.093",
+                "-0.125"
+              ],
+              [
+                "CAR rush O vs TB rush D",
+                "+0.004",
+                "-0.059",
+                "+0.021"
+              ],
+              [
+                "CAR 3rd down vs TB",
+                "-0.164",
+                "-0.245",
+                "-0.363"
+              ],
+              [
+                "CAR sacks allowed vs TB sack rate",
+                "7.7%",
+                "4.9%",
+                "+0.034"
+              ],
+              [
+                "TB pass O vs CAR pass D",
+                "-0.088",
+                "+0.045",
+                "-0.127"
+              ],
+              [
+                "TB rush O vs CAR rush D",
+                "+0.002",
+                "-0.032",
+                "+0.045"
+              ],
+              [
+                "TB 3rd down vs CAR",
+                "-0.145",
+                "+0.046",
+                "-0.052"
+              ],
+              [
+                "TB sacks allowed vs CAR sack rate",
+                "9.3%",
+                "4.4%",
+                "-0.063"
+              ]
+            ]
+          },
+          "injuries": {
+            "columns": [
+              "Team",
+              "Player",
+              "Status",
+              "Injury",
+              "Replacement drop-off"
+            ],
+            "rows": [
+              [
+                "CAR",
+                "Jonathon Brooks (RB)",
+                "Out (IR)",
+                "Groin",
+                "Qualitative only"
+              ],
+              [
+                "CAR",
+                "Bobby Okereke (LB)",
+                "Questionable",
+                "Foot",
+                "Qualitative only"
+              ],
+              [
+                "TB",
+                "Antoine Winfield Jr. (S)",
+                "Questionable",
+                "Ankle",
+                "Qualitative only"
+              ],
+              [
+                "TB",
+                "Elijah Simmons (DT)",
+                "Questionable",
+                "Concussion",
+                "Qualitative only"
+              ],
+              [
+                "TB",
+                "Benjamin Morrison (CB)",
+                "Questionable",
+                "Hamstring",
+                "Qualitative only"
+              ],
+              [
+                "TB",
+                "Jacob Parrish (CB)",
+                "Questionable",
+                "Back",
+                "Qualitative only"
+              ]
+            ]
+          }
+        }
+      }
     }
-   }
-  },
-  {
-   "away": "MIA",
-   "home": "BUF",
-   "kickoff": "Sun Nov 22 12:00 PM CT",
-   "spread": "BUF -16.5",
-   "pick": "BUF",
-   "why": "MIA starts McCord, and BUF's passing faces a soft MIA pass defense",
-   "type": "BASE",
-   "money_flag": false,
-   "summary": "Buffalo wins and covers -16.5. Allen's passing game (+0.222 EPA) gets a soft Miami pass defense, and the Dolphins are still starting McCord with Willis on IR. That's a big number, but this matchup is lopsided enough to lay it.",
-   "final_score": "MIA 9 - BUF 26",
-   "picker": {
-    "winner": "BUF",
-    "ats": "BUF -16.5",
-    "why": null
-   },
-   "details": {
-    "scheme": "Buffalo's pass offense (+0.208) vs a +0.161/db Miami pass D, with McCord behind a line allowing 9.2% sacks. Buffalo's soft spot is now confirmed: CB Benford OUT, TE Kincaid doubtful.",
-    "injuries": "MIA: QB Kyle McCord starts (Willis IR) / WR1 Malik Washington ACTIVE (no designation); WR Wayne OUT, P Pinion OUT, CB Simpson D, S Trader D, C Brewer Q (concussion) \u00b7 BUF: QB Josh Allen ACTIVE / WR1 DJ Moore ACTIVE; CB Benford OUT (groin), LB D. Williams OUT, TE Kincaid D (thumb/ankle), DT Oliver Q, S Hamlin Q",
-    "edges": "Top 3 edges vs season avg: BUF 3rd down +0.299; BUF pass +0.273; BUF protection +0.210. Combined pass+rush gap -0.560 favors BUF; biggest lane Protection. MIA P/R/3/Pr -0.090/-0.067/-0.055/-0.184; BUF +0.273/+0.130/+0.299/+0.210. Total 45.5. Sun final (Nov 22 ~10 AM CT): line BUF -16.5 (unchanged; DK -16.5, total 44.5); ESPN FPI BUF 94.8%. no $: No QB/WR1 change. Line steady at 16.5. Buffalo's back end is thinner (Benford OUT), which is a backdoor risk at this number, not a reason to flip. Cleared from final report: Chris Bell (WR) (MIA), Andrew Meyer (C) (MIA), Dee Alford (CB) (BUF).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "MIA pass O vs BUF pass D",
-        "-0.018",
-        "+0.024",
-        "-0.090"
-       ],
-       [
-        "MIA rush O vs BUF rush D",
-        "-0.110",
-        "-0.077",
-        "-0.067"
-       ],
-       [
-        "MIA 3rd down vs BUF",
-        "+0.106",
-        "-0.207",
-        "-0.055"
-       ],
-       [
-        "MIA sacks allowed vs BUF sack rate",
-        "9.2%",
-        "5.6%",
-        "-0.184"
-       ],
-       [
-        "BUF pass O vs MIA pass D",
-        "+0.208",
-        "+0.161",
-        "+0.273"
-       ],
-       [
-        "BUF rush O vs MIA rush D",
-        "+0.051",
-        "-0.041",
-        "+0.130"
-       ],
-       [
-        "BUF 3rd down vs MIA",
-        "+0.098",
-        "+0.154",
-        "+0.299"
-       ],
-       [
-        "BUF sacks allowed vs MIA sack rate",
-        "6.0%",
-        "4.8%",
-        "+0.210"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "MIA",
-        "Malik Willis (QB)",
-        "Out (IR)",
-        "Abdomen",
-        "McCord -0.322/db (n=37, one start) vs Willis -0.013 (n=256) = -0.309"
-       ],
-       [
-        "MIA",
-        "Jared Wayne (WR)",
-        "Out",
-        "Quadriceps",
-        "Qualitative only"
-       ],
-       [
-        "MIA",
-        "Aaron Brewer (C)",
-        "Questionable",
-        "Concussion",
-        "Qualitative only"
-       ],
-       [
-        "MIA",
-        "Zeek Biggers (DT)",
-        "Out",
-        "Knee - Meniscus",
-        "Qualitative only"
-       ],
-       [
-        "MIA",
-        "Bradley Pinion (P)",
-        "Out",
-        "Groin",
-        "Qualitative only"
-       ],
-       [
-        "MIA",
-        "Jaylin Simpson (CB)",
-        "Doubtful",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "MIA",
-        "Dante Trader Jr. (S)",
-        "Doubtful",
-        "Shoulder/groin",
-        "Qualitative only"
-       ],
-       [
-        "MIA",
-        "Marcellas Dial Jr. (CB)",
-        "Questionable",
-        "Toe",
-        "Qualitative only"
-       ],
-       [
-        "BUF",
-        "Tyrell Shavers (WR)",
-        "Out",
-        "Knee - ACL",
-        "Qualitative only"
-       ],
-       [
-        "BUF",
-        "Dorian Williams (LB)",
-        "Out",
-        "Calf",
-        "Qualitative only"
-       ],
-       [
-        "BUF",
-        "Christian Benford (CB)",
-        "Out",
-        "Groin",
-        "Qualitative only"
-       ],
-       [
-        "BUF",
-        "Dalton Kincaid (TE)",
-        "Doubtful",
-        "Thumb/ankle",
-        "Qualitative only"
-       ],
-       [
-        "BUF",
-        "Jackson Hawes (TE)",
-        "Questionable",
-        "Shoulder",
-        "Qualitative only"
-       ],
-       [
-        "BUF",
-        "Ed Oliver (DT)",
-        "Questionable",
-        "Oblique",
-        "Qualitative only"
-       ],
-       [
-        "BUF",
-        "T.J. Sanders (DT)",
-        "Questionable",
-        "Shoulder",
-        "Qualitative only"
-       ],
-       [
-        "BUF",
-        "Damar Hamlin (S)",
-        "Questionable",
-        "Toe",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  },
-  {
-   "away": "NO",
-   "home": "CHI",
-   "kickoff": "Sun Nov 22 12:00 PM CT",
-   "spread": "CHI -11.5",
-   "pick": "CHI",
-   "why": "NO's offense is the gap, and CHI is -11.5 at home",
-   "type": "BASE",
-   "money_flag": false,
-   "summary": "Chicago wins and covers -11.5. The Saints can't run the ball (-0.168 rushing), and a one-dimensional offense going into a solid Bears defense is a long afternoon.",
-   "final_score": "NO 13 - CHI 21",
-   "picker": {
-    "winner": "CHI",
-    "ats": "CHI -11.5",
-    "why": null
-   },
-   "details": {
-    "scheme": "Chicago's third-down D (-0.329) vs a Saints line with LT Richards, RT Fuaga and C McCoy all OUT. Three backup linemen against an 8.6% sack rate is the whole lane.",
-    "injuries": "NO: QB Tyler Shough ACTIVE / WR1 Chris Olave ACTIVE; OT Fuaga OUT, OT Richards OUT, C McCoy OUT, CB Emerson OUT (concussion); LB Werner Q \u00b7 CHI: QB Caleb Williams ACTIVE / WR1 Luther Burden III cleared (no designation); RB Monangai cleared; CB Kyler Gordon OUT (shoulder), WR Zavion Thomas Q",
-    "edges": "Top 3 edges vs season avg: NO 3rd down -0.356; CHI 3rd down +0.188; NO protection -0.165. Combined pass+rush gap -0.318 favors CHI; biggest lane 3rd down. NO P/R/3/Pr -0.078/-0.097/-0.356/-0.165; CHI +0.047/+0.096/+0.188/-0.044. Total 49.5. Sun final (Nov 22 ~10 AM CT): line CHI -11.5 (unchanged; total 47.5); ESPN FPI CHI 78.6%. no $: Both Saints doubtful linemen (McCoy, Fuaga) went to OUT, and Burden is cleared. That firms up the CHI side. Line unchanged. Cleared from final report: CJ Donaldson (RB) (NO), Luther Burden III (WR) (CHI), Kyle Monangai (RB) (CHI), Malik Muhammad II (CB) (CHI), Tyrique Stevenson Sr. (CB) (CHI).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)",
-     "Chicago Bears injury update (chicagobears.com, Nov 20)"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "NO pass O vs CHI pass D",
-        "+0.021",
-        "-0.002",
-        "-0.078"
-       ],
-       [
-        "NO rush O vs CHI rush D",
-        "-0.157",
-        "-0.060",
-        "-0.097"
-       ],
-       [
-        "NO 3rd down vs CHI",
-        "-0.074",
-        "-0.329",
-        "-0.356"
-       ],
-       [
-        "NO sacks allowed vs CHI sack rate",
-        "6.0%",
-        "8.6%",
-        "-0.165"
-       ],
-       [
-        "CHI pass O vs NO pass D",
-        "+0.085",
-        "+0.059",
-        "+0.047"
-       ],
-       [
-        "CHI rush O vs NO rush D",
-        "-0.022",
-        "-0.003",
-        "+0.096"
-       ],
-       [
-        "CHI 3rd down vs NO",
-        "+0.149",
-        "-0.008",
-        "+0.188"
-       ],
-       [
-        "CHI sacks allowed vs NO sack rate",
-        "5.6%",
-        "7.7%",
-        "-0.044"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "NO",
-        "Erik McCoy (C)",
-        "Out",
-        "Biceps",
-        "Qualitative only"
-       ],
-       [
-        "NO",
-        "Taliese Fuaga (OT)",
-        "Out",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "NO",
-        "Asim Richards (OT)",
-        "Out",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "NO",
-        "Pete Werner (LB)",
-        "Questionable",
-        "Hamstring",
-        "Qualitative only"
-       ],
-       [
-        "NO",
-        "Martin Emerson Jr. (CB)",
-        "Out",
-        "Concussion",
-        "Qualitative only"
-       ],
-       [
-        "NO",
-        "Decamerion Richardson (CB)",
-        "Questionable",
-        "Thigh",
-        "Qualitative only"
-       ],
-       [
-        "CHI",
-        "Kyler Gordon (CB)",
-        "Out",
-        "Shoulder",
-        "Qualitative only"
-       ],
-       [
-        "CHI",
-        "Zavion Thomas (WR)",
-        "Questionable",
-        "Ankle",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  },
-  {
-   "away": "TEN",
-   "home": "DAL",
-   "kickoff": "Sun Nov 22 12:00 PM CT",
-   "spread": "DAL -7.5",
-   "pick": "DAL",
-   "why": "DAL's passing faces a soft TEN pass defense, and TEN's offense is weak",
-   "type": "BASE",
-   "money_flag": false,
-   "summary": "Dallas wins and covers -7.5, but it's closer than it looked on Saturday. Dak's passing (+0.183) and a line that barely gives up sacks still outclass Tennessee, and the Titans' third-down offense is bottom-eight. The worry is the Dallas secondary: Bland and Jalen Thompson are on IR, and P.J. Locke and Devin Moore are out, while Carnell Tate is expected to play through his shoulder. Expect points both ways in a 54.5-total game; Dallas should still pull away late.",
-   "final_score": "TEN 30 - DAL 51",
-   "picker": {
-    "winner": "DAL",
-    "ats": "DAL -7.5",
-    "why": null
-   },
-   "details": {
-    "scheme": "A shootout setup: both pass Ds are bottom-three. Dallas wins it with Prescott and a line allowing only 3.5% sacks, but its secondary is now very thin (Bland IR, S Thompson IR, S Locke OUT, CB Devin Moore OUT).",
-    "injuries": "TEN: QB Cam Ward ACTIVE / WR1 Carnell Tate Q (shoulder; expected to play per NFL Network); Wan'Dale Robinson cleared; G Carmona OUT; RB Spears listed IR by ESPN \u00b7 DAL: QB Dak Prescott ACTIVE / WR1 CeeDee Lamb ACTIVE; TE Ferguson OUT, G Booker OUT, WR Mingo OUT, CB Bland IR, S J. Thompson IR, S Locke OUT (concussion), CB Devin Moore OUT",
-    "edges": "Top 3 edges vs season avg: DAL protection +0.324; TEN protection +0.257; DAL pass +0.240. Combined pass+rush gap -0.212 favors DAL; biggest lane Pass. TEN P/R/3/Pr +0.036/+0.068/+0.145/+0.257; DAL +0.240/+0.076/+0.206/+0.324. Total 54.5. Sun final (Nov 22 ~10 AM CT): line DAL -7.5 (unchanged; total 54.5); ESPN FPI DAL 80.5%. no $: Tate is expected to play, and Dallas lost two more DBs (Locke, Devin Moore) with Bland and Thompson to IR. The cover at 7.5 is tighter than Saturday, but the line hasn't moved. Cleared from final report: Wan'Dale Robinson (WR) (TEN), Cody Barton (LB) (TEN), Tony Adams (S) (TEN), Juanyeh Thomas (S) (DAL).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)",
-     "NFL.com Week 11 Sunday injuries to monitor (Tate expected to play)"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "TEN pass O vs DAL pass D",
-        "-0.066",
-        "+0.198",
-        "+0.036"
-       ],
-       [
-        "TEN rush O vs DAL rush D",
-        "-0.062",
-        "+0.010",
-        "+0.068"
-       ],
-       [
-        "TEN 3rd down vs DAL",
-        "-0.129",
-        "+0.227",
-        "+0.145"
-       ],
-       [
-        "TEN sacks allowed vs DAL sack rate",
-        "4.3%",
-        "6.0%",
-        "+0.257"
-       ],
-       [
-        "DAL pass O vs TEN pass D",
-        "+0.142",
-        "+0.195",
-        "+0.240"
-       ],
-       [
-        "DAL rush O vs TEN rush D",
-        "+0.017",
-        "-0.060",
-        "+0.076"
-       ],
-       [
-        "DAL 3rd down vs TEN",
-        "+0.036",
-        "+0.123",
-        "+0.206"
-       ],
-       [
-        "DAL sacks allowed vs TEN sack rate",
-        "3.5%",
-        "6.1%",
-        "+0.324"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "TEN",
-        "Carnell Tate (WR)",
-        "Questionable",
-        "Shoulder (expected to play per NFL Network)",
-        "+0.172/tgt (n=51) vs rest of targets -0.039 = -0.211"
-       ],
-       [
-        "TEN",
-        "Anthony Hill Jr. (LB)",
-        "Questionable",
-        "Neck",
-        "Qualitative only"
-       ],
-       [
-        "TEN",
-        "Fernando Carmona (G)",
-        "Out",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "TEN",
-        "Tyjae Spears (RB)",
-        "Out (IR)",
-        "Knee (ESPN lists IR Nov 21; NFL.com final report had Q)",
-        "Qualitative only"
-       ],
-       [
-        "TEN",
-        "Micah Robinson (CB)",
-        "Questionable",
-        "Hip",
-        "Qualitative only"
-       ],
-       [
-        "TEN",
-        "Jaylen Harrell (LB)",
-        "Out (IR)",
-        "Knee - ACL",
-        "Qualitative only"
-       ],
-       [
-        "DAL",
-        "Jonathan Mingo (WR)",
-        "Out",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "DAL",
-        "Jake Ferguson (TE)",
-        "Out",
-        "Knee/ankle",
-        "-0.015/tgt (n=27) vs rest of targets +0.231 = +0.246"
-       ],
-       [
-        "DAL",
-        "Tyler Goodson (RB)",
-        "Out (IR)",
-        "Knee - ACL + MCL",
-        "-0.040/car (n=40) vs other carries +0.028 = +0.069"
-       ],
-       [
-        "DAL",
-        "Tyler Booker (G)",
-        "Out",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "DAL",
-        "P.J. Locke (S)",
-        "Out",
-        "Concussion",
-        "Qualitative only"
-       ],
-       [
-        "DAL",
-        "DaRon Bland (CB)",
-        "Out (IR)",
-        "High ankle sprain",
-        "Qualitative only"
-       ],
-       [
-        "DAL",
-        "Devin Moore (CB)",
-        "Out",
-        "Hip",
-        "Qualitative only"
-       ],
-       [
-        "DAL",
-        "Jalen Thompson (S)",
-        "Out (IR)",
-        "Hamstring",
-        "Qualitative only"
-       ],
-       [
-        "DAL",
-        "Luke Schoonmaker (TE)",
-        "Questionable",
-        "Illness",
-        "Qualitative only"
-       ],
-       [
-        "DAL",
-        "Jaishawn Barham (LB)",
-        "Questionable",
-        "Hip/groin",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  },
-  {
-   "away": "TB",
-   "home": "DET",
-   "kickoff": "Sun Nov 22 12:00 PM CT",
-   "spread": "DET -4.5",
-   "pick": "DET",
-   "why": "DET is a short favorite, but TB's offense is bottom-tier with Mayfield Q",
-   "type": "BASE",
-   "money_flag": true,
-   "summary": "Detroit wins, but Tampa covers +4.5. The Lions are the better team, but Goff's passing runs into a good Bucs pass defense (-0.101), and Detroit is without Hutchinson and its starting center. Mayfield is playing through a foot strain, so Tampa keeps its starter, and the market moved to -3.5 off the 4.5 locked on Saturday. The Bucs' offense is limited and the line gives up sacks, so Detroit should still win, just not by much.",
-   "final_score": "TB 21 - DET 31",
-   "picker": {
-    "winner": "DET",
-    "ats": "TB +4.5",
-    "why": null
-   },
-   "details": {
-    "scheme": "Tampa's run-first offense vs an average Detroit run D, with Mayfield playing on a plantar-fascia strain. Detroit is down Hutchinson (IR) and C Mays (IR); Tampa is down S Winfield (OUT).",
-    "injuries": "TB: QB Baker Mayfield Q but will play (foot plantar fasciitis + right thumb; special orthotic, Jalon Daniels backup) / WR1 Emeka Egbuka ACTIVE; S Winfield Jr. OUT, CB Hayes IR, LB Diaby Q (upgraded from D) \u00b7 DET: QB Jared Goff ACTIVE / WR1 Amon-Ra St. Brown ACTIVE; DE Hutchinson IR, C Mays IR; S Kerby Joseph cleared; CB Reed Q, RB Vaki Q",
-    "edges": "Top 3 edges vs season avg: TB protection -0.450; DET 3rd down -0.327; TB 3rd down -0.174. Combined pass+rush gap -0.088 favors DET; biggest lane Protection. TB P/R/3/Pr -0.145/+0.023/-0.174/-0.450; DET -0.035/+0.001/-0.327/+0.152. Total 45.5. $: TB +7 (line moved from 6.5). Smallest combined gap on the slate (DET +0.088), FPI has Detroit by only 3.0, and Detroit's season pass-rush numbers include Hutchinson (torn ACL, out). Jalon Daniels (-0.087/db with TB) has been more efficient than Mayfield (-0.203), so a Mayfield scratch isn't an EPA downgrade. Risk: Tampa's pass offense is bottom-three and its line allows 9.2% sacks. Sun final (Nov 22 ~10 AM CT): line DET -3.5 (lock -4.5; moved a full point toward TB; total 48.5); ESPN FPI DET 61.1%. $ KEPT: Mayfield is playing, which was the condition on this flag. The market moved to DET -3.5, so the locked +4.5 already beat the close; at +3.5 the edge is thinner but still on the right side of 3. Risk: Mayfield's foot limits his movement behind a line allowing 9.2% sacks. Cleared from final report: Kerby Joseph (S) (DET).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)",
-     "NFL.com / NFL Network (Rapoport/Garafolo): Mayfield will play (Nov 22)",
-     "ESPN: Mayfield has plantar fasciitis, will play (Nov 22)",
-     "RotoWire Mayfield update (Nov 22)"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "TB pass O vs DET pass D",
-        "-0.154",
-        "+0.105",
-        "-0.145"
-       ],
-       [
-        "TB rush O vs DET rush D",
-        "+0.000",
-        "-0.097",
-        "+0.023"
-       ],
-       [
-        "TB 3rd down vs DET",
-        "-0.180",
-        "-0.042",
-        "-0.174"
-       ],
-       [
-        "TB sacks allowed vs DET sack rate",
-        "9.2%",
-        "8.2%",
-        "-0.450"
-       ],
-       [
-        "DET pass O vs TB pass D",
-        "+0.183",
-        "-0.122",
-        "-0.035"
-       ],
-       [
-        "DET rush O vs TB rush D",
-        "+0.006",
-        "-0.125",
-        "+0.001"
-       ],
-       [
-        "DET 3rd down vs TB",
-        "-0.082",
-        "-0.293",
-        "-0.327"
-       ],
-       [
-        "DET sacks allowed vs TB sack rate",
-        "6.3%",
-        "5.1%",
-        "+0.152"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "TB",
-        "Baker Mayfield (QB)",
-        "Questionable",
-        "Foot (plantar fasciitis)/right thumb; will play per NFL Network/ESPN",
-        "Jalon Daniels -0.087/db (n=123 with TB) vs Mayfield -0.203 (n=170) = +0.116 if Daniels starts (no EPA downgrade)"
-       ],
-       [
-        "TB",
-        "Jalen McMillan (WR)",
-        "Out (IR)",
-        "Knee - PCL",
-        "Qualitative only"
-       ],
-       [
-        "TB",
-        "Yaya Diaby (LB)",
-        "Questionable",
-        "Knee - MCL",
-        "Qualitative only"
-       ],
-       [
-        "TB",
-        "Antoine Winfield Jr. (S)",
-        "Out",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "TB",
-        "Josh Hayes (CB)",
-        "Out (IR)",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "DET",
-        "Cade Mays (C)",
-        "Out (IR)",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "DET",
-        "D.J. Reed (CB)",
-        "Questionable",
-        "Hip",
-        "Qualitative only"
-       ],
-       [
-        "DET",
-        "Aidan Hutchinson (DE)",
-        "Out",
-        "Knee - ACL",
-        "Qualitative only"
-       ],
-       [
-        "DET",
-        "Sione Vaki (RB)",
-        "Questionable",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "DET",
-        "Tyler Lacy (DL)",
-        "Questionable",
-        "Shoulder",
-        "Qualitative only"
-       ],
-       [
-        "DET",
-        "Joe Bachie (LB)",
-        "Questionable",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "DET",
-        "Khalil Dorsey (CB)",
-        "Questionable",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "DET",
-        "Ennis Rakestraw Jr. (CB)",
-        "Questionable",
-        "Shoulder",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  },
-  {
-   "away": "ARI",
-   "home": "KC",
-   "kickoff": "Sun Nov 22 12:00 PM CT",
-   "spread": "KC -16.5",
-   "pick": "KC",
-   "why": "KC's offense faces the league's softest pass defense",
-   "type": "BASE",
-   "money_flag": false,
-   "summary": "Kansas City wins and covers -16.5. Mahomes gets the softest pass defense in the league (+0.273), and Arizona is down to 40-year-old Josh Johnson, its fourth starter in four weeks, after Carson Beck was ruled out with back spasms. The Chiefs are missing Trey Smith and Jaylon Moore on the line plus Kenneth Walker in the backfield, and the market dipped to -15.5. But Arizona's offense is the worst on third down, and an emergency quarterback doesn't fix that.",
-   "final_score": "ARI 7 - KC 34",
-   "picker": {
-    "winner": "KC",
-    "ats": "KC -16.5",
-    "why": null
-   },
-   "details": {
-    "scheme": "Mahomes vs the league's worst pass D (+0.242/db) and third-down D (+0.282). Arizona starts 40-year-old Josh Johnson, its fourth starting QB in four weeks. Kansas City's offense is shorthanded up front: G Trey Smith and OT Jaylon Moore are OUT, and RB Walker is OUT.",
-    "injuries": "ARI: QB Carson Beck OUT (back spasms, downgraded Sat) \u2192 Josh Johnson starts (40; 2-9 career starter, signed Nov 10; rookie Joey Aguilar backup); Minshew IR / WR1 Michael Wilson OUT for season \u2192 Fehoko/McBride; G Gaines OUT \u00b7 KC: QB Patrick Mahomes ACTIVE / WR1 Rashee Rice ACTIVE; RB Kenneth Walker III OUT (groin), G Trey Smith OUT (concussion), OT Jaylon Moore OUT (ankle)",
-    "edges": "Top 3 edges vs season avg: KC 3rd down +0.496; KC pass +0.309; ARI 3rd down -0.286. Combined pass+rush gap -0.671 favors KC; biggest lane 3rd down. ARI P/R/3/Pr -0.191/-0.060/-0.286/+0.125; KC +0.309/+0.111/+0.496/+0.268. Total 41.5. Update Thu: line down to KC -15.5. Sun final (Nov 22 ~10 AM CT): line KC -15.5 (lock -16.5; moved a point toward ARI despite the QB downgrade; total 40.5); ESPN FPI KC 88.5%. no $: The QB change is a downgrade in name, but Beck was -0.671/db in his one start, so Johnson (no 2026 sample; EPA UNKNOWN) may not be worse. The market moved toward ARI, likely on KC's two OL outs and Walker. Not adding a flag: the number is huge, and ARI has a backdoor path. Cleared from final report: Jayden Williams (OT) (ARI), Hjalte Froholdt (C) (ARI), Jaydn Ott (RB) (KC).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "CBS Sports: Week 11 early odds (KC opened -14)",
-     "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)",
-     "azcardinals.com: Josh Johnson start confirmed (Nov 21)",
-     "ESPN (Weinfuss): Cardinals downgrade Beck, Johnson to start (Nov 21)",
-     "AP via KY3: Johnson to start (Nov 22)"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "ARI pass O vs KC pass D",
-        "-0.040",
-        "-0.054",
-        "-0.191"
-       ],
-       [
-        "ARI rush O vs KC rush D",
-        "-0.056",
-        "-0.125",
-        "-0.060"
-       ],
-       [
-        "ARI 3rd down vs KC",
-        "-0.251",
-        "-0.082",
-        "-0.286"
-       ],
-       [
-        "ARI sacks allowed vs KC sack rate",
-        "6.8%",
-        "4.8%",
-        "+0.125"
-       ],
-       [
-        "KC pass O vs ARI pass D",
-        "+0.164",
-        "+0.242",
-        "+0.309"
-       ],
-       [
-        "KC rush O vs ARI rush D",
-        "+0.066",
-        "-0.075",
-        "+0.111"
-       ],
-       [
-        "KC 3rd down vs ARI",
-        "+0.167",
-        "+0.282",
-        "+0.496"
-       ],
-       [
-        "KC sacks allowed vs ARI sack rate",
-        "3.7%",
-        "6.6%",
-        "+0.268"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "ARI",
-        "Gardner Minshew II (QB)",
-        "Out (IR)",
-        "Elbow",
-        "Beck -0.671/db (n=24, one start) vs Minshew +0.148 (n=54) = -0.819 (tiny Beck sample)"
-       ],
-       [
-        "ARI",
-        "Jon Gaines II (G)",
-        "Out",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "ARI",
-        "Jordan Burch (LB)",
-        "Out",
-        "Knee - MCL",
-        "Qualitative only"
-       ],
-       [
-        "ARI",
-        "Andrew Wingard (S)",
-        "Out",
-        "Wrist",
-        "Qualitative only"
-       ],
-       [
-        "ARI",
-        "Michael Wilson (WR)",
-        "Out (IR)",
-        "Neck fracture (season)",
-        "+0.024/tgt (n=88) \u2014 WR1 role to Fehoko/McBride, qualitative"
-       ],
-       [
-        "ARI",
-        "Carson Beck (QB)",
-        "Out",
-        "Back spasms (downgraded Sat)",
-        "Qualitative only"
-       ],
-       [
-        "ARI",
-        "Zach Carter (DT)",
-        "Out (IR)",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "KC",
-        "Jared Wiley (TE)",
-        "Out",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "KC",
-        "Kenneth Walker III (RB)",
-        "Out",
-        "Groin",
-        "+0.075/car (n=159) vs other carries +0.041 = -0.034"
-       ],
-       [
-        "KC",
-        "Jaylon Moore (OT)",
-        "Out",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "KC",
-        "Trey Smith (G)",
-        "Out",
-        "Concussion",
-        "Qualitative only"
-       ],
-       [
-        "KC",
-        "Peter Woods (DT)",
-        "Questionable",
-        "Neck",
-        "Qualitative only"
-       ],
-       [
-        "KC",
-        "Omarr Norman-Lott (DT)",
-        "Questionable",
-        "Knee",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  },
-  {
-   "away": "PIT",
-   "home": "PHI",
-   "kickoff": "Sun Nov 22 12:00 PM CT",
-   "spread": "PIT -3.5",
-   "pick": "PIT",
-   "why": "PHI's offense is the gap with Milton starting",
-   "type": "BASE",
-   "money_flag": false,
-   "summary": "Pittsburgh wins on the road and covers -3.5. The Steelers' run game (+0.081) should push Philly's front around, and the Eagles' offense with Milton (-0.080) still has few answers, even with DeVonta Smith back. Losing Nick Herbig takes some bite off the Pittsburgh pass rush, but Philadelphia's line still has a rookie at right tackle, and the Eagles are without Zack Baun in the middle. In a 37.5-total game, a field goal and a hook is enough.",
-   "final_score": "PIT 16 - PHI 19",
-   "picker": {
-    "winner": "PIT",
-    "ats": "PIT -3.5",
-    "why": null
-   },
-   "details": {
-    "scheme": "Pittsburgh's run game (+0.097/play) and pass rush vs an Eagles line allowing 8.5% sacks with rookie Markel Bell at RT. The rush is thinner: Herbig OUT. Philly gets DeVonta Smith back but loses LB Baun (IR).",
-    "injuries": "PIT: QB Aaron Rodgers ACTIVE / WR1 DK Metcalf ACTIVE; OLB Herbig OUT (downgraded Sat), WR Pittman stays on IR (not activated), WR Roman Wilson activated (Q), G McCormick IR; Watt, Heyward, Ramsey full practice \u00b7 PHI: QB Joe Milton starts (Hurts IR) / WR1 DeVonta Smith ACTIVE (hamstring; full Thu-Fri, cleared); WR Wicks IR, LB Baun IR, LB Mondon D; RB Shipley activated (Q); RT Lane Johnson retired Oct 6",
-    "edges": "Top 3 edges vs season avg: PHI protection -0.301; PIT rush +0.227; PHI 3rd down -0.183. Combined pass+rush gap +0.418 favors PIT; biggest lane Protection. PIT P/R/3/Pr -0.039/+0.227/+0.108/+0.075; PHI -0.103/-0.127/-0.183/-0.301. Total 38.5. Sun final (Nov 22 ~10 AM CT): line PIT -3.5 (unchanged; total 37.5); ESPN FPI PIT 63.5%. no $: DeVonta Smith returns for Milton, and Pittsburgh loses Herbig off the edge. Both trim the PIT edge a little. Line steady at 3.5 with a 37.5 total. Cleared from final report: DeVonta Smith (WR) (PHI), Britain Covey (WR) (PHI), Jonathan Jones (CB) (PHI), Jihaad Campbell (LB) (PHI).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)",
-     "steelers.com Week 11 injury report (Herbig downgraded Nov 21)",
-     "philadelphiaeagles.com Steelers vs. Eagles injury report (Nov 20)",
-     "ESPN: Steelers activate Roman Wilson from IR (Nov 21)",
-     "NFL.com: Lane Johnson retirement (Oct)"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "PIT pass O vs PHI pass D",
-        "-0.073",
-        "+0.130",
-        "-0.039"
-       ],
-       [
-        "PIT rush O vs PHI rush D",
-        "+0.097",
-        "+0.009",
-        "+0.227"
-       ],
-       [
-        "PIT 3rd down vs PHI",
-        "-0.103",
-        "+0.163",
-        "+0.108"
-       ],
-       [
-        "PIT sacks allowed vs PHI sack rate",
-        "7.4%",
-        "4.8%",
-        "+0.075"
-       ],
-       [
-        "PHI pass O vs PIT pass D",
-        "-0.050",
-        "+0.044",
-        "-0.103"
-       ],
-       [
-        "PHI rush O vs PIT rush D",
-        "-0.127",
-        "-0.120",
-        "-0.127"
-       ],
-       [
-        "PHI 3rd down vs PIT",
-        "-0.066",
-        "-0.165",
-        "-0.183"
-       ],
-       [
-        "PHI sacks allowed vs PIT sack rate",
-        "8.5%",
-        "7.5%",
-        "-0.301"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "PIT",
-        "Michael Pittman Jr. (WR)",
-        "Out (IR)",
-        "Foot (not activated)",
-        "Qualitative only"
-       ],
-       [
-        "PIT",
-        "Roman Wilson (WR)",
-        "Questionable",
-        "Hand (activated from IR Sat)",
-        "+0.232/tgt (n=25) vs rest of targets +0.066 = -0.166"
-       ],
-       [
-        "PIT",
-        "Mason McCormick (G)",
-        "Out (IR)",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "PIT",
-        "DeShon Elliott (S)",
-        "Questionable",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "PIT",
-        "Nick Herbig (LB)",
-        "Out",
-        "Hip/ribs (downgraded Sat)",
-        "Qualitative only"
-       ],
-       [
-        "PIT",
-        "Gennings Dunker (G)",
-        "Questionable",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "PIT",
-        "Patrick Queen (LB)",
-        "Questionable",
-        "Hand",
-        "Qualitative only"
-       ],
-       [
-        "PHI",
-        "Dontayvion Wicks (WR)",
-        "Out (IR)",
-        "Ankle/foot",
-        "+0.440/tgt (n=32) vs rest of targets -0.040 = -0.480"
-       ],
-       [
-        "PHI",
-        "Will Shipley (RB)",
-        "Questionable",
-        "Foot/illness (activated from IR)",
-        "-0.235/car (n=20) vs other carries -0.114 = +0.122"
-       ],
-       [
-        "PHI",
-        "Jalen Hurts (QB)",
-        "Out (IR)",
-        "Calf / blood clots (season)",
-        "Milton -0.238/db (n=46) vs Hurts -0.008 (n=179) = -0.230"
-       ],
-       [
-        "PHI",
-        "Lane Johnson (OT)",
-        "Out",
-        "Retired Oct 6 (not an injury); rookie Markel Bell at RT",
-        "Qualitative only"
-       ],
-       [
-        "PHI",
-        "Zack Baun (LB)",
-        "Out (IR)",
-        "Back",
-        "Qualitative only"
-       ],
-       [
-        "PHI",
-        "Smael Mondon Jr. (LB)",
-        "Doubtful",
-        "Ankle",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  },
-  {
-   "away": "BAL",
-   "home": "CAR",
-   "kickoff": "Sun Nov 22 12:00 PM CT",
-   "spread": "CAR -3",
-   "pick": "CAR",
-   "why": "Scheme numbers call it a coin flip, and BAL has lost five straight with Brissett",
-   "type": "BASE",
-   "money_flag": false,
-   "summary": "Carolina wins and covers -3. The scheme numbers still say coin flip, but Baltimore has lost five straight, Brissett lost as a home favorite last week, and the Ravens are now without Marlon Humphrey, Jaylinn Hawkins and Nnamdi Madubuike on defense. Bryce Young at home against a short-handed Baltimore defense is the safer side, and the market's drift to 2.5 makes a field-goal win enough.",
-   "final_score": "BAL 33 - CAR 35",
-   "picker": {
-    "winner": "CAR",
-    "ats": "CAR -3",
-    "why": null
-   },
-   "details": {
-    "scheme": "Close on every lane. Brissett (-0.161/db Weeks 8-10) vs a bottom-three Carolina pass rush; Carolina leans on Hubbard. Baltimore's secondary is thin: CB Humphrey (personal) and S Hawkins OUT, plus DT Madubuike OUT.",
-    "injuries": "BAL: QB Jacoby Brissett starts (Lamar Jackson IR) / WR1 Zay Flowers ACTIVE; CB Humphrey OUT (personal), S Hawkins OUT (knee), DT Madubuike OUT (hamstring) \u00b7 CAR: QB Bryce Young ACTIVE / WR1 Tetairoa McMillan ACTIVE; LB Okereke OUT, G Christensen IR, S Simmons IR; TE Waller Q, TE Tremble Q",
-    "edges": "Top 3 edges vs season avg: BAL protection +0.127; CAR 3rd down -0.079; CAR rush +0.055. Combined pass+rush gap -0.109 favors CAR; biggest lane Rush. BAL P/R/3/Pr -0.030/-0.001/+0.026/+0.127; CAR +0.023/+0.055/-0.079/-0.003. Total 43.5. Sun final (Nov 22 ~10 AM CT): line CAR -2.5 (lock -3; moved a half point toward BAL; total 44.5); ESPN FPI CAR 69.0%. no $: Baltimore lost three defensive starters (Humphrey, Hawkins, Madubuike). Carolina at -2.5 now covers with any win by 3 or more. Line moved a half point the wrong way vs the lock, but a field-goal win still covers. Cleared from final report: Olaivavega Ioane (G) (BAL), Will Lee III (CB) (CAR).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)",
-     "baltimoreravens.com game preview (Humphrey deactivated)"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "BAL pass O vs CAR pass D",
-        "+0.012",
-        "+0.054",
-        "-0.030"
-       ],
-       [
-        "BAL rush O vs CAR rush D",
-        "-0.055",
-        "-0.065",
-        "-0.001"
-       ],
-       [
-        "BAL 3rd down vs CAR",
-        "-0.068",
-        "+0.047",
-        "+0.026"
-       ],
-       [
-        "BAL sacks allowed vs CAR sack rate",
-        "7.4%",
-        "4.3%",
-        "+0.127"
-       ],
-       [
-        "CAR pass O vs BAL pass D",
-        "+0.054",
-        "+0.066",
-        "+0.023"
-       ],
-       [
-        "CAR rush O vs BAL rush D",
-        "-0.018",
-        "-0.047",
-        "+0.055"
-       ],
-       [
-        "CAR 3rd down vs BAL",
-        "-0.164",
-        "+0.038",
-        "-0.079"
-       ],
-       [
-        "CAR sacks allowed vs BAL sack rate",
-        "7.6%",
-        "5.3%",
-        "-0.003"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "BAL",
-        "Lamar Jackson (QB)",
-        "Out (IR)",
-        "Thumb",
-        "Brissett -0.043/db (n=381, ARI+BAL; -0.161 over Weeks 8-10) vs Jackson +0.322 (n=112) = -0.365"
-       ],
-       [
-        "BAL",
-        "Adam Randall (RB)",
-        "Out (IR)",
-        "Neck",
-        "Qualitative only"
-       ],
-       [
-        "BAL",
-        "Jaylinn Hawkins (S)",
-        "Out",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "BAL",
-        "Nnamdi Madubuike (DT)",
-        "Out",
-        "Hamstring",
-        "Qualitative only"
-       ],
-       [
-        "BAL",
-        "Marlon Humphrey (CB)",
-        "Out",
-        "Personal",
-        "Qualitative only"
-       ],
-       [
-        "CAR",
-        "Jonathon Brooks (RB)",
-        "Out (IR)",
-        "Groin",
-        "Qualitative only"
-       ],
-       [
-        "CAR",
-        "Bobby Okereke (LB)",
-        "Out",
-        "Foot",
-        "Qualitative only"
-       ],
-       [
-        "CAR",
-        "Brady Christensen (G)",
-        "Out (IR)",
-        "Hamstring",
-        "Qualitative only"
-       ],
-       [
-        "CAR",
-        "Isaiah Simmons (S)",
-        "Out (IR)",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "CAR",
-        "Tommy Tremble (TE)",
-        "Questionable",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "CAR",
-        "Darren Waller (TE)",
-        "Questionable",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "CAR",
-        "Mike Jackson (CB)",
-        "Questionable",
-        "Groin",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  },
-  {
-   "away": "NYJ",
-   "home": "LAC",
-   "kickoff": "Sun Nov 22 3:05 PM CT",
-   "spread": "LAC -3",
-   "pick": "LAC",
-   "why": "The NYJ lean is thin and only one item, and Week 10 showed LAC's run game can carry it",
-   "type": "BASE",
-   "money_flag": false,
-   "summary": "New York wins outright. Geno Smith is cleared and starting, and the Chargers still have the league's worst offense (-0.159) behind a line that gives up sacks on 10% of dropbacks. Losing Omar Cooper Jr. stings the Jets' passing game, and McConkey is expected to play for Los Angeles, but a short home favorite with this offense is the one to fade. Take the points; the upset is worth a swing.",
-   "final_score": "NYJ 27 - LAC 24",
-   "picker": {
-    "winner": "NYJ",
-    "ats": "NYJ +3",
-    "why": null
-   },
-   "details": {
-    "scheme": "The Chargers' league-worst offense (-0.176/play) behind a line allowing 10.2% sacks vs a 6.9% Jets rush. That -0.420 protection lane holds, and Geno Smith is cleared, so the Jets keep their +0.055/db passer.",
-    "injuries": "NYJ: QB Geno Smith ACTIVE (no designation; full practice Fri) / WR1 Garrett Wilson ACTIVE; WR Cooper Jr. OUT, WR I. Williams OUT, DT Onyemata IR; G Parham, DT Phillips, DE Ossai, LB Wallace Q \u00b7 LAC: QB Justin Herbert ACTIVE / WR1 Ladd McConkey Q (back; expected to play per NFL Network); WR B. Thompson D, LB Henley OUT, S Williamson OUT, CB Shelley IR; TE Kolar Q, OT Pipkins Q",
-    "edges": "Top 3 edges vs season avg: LAC protection -0.420; NYJ 3rd down -0.201; LAC pass -0.119. Combined pass+rush gap +0.197 favors NYJ; biggest lane Protection. NYJ P/R/3/Pr -0.010/-0.005/-0.201/-0.088; LAC -0.119/-0.093/-0.078/-0.420. Total 40.5. Line now LAC -3 (FPI 3): $ removed; Geno limited, start not confirmed. Prior note: NYJ +3.5. The data favors the road team (+0.197 combined): the Chargers have the league's worst offense (-0.176 EPA/play) and the second-widest single lane on the slate (LAC protection -0.420; 10.2% sacks allowed). FPI has LAC by only 3. Conditional: only a $ if Geno Smith starts. Klubnik (-0.183/db, n=26) would erase most of the edge. Sun final (Nov 22 ~10 AM CT): line LAC -3 (unchanged, juiced to -115/-120 at most books; total 42.5); ESPN FPI LAC 63.4%. no $: The condition on the outright call is met: Geno starts. Cooper Jr. (+0.722/tgt) is OUT, which hurts. McConkey is expected to play. Line steady at 3 with heavier juice on LAC. Cleared from final report: Geno Smith (QB) (NYJ), Jarvis Brownlee Jr. (CB) (NYJ), Justin Eboigbe (DT) (LAC).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "ESPN: Jets QB Geno Smith avoided major ankle injury (Nov 16-17)",
-     "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)",
-     "ESPN (Cimini): Geno Smith cleared to start (Nov 20)",
-     "newyorkjets.com Jets notebook (Nov 21)",
-     "NFL.com Week 11 Sunday injuries to monitor (McConkey expected to play)"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "NYJ pass O vs LAC pass D",
-        "+0.038",
-        "+0.049",
-        "-0.010"
-       ],
-       [
-        "NYJ rush O vs LAC rush D",
-        "-0.082",
-        "-0.043",
-        "-0.005"
-       ],
-       [
-        "NYJ 3rd down vs LAC",
-        "-0.130",
-        "-0.118",
-        "-0.201"
-       ],
-       [
-        "NYJ sacks allowed vs LAC sack rate",
-        "8.9%",
-        "4.9%",
-        "-0.088"
-       ],
-       [
-        "LAC pass O vs NYJ pass D",
-        "-0.175",
-        "+0.153",
-        "-0.119"
-       ],
-       [
-        "LAC rush O vs NYJ rush D",
-        "-0.176",
-        "-0.037",
-        "-0.093"
-       ],
-       [
-        "LAC 3rd down vs NYJ",
-        "-0.150",
-        "+0.025",
-        "-0.078"
-       ],
-       [
-        "LAC sacks allowed vs NYJ sack rate",
-        "10.2%",
-        "6.9%",
-        "-0.420"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "NYJ",
-        "Omar Cooper Jr. (WR)",
-        "Out",
-        "Ankle/hip",
-        "+0.722/tgt (n=24) vs rest of targets +0.171 = -0.551"
-       ],
-       [
-        "NYJ",
-        "Dylan Parham (G)",
-        "Questionable",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "NYJ",
-        "Trevin Wallace (LB)",
-        "Questionable",
-        "Groin",
-        "Qualitative only"
-       ],
-       [
-        "NYJ",
-        "Isaiah Williams (WR)",
-        "Out",
-        "Ribs",
-        "Qualitative only"
-       ],
-       [
-        "NYJ",
-        "David Onyemata (DT)",
-        "Out (IR)",
-        "Abdomen",
-        "Qualitative only"
-       ],
-       [
-        "NYJ",
-        "Joseph Ossai (DE)",
-        "Questionable",
-        "Foot/ankle",
-        "Qualitative only"
-       ],
-       [
-        "NYJ",
-        "Harrison Phillips (DT)",
-        "Questionable",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "LAC",
-        "Ladd McConkey (WR)",
-        "Questionable",
-        "Back (expected to play per NFL Network)",
-        "+0.308/tgt (n=24) vs rest of targets -0.084 = -0.393"
-       ],
-       [
-        "LAC",
-        "Brenen Thompson (WR)",
-        "Doubtful",
-        "Hamstring",
-        "Qualitative only"
-       ],
-       [
-        "LAC",
-        "Kendall Williamson (S)",
-        "Out",
-        "Calf",
-        "Qualitative only"
-       ],
-       [
-        "LAC",
-        "Isas Waxter (CB)",
-        "Questionable",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "LAC",
-        "Rodney Shelley (CB)",
-        "Out (IR)",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "LAC",
-        "Daiyan Henley (LB)",
-        "Out",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "LAC",
-        "Charlie Kolar (TE)",
-        "Questionable",
-        "Concussion",
-        "Qualitative only"
-       ],
-       [
-        "LAC",
-        "Trey Pipkins III (OT)",
-        "Questionable",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "LAC",
-        "Tarheeb Still (CB)",
-        "Questionable",
-        "Ankle",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  },
-  {
-   "away": "LV",
-   "home": "DEN",
-   "kickoff": "Sun Nov 22 3:25 PM CT",
-   "spread": "DEN -10.5",
-   "pick": "DEN",
-   "why": "LV starts the rookie Mendoza, and DEN is -10.5 at home",
-   "type": "BASE",
-   "money_flag": false,
-   "summary": "Denver wins, but Las Vegas covers +10.5. The Broncos' offense (+0.013) is too ordinary to keep winning by double digits, even with Jaylen Waddle back from his concussion, and the Raiders' offense has been near league average with Mendoza still learning. The catch is Brock Bowers: he's questionable with ankle and quad issues, and Las Vegas called up an extra tight end. If he sits, the cover gets much harder.",
-   "final_score": "LV 24 - DEN 38",
-   "picker": {
-    "winner": "DEN",
-    "ats": "LV +10.5",
-    "why": null
-   },
-   "details": {
-    "scheme": "Denver's protection (3.5% sacks allowed) vs Las Vegas' rush and a +0.178/db LV pass D. Denver's third-down offense (-0.224) is where it tightens. Waddle is back for Denver; Bowers (+0.464/tgt) is a game-time call.",
-    "injuries": "LV: QB Fernando Mendoza starts / WR1 Tre Tucker ACTIVE; TE Brock Bowers Q (ankle/quad; TE Carter Runyon elevated); DT Hemingway OUT, K Gay Q \u00b7 DEN: QB Bo Nix ACTIVE / WR1 Jaylen Waddle ACTIVE (cleared concussion protocol, no designation); Hufanga, Moss cleared; S B. Jones Q, TE Lohner OUT",
-    "edges": "Top 3 edges vs season avg: DEN protection +0.284; LV protection +0.166; LV 3rd down +0.138. Combined pass+rush gap -0.276 favors DEN; biggest lane Pass. LV P/R/3/Pr -0.048/-0.075/+0.138/+0.166; DEN +0.107/+0.046/-0.032/+0.284. Total 40.5. Sun final (Nov 22 ~10 AM CT): line DEN -10.5 (unchanged; some books -11; total 40.5); ESPN FPI DEN 86.5%. no $: Waddle, Hufanga and Moss all return for Denver. Bowers is the swing: if he's inactive, the LV +10.5 case loses its best target. Check inactives at 1:55 PM CT. Cleared from final report: Dont'e Thornton Jr. (WR) (LV), Thomas Booker IV (DT) (LV), Kwity Paye (DE) (LV), Jaylen Waddle (WR) (DEN), Talanoa Hufanga (S) (DEN), Kris Abrams-Draine (CB) (DEN), Riley Moss (CB) (DEN).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)",
-     "denverbroncos.com Week 11 injury report (Nov 20)",
-     "raiders.com Raiders-Broncos Week 11 injury report",
-     "USA Today: Brock Bowers injury update (Nov 22)"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "LV pass O vs DEN pass D",
-        "+0.035",
-        "+0.013",
-        "-0.048"
-       ],
-       [
-        "LV rush O vs DEN rush D",
-        "-0.180",
-        "-0.015",
-        "-0.075"
-       ],
-       [
-        "LV 3rd down vs DEN",
-        "+0.211",
-        "-0.119",
-        "+0.138"
-       ],
-       [
-        "LV sacks allowed vs DEN sack rate",
-        "4.5%",
-        "6.8%",
-        "+0.166"
-       ],
-       [
-        "DEN pass O vs LV pass D",
-        "+0.025",
-        "+0.178",
-        "+0.107"
-       ],
-       [
-        "DEN rush O vs LV rush D",
-        "-0.048",
-        "-0.026",
-        "+0.046"
-       ],
-       [
-        "DEN 3rd down vs LV",
-        "-0.224",
-        "+0.145",
-        "-0.032"
-       ],
-       [
-        "DEN sacks allowed vs LV sack rate",
-        "3.5%",
-        "6.5%",
-        "+0.284"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "LV",
-        "Brock Bowers (TE)",
-        "Questionable",
-        "Ankle/quad (TE Carter Runyon elevated)",
-        "+0.464/tgt (n=72) vs rest of targets +0.078 = -0.387"
-       ],
-       [
-        "LV",
-        "Tonka Hemingway (DT)",
-        "Out",
-        "Stinger",
-        "Qualitative only"
-       ],
-       [
-        "LV",
-        "Folorunso Fatukasi (DT)",
-        "Questionable",
-        "Toe",
-        "Qualitative only"
-       ],
-       [
-        "LV",
-        "Matt Gay (K)",
-        "Questionable",
-        "Right hip",
-        "Qualitative only"
-       ],
-       [
-        "DEN",
-        "Brandon Jones (S)",
-        "Questionable",
-        "Hamstring",
-        "Qualitative only"
-       ],
-       [
-        "DEN",
-        "Caleb Lohner (TE)",
-        "Out (IR)",
-        "Foot",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  },
-  {
-   "away": "JAX",
-   "home": "NYG",
-   "kickoff": "Sun Nov 22 3:25 PM CT",
-   "spread": "JAX -6",
-   "pick": "JAX",
-   "why": "NYG's offense is the gap, and JAX's passing is top-tier",
-   "type": "BASE",
-   "money_flag": true,
-   "summary": "Jacksonville wins and covers -6. Lawrence's passing game (+0.251) is one of the best in the league, and the Jaguars' defense (-0.076) should be too much for McCarthy.",
-   "final_score": "JAX 18 - NYG 23",
-   "picker": {
-    "winner": "JAX",
-    "ats": "JAX -6",
-    "why": null
-   },
-   "details": {
-    "scheme": "Lawrence (+0.375/db Weeks 8-10) and a +0.274 pass O vs an average Giants pass D. The Giants' line allows 8.1% sacks against a 5.1% Jax rush. Jacksonville's line gives a little back with C Hainsey OUT.",
-    "injuries": "JAX: QB Trevor Lawrence ACTIVE / WR1 Parker Washington ACTIVE; C Hainsey OUT (knee), DE Striggow OUT (concussion), DE B.J. Green IR; DT Dickerson Q \u00b7 NYG: QB J.J. McCarthy ACTIVE (hip; off final report) / WR1 Malik Nabers ACTIVE (off final report); no Giants on final injury report",
-    "edges": "Top 3 edges vs season avg: JAX protection +0.284; JAX 3rd down +0.225; JAX pass +0.211. Combined pass+rush gap +0.430 favors JAX; biggest lane Protection. JAX P/R/3/Pr +0.211/+0.046/+0.225/+0.284; NYG -0.078/-0.095/-0.085/-0.033. Total 46.5. $: JAX -6. Third-biggest combined gap on the slate (+0.430), and the only big one where the spread is still under a touchdown. Lawrence is +0.375/db over Weeks 8-10, Jacksonville's third-down D (-0.175) meets a Giants line allowing 8.1% sacks, and ESPN FPI has JAX by 8.8. Risk: McCarthy's +0.129/db sample is small and the Giants are 5-3-1. Sun final (Nov 22 ~10 AM CT): line JAX -5.5/-6 (lock -6; split books, ESPN/DK -6; total 45.5); ESPN FPI JAX 81.4%. $ KEPT: Keep. The Giants are fully healthy, McCarthy and Nabers included, but the gap is Jacksonville's pass offense and third-down D, not a Giants injury. Some books moved to -5.5, which is a better number than the locked 6. Losing two edge rushers (Striggow, Green) is the risk. Cleared from final report: Malik Harrison (LB) (NYG), Jason Pinnock (S) (NYG).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)",
-     "giants.com injury report: statuses for Giants vs. Jaguars",
-     "Yahoo Sports: no Giants on final Week 11 injury report"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "JAX pass O vs NYG pass D",
-        "+0.274",
-        "+0.034",
-        "+0.211"
-       ],
-       [
-        "JAX rush O vs NYG rush D",
-        "-0.012",
-        "-0.062",
-        "+0.046"
-       ],
-       [
-        "JAX 3rd down vs NYG",
-        "+0.208",
-        "-0.030",
-        "+0.225"
-       ],
-       [
-        "JAX sacks allowed vs NYG sack rate",
-        "4.9%",
-        "5.2%",
-        "+0.284"
-       ],
-       [
-        "NYG pass O vs JAX pass D",
-        "+0.084",
-        "-0.065",
-        "-0.078"
-       ],
-       [
-        "NYG rush O vs JAX rush D",
-        "-0.080",
-        "-0.136",
-        "-0.095"
-       ],
-       [
-        "NYG 3rd down vs JAX",
-        "+0.043",
-        "-0.175",
-        "-0.085"
-       ],
-       [
-        "NYG sacks allowed vs JAX sack rate",
-        "8.1%",
-        "5.1%",
-        "-0.033"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "JAX",
-        "Robert Hainsey (C)",
-        "Out",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "JAX",
-        "Danny Striggow (DE)",
-        "Out",
-        "Concussion",
-        "Qualitative only"
-       ],
-       [
-        "JAX",
-        "B.J. Green II (DE)",
-        "Out (IR)",
-        "Forearm",
-        "Qualitative only"
-       ],
-       [
-        "JAX",
-        "Matt Dickerson (DT)",
-        "Questionable",
-        "Neck",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  },
-  {
-   "away": "MIN",
-   "home": "SF",
-   "kickoff": "Sun Nov 22 7:20 PM CT",
-   "spread": "SF -3",
-   "pick": "SF",
-   "why": "The only MIN item is Cousins on the road, and there's no scheme lean, so it's one item",
-   "type": "BASE",
-   "money_flag": false,
-   "summary": "Minnesota wins outright, the boldest call on the board. San Francisco has the best passing offense in the league (+0.298), and Mike Evans is expected back from his Achilles, but he hasn't played in a month and is likely on a pitch count against an elite Vikings pass rush. That rush is the same one that sank Green Bay last week. Cousins has Hockenson and Jennings cleared, the game is in Mexico City, so the Niners don't get a home crowd, and the line drifting to 3.5 adds a hook for the cover. The worry is still Minnesota's offense with Addison out.",
-   "final_score": "MIN 10 - SF 35",
-   "picker": {
-    "winner": "MIN",
-    "ats": "MIN +3",
-    "why": null
-   },
-   "details": {
-    "scheme": "Neutral site, Mexico City. Purdy and the league's best offense (+0.195/play) vs Minnesota's 12.0% sack rate. Mike Evans is expected back, which gives Purdy his third-down and red-zone target vs the Vikings' top-five third-down D.",
-    "injuries": "MIN: QB Kirk Cousins starts (Murray OUT, hamstring) / WR1 Justin Jefferson ACTIVE; WR Addison OUT; TE Hockenson, WR Jennings, LB Cashman cleared; CB I. Rodgers Q, S Ward Q \u00b7 SF: QB Brock Purdy ACTIVE / WR1 Mike Evans Q (Achilles tendinitis; expected to play per NFL Network, likely limited snaps); backup QB Mac Jones Q (illness); LB Greenlaw Q, CB Hobbs Q",
-    "edges": "Top 3 edges vs season avg: SF protection -0.348; MIN rush -0.163; SF pass +0.075. Combined pass+rush gap -0.336 favors SF; biggest lane Rush. MIN P/R/3/Pr -0.043/-0.163/+0.037/-0.022; SF +0.075/+0.055/+0.049/-0.348. Total 46.5. Sun final (Nov 22 ~10 AM CT): line SF -3.5 (lock -3; moved a half point toward SF; total 46.5); ESPN FPI SF 63.0%. no $: Evans is expected back, which pushes against the MIN outright call. The market moved to SF -3.5, so MIN +3.5 now gets the hook. Hockenson and Jennings are cleared for Minnesota. Not a flag: Evans could be on a snap count. Cleared from final report: Jauan Jennings (WR) (MIN), T.J. Hockenson (TE) (MIN), Tyrion Ingram-Dawkins (DE) (MIN), Blake Cashman (LB) (MIN), Renardo Green (CB) (SF).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "CBS Sports + NFL.com Week 11 injury reports (Wed Nov 18 practice, DraftKings odds)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)",
-     "NFL.com (Garafolo): Evans expected to play (Nov 21)",
-     "49ers.com practice report (Nov 20)",
-     "vikings.com final injury report Week 11"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "MIN pass O vs SF pass D",
-        "+0.016",
-        "+0.037",
-        "-0.043"
-       ],
-       [
-        "MIN rush O vs SF rush D",
-        "-0.167",
-        "-0.116",
-        "-0.163"
-       ],
-       [
-        "MIN 3rd down vs SF",
-        "-0.108",
-        "+0.098",
-        "+0.037"
-       ],
-       [
-        "MIN sacks allowed vs SF sack rate",
-        "8.6%",
-        "4.5%",
-        "-0.022"
-       ],
-       [
-        "SF pass O vs MIN pass D",
-        "+0.316",
-        "-0.145",
-        "+0.075"
-       ],
-       [
-        "SF rush O vs MIN rush D",
-        "+0.040",
-        "-0.105",
-        "+0.055"
-       ],
-       [
-        "SF 3rd down vs MIN",
-        "+0.243",
-        "-0.241",
-        "+0.049"
-       ],
-       [
-        "SF sacks allowed vs MIN sack rate",
-        "4.4%",
-        "12.0%",
-        "-0.348"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "MIN",
-        "Kyler Murray (QB)",
-        "Out",
-        "Hamstring",
-        "Cousins +0.105/db (n=369, LV+MIN) vs Murray -0.031 (n=185) = +0.136 (upgrade)"
-       ],
-       [
-        "MIN",
-        "Jordan Addison (WR)",
-        "Out",
-        "Thumb",
-        "-0.110/tgt (n=37) vs rest of targets +0.087 = +0.197"
-       ],
-       [
-        "MIN",
-        "Isaiah Rodgers (CB)",
-        "Questionable",
-        "Quadriceps",
-        "Qualitative only"
-       ],
-       [
-        "MIN",
-        "Jay Ward (S)",
-        "Questionable",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "SF",
-        "Mike Evans (WR)",
-        "Questionable",
-        "Achilles tendinitis (expected to play per NFL Network)",
-        "+0.873/tgt (n=40) vs rest of targets +0.288 = -0.585"
-       ],
-       [
-        "SF",
-        "Mac Jones (QB)",
-        "Questionable",
-        "Illness (backup)",
-        "Qualitative only"
-       ],
-       [
-        "SF",
-        "Jordan James (RB)",
-        "Questionable",
-        "Calf",
-        "Qualitative only"
-       ],
-       [
-        "SF",
-        "CJ West (DT)",
-        "Questionable",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "SF",
-        "Khalid Kareem (DE)",
-        "Questionable",
-        "Ankle",
-        "Qualitative only"
-       ],
-       [
-        "SF",
-        "Luke Gifford (LB)",
-        "Questionable",
-        "Chest",
-        "Qualitative only"
-       ],
-       [
-        "SF",
-        "Dre Greenlaw (LB)",
-        "Questionable",
-        "Neck",
-        "Qualitative only"
-       ],
-       [
-        "SF",
-        "Nate Hobbs (CB)",
-        "Questionable",
-        "Adductor/groin",
-        "Qualitative only"
-       ],
-       [
-        "SF",
-        "Upton Stout (CB)",
-        "Questionable",
-        "Shoulder/neck",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  },
-  {
-   "away": "CIN",
-   "home": "WSH",
-   "kickoff": "Mon Nov 23 7:15 PM CT",
-   "spread": "CIN -6",
-   "pick": "CIN",
-   "why": "CIN's offense (+0.165) is far ahead of WSH's",
-   "type": "BASE",
-   "money_flag": false,
-   "summary": "Cincinnati wins and covers -6. Burrow's offense (+0.165) against a middling Washington defense should be enough to pull away on Monday night.",
-   "final_score": "CIN 20 - WSH 22",
-   "picker": {
-    "winner": "CIN",
-    "ats": "CIN -6",
-    "why": null
-   },
-   "details": {
-    "scheme": "Burrow (+0.414/db Weeks 8-10) with Chase and Higgins vs a below-average WSH pass D and a 4.8% rush. Washington's counter is Cincinnati's bad third-down D (+0.180). LT Tunsil (IR) is a hit to Daniels' protection.",
-    "injuries": "CIN: QB Joe Burrow ACTIVE / WR1 Ja'Marr Chase ACTIVE; G Risner OUT, LB Burks OUT, WR Iosivas D (IR-R), CB J. Davis D; CB Dax Hill Q (illness), S Dugger Q \u00b7 WSH: QB Jayden Daniels ACTIVE / WR1 Stefon Diggs ACTIVE; OT Laremy Tunsil IR (triceps surgery); RB Croskey-Merritt Q (IR-R), RB White Q, G Patrick Q, CB Robertson Q",
-    "edges": "Top 3 edges vs season avg: CIN protection +0.370; CIN 3rd down +0.348; CIN pass +0.242. Combined pass+rush gap +0.307 favors CIN; biggest lane Protection. CIN P/R/3/Pr +0.242/+0.025/+0.348/+0.370; WSH -0.041/+0.001/+0.065/-0.041. Total 52.5. Sun final (Nov 22 ~10 AM CT): line CIN -6 (unchanged at DK; books 5.5-6.5; total 54.5); ESPN FPI CIN 76.0%. no $: Monday night game; statuses are from the Saturday report. Washington lost LT Tunsil (IR), and Cincinnati is without G Risner. The CIN side holds at -6. Cleared from final report: Myles Hinton (OT) (CIN), Colson Yankoff (TE) (WSH).",
-    "sources": [
-     "nflverse play_by_play_2026 (Weeks 1\u201310, through MNF Nov 16)",
-     "ESPN scoreboard + DraftKings odds via ESPN (Tue Nov 17, 2026 AM CT)",
-     "ESPN injuries API + team depth charts (Tue Nov 17 AM CT)",
-     "ESPN Week 11 odds/FPI article (Nov 16)",
-     "eDraft consensus odds (Nov 17 AM)",
-     "CBS Sports Week 11 early odds (cross-check)",
-     "NFL.com Week 11 injury report, all 13 games (final designations, Nov 20-21)",
-     "ESPN game summaries + injuries API, DraftKings odds via ESPN (Sun Nov 22, 2026 ~10 AM CT)",
-     "VegasInsider consensus odds (Sun Nov 22 ~10 AM CT)",
-     "ESPN FPI matchup predictor (Sun Nov 22)",
-     "ESPN injuries API (Tunsil IR, Nov 21)"
-    ],
-    "tables": {
-     "matchup": {
-      "columns": [
-       "Matchup",
-       "Offense",
-       "Defense allowed",
-       "Edge vs avg"
-      ],
-      "rows": [
-       [
-        "CIN pass O vs WSH pass D",
-        "+0.265",
-        "+0.073",
-        "+0.242"
-       ],
-       [
-        "CIN rush O vs WSH rush D",
-        "-0.057",
-        "-0.038",
-        "+0.025"
-       ],
-       [
-        "CIN 3rd down vs WSH",
-        "+0.254",
-        "+0.048",
-        "+0.348"
-       ],
-       [
-        "CIN sacks allowed vs WSH sack rate",
-        "4.4%",
-        "4.8%",
-        "+0.370"
-       ],
-       [
-        "WSH pass O vs CIN pass D",
-        "+0.034",
-        "+0.021",
-        "-0.041"
-       ],
-       [
-        "WSH rush O vs CIN rush D",
-        "-0.092",
-        "-0.027",
-        "+0.001"
-       ],
-       [
-        "WSH 3rd down vs CIN",
-        "-0.161",
-        "+0.180",
-        "+0.065"
-       ],
-       [
-        "WSH sacks allowed vs CIN sack rate",
-        "5.9%",
-        "7.4%",
-        "-0.041"
-       ]
-      ]
-     },
-     "injuries": {
-      "columns": [
-       "Team",
-       "Player",
-       "Status",
-       "Injury",
-       "Replacement drop-off"
-      ],
-      "rows": [
-       [
-        "CIN",
-        "Andrei Iosivas (WR)",
-        "Doubtful",
-        "Thumb (IR-designated to return)",
-        "Qualitative only"
-       ],
-       [
-        "CIN",
-        "Dalton Risner (G)",
-        "Out",
-        "Knees",
-        "Qualitative only"
-       ],
-       [
-        "CIN",
-        "Kyle Dugger (S)",
-        "Questionable",
-        "Quadriceps",
-        "Qualitative only"
-       ],
-       [
-        "CIN",
-        "Oren Burks (LB)",
-        "Out",
-        "Groin",
-        "Qualitative only"
-       ],
-       [
-        "CIN",
-        "Jalen Davis (CB)",
-        "Doubtful",
-        "Hamstring",
-        "Qualitative only"
-       ],
-       [
-        "CIN",
-        "Dylan Fairchild (G)",
-        "Questionable",
-        "Oblique",
-        "Qualitative only"
-       ],
-       [
-        "CIN",
-        "Brian Parker II (G)",
-        "Questionable",
-        "Knee",
-        "Qualitative only"
-       ],
-       [
-        "CIN",
-        "Swayze Bozeman (LB)",
-        "Questionable",
-        "Undisclosed",
-        "Qualitative only"
-       ],
-       [
-        "CIN",
-        "Dax Hill (CB)",
-        "Questionable",
-        "Illness",
-        "Qualitative only"
-       ],
-       [
-        "WSH",
-        "Jacory Croskey-Merritt (RB)",
-        "Questionable",
-        "Groin (IR-designated to return)",
-        "-0.081/car (n=67) vs other carries -0.098 = -0.017"
-       ],
-       [
-        "WSH",
-        "Lucas Patrick (G)",
-        "Questionable",
-        "Concussion",
-        "Qualitative only"
-       ],
-       [
-        "WSH",
-        "Laremy Tunsil (OT)",
-        "Out (IR)",
-        "Triceps surgery",
-        "Qualitative only"
-       ],
-       [
-        "WSH",
-        "Rachaad White (RB)",
-        "Questionable",
-        "Heel",
-        "Qualitative only"
-       ],
-       [
-        "WSH",
-        "Amik Robertson (CB)",
-        "Questionable",
-        "Ankle",
-        "Qualitative only"
-       ]
-      ]
-     }
-    }
-   }
-  }
- ],
- "status": "Week 11 final vs Saturday lock (12 BASE, 0 UPSET; TNF IND at HOU ungraded): 8-4 SU, 4-8 ATS (Pool SU, Picker ATS). MNF 0-1 SU, 0-1 ATS (WSH 22, CIN 20). ATS hits: BUF -16.5, DAL -7.5, KC -16.5, NYJ +3. ATS misses: CHI -11.5, TB +4.5, PIT -3.5, CAR -3, LV +10.5, JAX -6, MIN +3, CIN -6. $: TB +4.5 miss; JAX -6 miss.",
- "byes": [
-  "ATL",
-  "CLE",
-  "GB",
-  "LAR",
-  "NE",
-  "SEA"
- ]
+  ],
+  "status": "Week 12 Tuesday mismatch preview (pre-lock; pick/why null until the card is set). Week 11 final (MNF CIN 20, WSH 22).",
+  "byes": []
 }
